@@ -13,6 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+      
       - name: Modify labels.json using Python script
         run: |
           python scrape.py
