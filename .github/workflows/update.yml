@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'  # Specify your Python version here
+        python-version: '3.7'
 
     - name: Install dependencies
       run: |
@@ -24,4 +24,4 @@ jobs:
 
     - name: Execute Python script
       run: |
-        python scrape.py  # Replace with the correct command to run your Python script
+        python scrape.py
