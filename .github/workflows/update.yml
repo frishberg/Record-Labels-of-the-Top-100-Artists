@@ -2,7 +2,7 @@ name: Daily Update Workflow
 
 on:
   schedule:
-    - cron: '28 20 * * *'  # Schedule at 3:28 PM Eastern Standard Time (UTC-5)
+    - cron: '30 19 * * *'
 
 jobs:
   modify_labels:
