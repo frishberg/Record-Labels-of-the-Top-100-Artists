@@ -77,7 +77,7 @@ def main() :
     
     #write JSON to file
     with open("labels.json", "w") as outfile :
-        json.dump(data, outfile)
+        json.dump(data, outfile, indent=4)
     #write JSON to file
 
 main()
