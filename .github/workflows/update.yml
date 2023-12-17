@@ -2,7 +2,7 @@ name: Daily Update Workflow
 
 on:
   schedule:
-    - cron: '30 19 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   modify_labels:
