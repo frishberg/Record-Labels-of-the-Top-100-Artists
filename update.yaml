@@ -1,0 +1,4 @@
+schedule:
+  - description: "Run scrape.py daily"
+    cron: "0 0 * * *"
+    command: "python scrape.py"
