@@ -1,4 +1,0 @@
-schedule:
-  - description: "Run scrape.py every minute"
-    cron: "* * * * *"  # Schedule to run every minute
-    command: "python /path/to/your/scrape.py"  # Replace with the correct path to your scrip

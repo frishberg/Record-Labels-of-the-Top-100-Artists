@@ -1,4 +1,4 @@
-name: Daily Scrape Workflow
+name: Daily Update Workflow
 
 on:
   push:
