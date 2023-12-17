@@ -1,4 +1,27 @@
-schedule:
-  - description: "Run scrape.py every minute"
-    cron: "* * * * *"  # Schedule to run every minute
-    command: "python /path/to/your/scrape.py"  # Replace with the correct path to your script
+name: Daily Scrape Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  scrape_job:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Specify your Python version here
+
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4
+
+    - name: Execute Python script
+      run: |
+        python scrape.py  # Replace with the correct command to run your Python script
