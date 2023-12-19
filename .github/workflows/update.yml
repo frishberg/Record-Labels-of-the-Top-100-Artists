@@ -1,8 +1,6 @@
 name: Daily Update Workflow
 
-on:
-  schedule:
-  - cron: push
+on: push
 
 jobs:
   modify_labels:
