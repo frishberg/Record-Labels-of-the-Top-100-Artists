@@ -18,6 +18,12 @@ def clean_label(label) : #fixing formatting issues, like citiations, and removin
     if ("[" in label) :
         label = label[:label.index("[")]
     label = label.replace("\xa0", " ").strip()
+    if ("Warner" in label) :
+        label = "Warner Bros"
+    if ("Columbia" in label) :
+        label = "Columbia"
+    if ("RCA" in label) :
+        label = "RCA"
     return label
 
 
@@ -79,5 +85,13 @@ def main() :
     with open("labels.json", "w") as outfile :
         json.dump(data, outfile, indent=4)
     #write JSON to file
+        
+    #write to labels.js
+    f = open("labels.js", "w")
+    f.write("var data = ")
+    f.write(json.dumps(data))
+    f.write(";")
+    f.close()
+    #write to labels.js
 
 main()
