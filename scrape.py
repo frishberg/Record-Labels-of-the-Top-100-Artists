@@ -87,10 +87,10 @@ def main() :
     #write JSON to file
         
     #write to labels.js
-    cur_date = time.strftime("%m/%d")
+    from datetime import datetime; import pytz; cur_date = (datetime.now(pytz.timezone('US/Eastern')).strftime('%m/%d')) #get current date in EST
     f = open("labels.js", "w")
     f.write("var data = ")
-    f.write(json.dumps(data))
+    f.write(json.dumps(data, indent=4))
     f.write(";")
     f.write("var lastUpdated = " + "\"" + cur_date + "\";")
     f.close()
