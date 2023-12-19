@@ -87,7 +87,7 @@ def main() :
     #write JSON to file
         
     #write to labels.js
-    from datetime import datetime; import pytz; cur_date = (datetime.now(pytz.timezone('US/Eastern')).strftime('%m/%d')) #get current date in EST
+    cur_date = time.strftime("%m/%d")
     f = open("labels.js", "w")
     f.write("var data = ")
     f.write(json.dumps(data, indent=4))
