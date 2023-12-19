@@ -1,30 +1,16 @@
-name: Daily Update Workflow
-
-on:
+name: Experiment
+on: 
   schedule:
-  - cron: '* * * * *'
+  - cron: '*/5 * * * *'
 
 jobs:
-  modify_labels:
+  job1:
+    name: Debug
     runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      
-      - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4
-      
-      - name: Modify labels.json using Python script
-        run: |
-          python scrape.py
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "AronFrish"
-          git config --global user.email "frishberg@uchicago.edu"
-          
-          git add labels.json
-          git commit -m "daily update of labels.json"
-          git push
+    steps:
+    - name: Git checkout
+      uses: actions/checkout@v2
+      with: { ref: debug }
+    - name: List files
+      run: ls
