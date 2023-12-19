@@ -24,5 +24,6 @@ jobs:
           git config --global user.email "frishberg@uchicago.edu"
           
           git add labels.json
+          git add labels.js
           git commit -m "daily update of labels.json"
           git push
