@@ -7,7 +7,7 @@
         "KQ",
         "Legacy",
         "RCA",
-        "Nippon Columbia",
+        "Columbia",
         "ko"
     ],
     "Morgan Wallen": [
@@ -23,7 +23,7 @@
         "Cash Money"
     ],
     "Zach Bryan": [
-        "Warner",
+        "Warner Bros",
         "Belting Broncos"
     ],
     "SZA": [
@@ -40,7 +40,7 @@
     "The Philly Specials": [],
     "Luke Combs": [
         "River House Artists",
-        "Columbia Nashville"
+        "Columbia"
     ],
     "Mariah Carey": [
         "Columbia",
@@ -83,13 +83,13 @@
     "Brenda Lee": [
         "Decca",
         "MCA",
-        "Warner Bros.",
+        "Warner Bros",
         "Telstar"
     ],
     "Bing Crosby": [
         "Decca",
         "Columbia",
-        "RCA Victor",
+        "RCA",
         "Brunswick",
         "Reprise",
         "Capitol",
@@ -109,21 +109,21 @@
         "Cactus Jack"
     ],
     "Frank Sinatra": [
-        "RCA Victor",
+        "RCA",
         "Columbia",
         "Capitol",
         "Reprise",
-        "Warner Bros."
+        "Warner Bros"
     ],
     "Vince Guaraldi Trio": [
         "Fantasy",
         "Concord",
         "Craft",
-        "Warner Bros.-Seven Arts",
+        "Warner Bros",
         "Omnivore",
         "D & D",
         "V.A.G. Publishing",
-        "Columbia Masterworks",
+        "Columbia",
         "Kritzerland"
     ],
     "Noah Kahan": [
@@ -132,7 +132,7 @@
         "Mercury"
     ],
     "Dua Lipa": [
-        "Warner",
+        "Warner Bros",
         "Urban"
     ],
     "Burl Ives": [],
@@ -163,7 +163,7 @@
         "MCA",
         "Reprise",
         "United Artists",
-        "Warner"
+        "Warner Bros"
     ],
     "Stray Kids": [
         "JYP",
@@ -174,9 +174,9 @@
         "Goldband",
         "Mercury",
         "Monument",
-        "RCA Victor",
+        "RCA",
         "Columbia",
-        "Warner Bros.",
+        "Warner Bros",
         "Rising Tide",
         "Decca",
         "Sugar Hill",
@@ -203,7 +203,7 @@
     ],
     "Elvis Presley": [
         "Sun",
-        "RCA Victor",
+        "RCA",
         "HMV",
         "Allied Artists Music Group"
     ],
@@ -270,7 +270,7 @@
         "Reprise",
         "Sire",
         "CBS",
-        "Warner Bros.",
+        "Warner Bros",
         "LMJS Productions"
     ],
     "Darlene Love": [
@@ -333,14 +333,14 @@
         "Music World"
     ],
     "Jose Feliciano": [
-        "RCA Victor",
+        "RCA",
         "Anthem"
     ],
     "Metallica": [
         "Megaforce",
         "Elektra",
         "Vertigo",
-        "Warner Bros.",
+        "Warner Bros",
         "Blackened"
     ],
     "The Ronettes": [
@@ -369,7 +369,7 @@
         "Alamo"
     ],
     "Bailey Zimmerman": [
-        "Warner Nashville",
+        "Warner Bros",
         "Elektra"
     ],
     "Peter Gabriel": [
@@ -396,7 +396,7 @@
         "Columbia"
     ],
     "Teddy Swims": [
-        "Warner"
+        "Warner Bros"
     ],
     "Mitski": [
         "Dead Oceans",
@@ -445,7 +445,7 @@
         "300"
     ],
     "Tyler Childers": [
-        "RCA Nashville"
+        "RCA"
     ],
     "Sia": [
         "Dance Pool",
@@ -461,7 +461,7 @@
         "RCA"
     ],
     "Cody Johnson": [
-        "Warner Nashville"
+        "Warner Bros"
     ],
     "Stevie Wonder": [
         "Tamla",
@@ -486,7 +486,7 @@
     "Nate Smith": [
         "Word",
         "Arista Nashville",
-        "RCA Nashville"
+        "RCA"
     ],
     "Amy Grant": [
         "Myrrh",
