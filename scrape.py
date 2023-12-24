@@ -87,8 +87,7 @@ def main() :
     #write JSON to file
         
     #write to labels.js
-    cur_date = time.strftime("%m") + "/" + str(int(time.strftime("%d")) - 1)
-    
+    cur_date = time.strftime("%m/%d")
     f = open("labels.js", "w")
     f.write("var data = ")
     f.write(json.dumps(data, indent=4))
