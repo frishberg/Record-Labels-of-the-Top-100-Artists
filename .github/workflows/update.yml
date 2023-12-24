@@ -18,8 +18,14 @@ jobs:
       - name: Modify labels.json using Python script
         run: |
           python scrape.py
-
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code || echo "Changes found"
+      
       - name: Commit and push changes
+        if: steps.check_changes.outputs.stdout
         run: |
           git config --global user.name "AronFrish"
           git config --global user.email "frishberg@uchicago.edu"
