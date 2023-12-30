@@ -570,4 +570,4 @@ var data = {
         "Arista Nashville",
         "Capitol Nashville"
     ]
-};var lastUpdated = "12/29";
+};var lastUpdated = "12/30";
