@@ -259,7 +259,9 @@ var data = {
     "ENHYPEN": [
         "Belift Lab"
     ],
-    "Xavi": [],
+    "Xavi": [
+        "Interscope"
+    ],
     "Adele": [
         "XL",
         "Columbia",
@@ -522,4 +524,4 @@ var data = {
         "Mega",
         "Gamma."
     ]
-};var lastUpdated = "01/13";
+};var lastUpdated = "01/14";
