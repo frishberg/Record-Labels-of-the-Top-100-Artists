@@ -413,7 +413,6 @@ var data = {
         "Polydor",
         "Fascination",
         "Interscope",
-        "Hollywood",
         "EBGB's"
     ],
     "BigXthaPlug": [
@@ -507,4 +506,4 @@ var data = {
         "Hubbard House",
         "EMI Nashville"
     ]
-};var lastUpdated = "01/24";
+};var lastUpdated = "01/25";
