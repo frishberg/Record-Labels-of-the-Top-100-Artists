@@ -353,12 +353,7 @@ var data = {
         "Island",
         "Columbia"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Creedence Clearwater Revival": [
         "Fantasy"
     ],
@@ -506,4 +501,4 @@ var data = {
         "Hubbard House",
         "EMI Nashville"
     ]
-};var lastUpdated = "01/26";
+};var lastUpdated = "01/27";
