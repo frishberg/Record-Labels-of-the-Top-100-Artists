@@ -374,8 +374,6 @@ var data = {
         "RCA",
         "ByStorm",
         "Jive",
-        "Bungalo",
-        "Universal",
         "Black Ice"
     ],
     "SEVENTEEN": [
@@ -501,4 +499,4 @@ var data = {
         "Hubbard House",
         "EMI Nashville"
     ]
-};var lastUpdated = "01/27";
+};var lastUpdated = "01/28";
