@@ -353,7 +353,12 @@
         "Island",
         "Columbia"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Creedence Clearwater Revival": [
         "Fantasy"
     ],
