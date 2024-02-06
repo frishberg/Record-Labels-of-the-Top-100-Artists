@@ -161,7 +161,6 @@ var data = {
         "Geffen"
     ],
     "Xavi": [
-        "Baga",
         "Interscope"
     ],
     "Future": [
@@ -511,4 +510,4 @@ var data = {
         "Pinky Swear",
         "Hopeless"
     ]
-};var lastUpdated = "02/05";
+};var lastUpdated = "02/06";
