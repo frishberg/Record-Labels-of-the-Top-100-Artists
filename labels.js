@@ -312,7 +312,12 @@ var data = {
         "Hear This Music",
         "Rimas"
     ],
-    "Brent Faiyaz": [],
+    "Brent Faiyaz": [
+        "Lost Kids",
+        "Venice",
+        "Stem",
+        "ISO Supremacy"
+    ],
     "Sabrina Carpenter": [
         "Hollywood",
         "Island"
@@ -502,4 +507,4 @@ var data = {
         "Arista Nashville",
         "Columbia"
     ]
-};var lastUpdated = "02/07";
+};var lastUpdated = "02/08";
