@@ -11,6 +11,7 @@ var data = {
     ],
     "Megan Thee Stallion": [
         "BMG",
+        "Warner Bros",
         "Hot Girl",
         "300",
         "1501 Certified"
@@ -507,4 +508,4 @@ var data = {
         "Arista Nashville",
         "Columbia"
     ]
-};var lastUpdated = "02/08";
+};var lastUpdated = "02/09";
