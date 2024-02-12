@@ -508,4 +508,4 @@ var data = {
         "Arista Nashville",
         "Columbia"
     ]
-};var lastUpdated = "02/11";
+};var lastUpdated = "02/12";
