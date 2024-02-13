@@ -1,5 +1,6 @@
 var data = {
     "Taylor Swift": [
+        "RCA",
         "Republic",
         "Big Machine"
     ],
@@ -508,4 +509,4 @@ var data = {
         "Arista Nashville",
         "Columbia"
     ]
-};var lastUpdated = "02/12";
+};var lastUpdated = "02/13";
