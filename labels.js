@@ -1,8 +1,8 @@
 var data = {
     "Taylor Swift": [
-        "RCA",
         "Republic",
-        "Big Machine"
+        "Big Machine",
+        "RCA"
     ],
     "Toby Keith": [
         "Mercury Nashville",
@@ -521,4 +521,4 @@ var data = {
         "Hubbard House",
         "EMI Nashville"
     ]
-};var lastUpdated = "02/19";
+};var lastUpdated = "02/20";
