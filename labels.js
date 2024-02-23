@@ -1,8 +1,7 @@
 var data = {
     "Taylor Swift": [
         "Republic",
-        "Big Machine",
-        "RCA"
+        "Big Machine"
     ],
     "Usher": [
         "LaFace",
@@ -518,4 +517,4 @@ var data = {
         "Kidinakorner",
         "Interscope"
     ]
-};var lastUpdated = "02/22";
+};var lastUpdated = "02/23";
