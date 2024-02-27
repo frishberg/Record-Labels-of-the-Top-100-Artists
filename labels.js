@@ -455,12 +455,7 @@ var data = {
     "ENHYPEN": [
         "Belift Lab"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Frank Ocean": [
         "Blonded",
         "Def Jam",
@@ -517,4 +512,4 @@ var data = {
         "Kidinakorner",
         "Interscope"
     ]
-};var lastUpdated = "02/26";
+};var lastUpdated = "02/27";
