@@ -435,12 +435,7 @@ var data = {
         "Stem",
         "ISO Supremacy"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Queen": [
         "EMI",
         "Parlophone",
@@ -521,4 +516,4 @@ var data = {
         "Arista Nashville",
         "Columbia"
     ]
-};var lastUpdated = "02/28";
+};var lastUpdated = "02/29";
