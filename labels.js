@@ -430,6 +430,7 @@ var data = {
         "Geffen"
     ],
     "Brent Faiyaz": [
+        "UnitedMasters",
         "Lost Kids",
         "Venice",
         "Stem",
@@ -516,4 +517,4 @@ var data = {
         "Arista Nashville",
         "Columbia"
     ]
-};var lastUpdated = "03/01";
+};var lastUpdated = "03/02";
