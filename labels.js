@@ -391,10 +391,8 @@ var data = {
         "Rimas"
     ],
     "Brent Faiyaz": [
-        "UnitedMasters",
         "Lost Kids",
         "Venice",
-        "Stem",
         "ISO Supremacy"
     ],
     "Karol G": [
@@ -415,12 +413,7 @@ var data = {
         "Zone 4",
         "RCA"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Mick Mars": [],
     "Jason Aldean": [
         "Broken Bow"
@@ -524,4 +517,4 @@ var data = {
         "Atlantic (former)",
         "Atlantic"
     ]
-};var lastUpdated = "03/07";
+};var lastUpdated = "03/08";
