@@ -413,7 +413,12 @@ var data = {
         "Zone 4",
         "RCA"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Mick Mars": [],
     "Jason Aldean": [
         "Broken Bow"
@@ -517,4 +522,4 @@ var data = {
         "Atlantic (former)",
         "Atlantic"
     ]
-};var lastUpdated = "03/10";
+};var lastUpdated = "03/11";

@@ -413,7 +413,12 @@
         "Zone 4",
         "RCA"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Mick Mars": [],
     "Jason Aldean": [
         "Broken Bow"
