@@ -45,7 +45,7 @@ var data = {
         "Belting Broncos"
     ],
     "French Montana": [
-        "gamma.",
+        "Gamma",
         "Epic",
         "Montana",
         "Coke Boys",
@@ -413,12 +413,7 @@ var data = {
         "Zone 4",
         "RCA"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Mick Mars": [],
     "Jason Aldean": [
         "Broken Bow"
@@ -522,4 +517,4 @@ var data = {
         "Atlantic (former)",
         "Atlantic"
     ]
-};var lastUpdated = "03/11";
+};var lastUpdated = "03/12";
