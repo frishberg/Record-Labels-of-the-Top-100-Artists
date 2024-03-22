@@ -109,8 +109,7 @@ var data = {
     ],
     "Billie Eilish": [
         "Darkroom",
-        "Interscope",
-        "Polydor"
+        "Interscope"
     ],
     "xikers": [
         "KQ",
@@ -508,4 +507,4 @@ var data = {
         "Collective",
         "Interscope"
     ]
-};var lastUpdated = "03/21";
+};var lastUpdated = "03/22";
