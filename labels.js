@@ -296,7 +296,12 @@ var data = {
         "Sony",
         "MJJ Productions"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Nate Smith": [
         "Word",
         "Arista Nashville",
@@ -507,4 +512,4 @@ var data = {
         "Collective",
         "Interscope"
     ]
-};var lastUpdated = "03/25";
+};var lastUpdated = "03/26";
