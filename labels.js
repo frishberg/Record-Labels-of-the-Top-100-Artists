@@ -356,7 +356,7 @@ var data = {
         "Interscope"
     ],
     "Sexyy Red": [
-        "Gamma",
+        "gamma.",
         "Open Shift",
         "Jay Rebel"
     ],
@@ -513,4 +513,4 @@ var data = {
         "Jive",
         "Black Ice"
     ]
-};var lastUpdated = "04/01";
+};var lastUpdated = "04/02";
