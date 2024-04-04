@@ -435,7 +435,10 @@ var data = {
     "BossMan Dlow": [
         "Alamo"
     ],
-    "Dasha": [],
+    "Dasha": [
+        "Disruptor",
+        "Warner Bros"
+    ],
     "Gary Clark Jr.": [
         "Hotwire Unlimited",
         "Warner Bros"
@@ -509,4 +512,4 @@ var data = {
         "Show Dog-Universal (formerly of Show Dog Nashville)",
         "Show Dog-Universal"
     ]
-};var lastUpdated = "04/03";
+};var lastUpdated = "04/04";
