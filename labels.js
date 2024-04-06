@@ -30,7 +30,7 @@ var data = {
         "Belting Broncos"
     ],
     "SZA": [
-        "Top Dawg",
+        "TDE",
         "RCA"
     ],
     "Luke Combs": [
@@ -512,4 +512,4 @@ var data = {
         "Show Dog-Universal (formerly of Show Dog Nashville)",
         "Show Dog-Universal"
     ]
-};var lastUpdated = "04/05";
+};var lastUpdated = "04/06";
