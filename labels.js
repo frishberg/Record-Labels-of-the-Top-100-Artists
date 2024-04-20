@@ -429,15 +429,7 @@ var data = {
         "Island",
         "JAD"
     ],
-    "Queen": [
-        "EMI",
-        "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
-    ],
+    "Queen": [],
     "Cardi B": [
         "KSR",
         "Atlantic"
@@ -506,4 +498,4 @@ var data = {
         "Wolfpack",
         "YSL"
     ]
-};var lastUpdated = "04/19";
+};var lastUpdated = "04/20";
