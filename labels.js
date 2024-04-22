@@ -276,8 +276,8 @@ var data = {
         "Polydor",
         "A&M",
         "DreamWorks Nashville",
-        "Show Dog-Universal (formerly of Show Dog Nashville)",
-        "Show Dog-Universal"
+        "Show Dog-Universal Music (formerly Show Dog Nashville)",
+        "Show Dog-Universal Music"
     ],
     "Jordan Davis": [
         "MCA Nashville"
@@ -498,4 +498,4 @@ var data = {
         "Wolfpack",
         "YSL"
     ]
-};var lastUpdated = "04/21";
+};var lastUpdated = "04/22";
