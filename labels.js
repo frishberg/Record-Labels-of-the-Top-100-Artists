@@ -128,7 +128,12 @@ var data = {
         "Warner Bros",
         "Elektra"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Maggie Rogers": [
         "Debay Sounds",
         "Capitol"
@@ -334,10 +339,7 @@ var data = {
         "Republic",
         "Heavy On It"
     ],
-    "Dasha": [
-        "Disruptor",
-        "Warner Bros"
-    ],
+    "Dasha": [],
     "j-hope": [
         "Big Hit"
     ],
@@ -483,4 +485,4 @@ var data = {
         "KSR",
         "Atlantic"
     ]
-};var lastUpdated = "04/26";
+};var lastUpdated = "04/27";
