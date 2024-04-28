@@ -128,12 +128,7 @@
         "Warner Bros",
         "Elektra"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Maggie Rogers": [
         "Debay Sounds",
         "Capitol"
@@ -339,7 +334,10 @@
         "Republic",
         "Heavy On It"
     ],
-    "Dasha": [],
+    "Dasha": [
+        "Disruptor",
+        "Warner Bros"
+    ],
     "j-hope": [
         "Big Hit"
     ],
