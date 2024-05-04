@@ -458,7 +458,7 @@ var data = {
         "Melted Stone"
     ],
     "4Batz": [
-        "OVO"
+        "gamma."
     ],
     "Nirvana": [
         "Sub Pop",
@@ -489,4 +489,4 @@ var data = {
     "Creedence Clearwater Revival": [
         "Fantasy"
     ]
-};var lastUpdated = "05/03";
+};var lastUpdated = "05/04";
