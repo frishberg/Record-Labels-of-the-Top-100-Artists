@@ -61,8 +61,7 @@ var data = {
         "BBR"
     ],
     "Dua Lipa": [
-        "Warner Bros",
-        "Urban"
+        "Warner Bros"
     ],
     "Metro Boomin": [
         "Boominati Worldwide",
@@ -195,9 +194,7 @@ var data = {
         "Atlantic",
         "Elektra"
     ],
-    "Bryson Tiller": [
-        "RCA"
-    ],
+    "Bryson Tiller": [],
     "Tyla": [
         "Fax",
         "Epic"
@@ -342,7 +339,6 @@ var data = {
         "BMG"
     ],
     "Cardi B": [
-        "KSR",
         "Atlantic"
     ],
     "Lil Baby": [
@@ -489,4 +485,4 @@ var data = {
     "Creedence Clearwater Revival": [
         "Fantasy"
     ]
-};var lastUpdated = "05/04";
+};var lastUpdated = "05/05";
