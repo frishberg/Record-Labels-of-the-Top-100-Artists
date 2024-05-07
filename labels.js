@@ -207,7 +207,7 @@ var data = {
         "Open Shift",
         "Jay Rebel"
     ],
-    "BossMan Dlow": [
+    "BossMan DLow": [
         "Alamo"
     ],
     "Cody Johnson": [
@@ -485,4 +485,4 @@ var data = {
     "Creedence Clearwater Revival": [
         "Fantasy"
     ]
-};var lastUpdated = "05/06";
+};var lastUpdated = "05/07";
