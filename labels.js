@@ -335,7 +335,8 @@ var data = {
         "El Cartel de Los \u00c1ngeles",
         "Prajin",
         "Worms",
-        "Double P"
+        "Double P",
+        "Creative Art Agency"
     ],
     "CeCe Winans": [
         "Sparrow",
@@ -486,4 +487,4 @@ var data = {
         "Capitol",
         "Apple"
     ]
-};var lastUpdated = "05/08";
+};var lastUpdated = "05/09";
