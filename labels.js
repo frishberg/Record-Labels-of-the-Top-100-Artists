@@ -119,7 +119,8 @@ var data = {
         "Cactus Jack"
     ],
     "PARTYNEXTDOOR": [
-        "OVO Sound"
+        "OVO Sound",
+        "Warner Bros"
     ],
     "The Weeknd": [
         "XO",
@@ -487,4 +488,4 @@ var data = {
         "Capitol",
         "Apple"
     ]
-};var lastUpdated = "05/12";
+};var lastUpdated = "05/13";
