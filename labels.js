@@ -190,14 +190,7 @@ var data = {
         "Columbia",
         "ByStorm"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -488,4 +481,4 @@ var data = {
         "Capitol",
         "Apple"
     ]
-};var lastUpdated = "05/13";
+};var lastUpdated = "05/14";
