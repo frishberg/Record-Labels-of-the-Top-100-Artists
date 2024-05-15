@@ -3,11 +3,31 @@ var data = {
         "Republic",
         "Big Machine"
     ],
+    "Kendrick Lamar": [
+        "Top Dawg",
+        "Aftermath",
+        "Interscope",
+        "PGLang"
+    ],
+    "Dua Lipa": [
+        "Warner Bros"
+    ],
+    "SEVENTEEN": [
+        "Pledis",
+        "Geffen",
+        "Universal"
+    ],
     "Morgan Wallen": [
         "Panacea",
         "Big Loud",
         "Republic",
         "Mercury"
+    ],
+    "Drake": [
+        "OVO Sound",
+        "Republic",
+        "Young Money",
+        "Cash Money"
     ],
     "SZA": [
         "TDE",
@@ -17,209 +37,24 @@ var data = {
         "River House Artists",
         "Columbia"
     ],
-    "Kendrick Lamar": [
-        "Top Dawg",
-        "Aftermath",
-        "Interscope",
-        "PGLang"
-    ],
     "Zach Bryan": [
         "Warner Bros",
         "Belting Broncos"
-    ],
-    "Drake": [
-        "OVO Sound",
-        "Republic",
-        "Young Money",
-        "Cash Money"
-    ],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
     ],
     "Shaboozey": [
         "Empire",
         "Republic"
     ],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
-    ],
-    "Beyonce": [
-        "Parkwood",
-        "Columbia",
-        "Music World"
-    ],
-    "Noah Kahan": [
-        "Republic",
-        "Universal",
-        "Mercury"
+    "Benson Boone": [
+        "Warner Bros",
+        "Night Street"
     ],
     "Teddy Swims": [
         "Warner Bros"
     ],
-    "Hozier": [
-        "Rubyworks",
-        "Island",
-        "Columbia"
-    ],
-    "Grateful Dead": [
-        "Warner Bros",
-        "Grateful Dead",
-        "Arista",
-        "Rhino",
-        "Sunflower",
-        "United Artists"
-    ],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
-    "Future": [
-        "Freebandz",
-        "Epic",
-        "A1"
-    ],
-    "Ariana Grande": [
-        "Republic"
-    ],
-    "Dua Lipa": [
-        "Warner Bros"
-    ],
-    "Laufey": [
-        "AWAL"
-    ],
-    "Chris Stapleton": [
-        "Mercury Nashville"
-    ],
-    "Tommy Richman": [],
-    "Metro Boomin": [
-        "Boominati Worldwide",
-        "Republic",
-        "Freebandz"
-    ],
-    "Doja Cat": [
-        "Kemosabe",
-        "RCA"
-    ],
-    "Olivia Rodrigo": [
-        "Geffen"
-    ],
-    "Bailey Zimmerman": [
-        "Warner Bros",
-        "Elektra"
-    ],
-    "Travis Scott": [
-        "Grand Hustle",
-        "Epic",
-        "Very GOOD Beats",
-        "Cactus Jack"
-    ],
-    "PARTYNEXTDOOR": [
-        "OVO Sound",
-        "Warner Bros"
-    ],
-    "The Weeknd": [
-        "XO",
-        "Republic"
-    ],
-    "Yung Bleu": [
-        "Vandross",
-        "Interscope",
-        "Epic",
-        "Columbia",
-        "Bad Azz Music Syndicate",
-        "EMPIRE"
-    ],
-    "Bon Jovi": [
-        "Island",
-        "Mercury",
-        "Vertigo"
-    ],
-    "Post Malone": [
-        "Republic",
-        "Mercury"
-    ],
-    "Miley Cyrus": [
-        "Walt Disney",
+    "Sabrina Carpenter": [
         "Hollywood",
-        "RCA",
-        "Smiley Miley",
-        "Columbia"
-    ],
-    "Lainey Wilson": [
-        "Cupit",
-        "Lone Chief",
-        "BBR"
-    ],
-    "Jack Harlow": [
-        "Generation Now",
-        "Atlantic",
-        "sonaBLAST!"
-    ],
-    "Luke Hemmings": [],
-    "Tate McRae": [
-        "RCA"
-    ],
-    "St. Vincent": [
-        "Beggars Banquet",
-        "4AD",
-        "Loma Vista",
-        "Republic",
-        "Caroline"
-    ],
-    "GloRilla": [
-        "Collective",
-        "Interscope"
-    ],
-    "21 Savage": [
-        "Epic",
-        "The Orchard",
-        "Slaughter Gang"
-    ],
-    "ILLIT": [
-        "Belift Lab"
-    ],
-    "J. Cole": [
-        "Dreamville",
-        "Roc Nation",
-        "Interscope",
-        "Columbia",
-        "ByStorm"
-    ],
-    "Fleetwood Mac": [],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement",
-        "KRA International"
-    ],
-    "Tyler, The Creator": [
-        "Columbia",
-        "Odd Future",
-        "Sony",
-        "RED",
-        "XL"
-    ],
-    "Ed Sheeran": [
-        "Asylum",
-        "Atlantic",
-        "Elektra",
-        "Gingerbread Man"
-    ],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
-    "Fuerza Regida": [
-        "Lumbre",
-        "Cinq",
-        "Rancho Humilde",
-        "Street Mob",
-        "Sony Latin"
+        "Island"
     ],
     "Kanye West": [
         "GOOD",
@@ -228,21 +63,160 @@ var data = {
         "Roc-A-Fella",
         "YZY"
     ],
-    "Metallica": [
-        "Megaforce",
-        "Elektra",
-        "Vertigo",
+    "Hozier": [
+        "Rubyworks",
+        "Island",
+        "Columbia"
+    ],
+    "Ariana Grande": [
+        "Republic"
+    ],
+    "Noah Kahan": [
+        "Republic",
+        "Universal",
+        "Mercury"
+    ],
+    "Tommy Richman": [],
+    "Jelly Roll": [
+        "Slumerican",
+        "Bad Apple Inc.",
+        "War Dog",
+        "Wyte Music",
+        "BBR"
+    ],
+    "Ty Dolla $ign": [
+        "Motown",
+        "EZMNY",
+        "The MVMNT",
+        "Pushaz Ink",
+        "Taylor Gang",
+        "Atlantic"
+    ],
+    "Chris Stapleton": [
+        "Mercury Nashville"
+    ],
+    "Future": [
+        "Freebandz",
+        "Epic",
+        "A1"
+    ],
+    "Beyonce": [
+        "Parkwood",
+        "Columbia",
+        "Music World"
+    ],
+    "Metro Boomin": [
+        "Boominati Worldwide",
+        "Republic",
+        "Freebandz"
+    ],
+    "Bailey Zimmerman": [
         "Warner Bros",
-        "Blackened"
+        "Elektra"
+    ],
+    "Olivia Rodrigo": [
+        "Geffen"
+    ],
+    "Doja Cat": [
+        "Kemosabe",
+        "RCA"
+    ],
+    "The Weeknd": [
+        "XO",
+        "Republic"
+    ],
+    "Travis Scott": [
+        "Grand Hustle",
+        "Epic",
+        "Very GOOD Beats",
+        "Cactus Jack"
+    ],
+    "Miley Cyrus": [
+        "Walt Disney",
+        "Hollywood",
+        "RCA",
+        "Smiley Miley",
+        "Columbia"
+    ],
+    "Post Malone": [
+        "Republic",
+        "Mercury"
+    ],
+    "Lainey Wilson": [
+        "Cupit",
+        "Lone Chief",
+        "BBR"
+    ],
+    "21 Savage": [
+        "Epic",
+        "The Orchard",
+        "Slaughter Gang"
+    ],
+    "4Batz": [
+        "OVO",
+        "gamma."
+    ],
+    "Fleetwood Mac": [],
+    "J. Cole": [
+        "Dreamville",
+        "Roc Nation",
+        "Interscope",
+        "Columbia",
+        "ByStorm"
+    ],
+    "Jack Harlow": [
+        "Generation Now",
+        "Atlantic",
+        "sonaBLAST!"
+    ],
+    "Tate McRae": [
+        "RCA"
+    ],
+    "Sia": [
+        "Dance Pool",
+        "Go! Beat",
+        "Inertia",
+        "RCA",
+        "Monkey Puzzle",
+        "Atlantic"
+    ],
+    "Tyler, The Creator": [
+        "Columbia",
+        "Odd Future",
+        "Sony",
+        "RED",
+        "XL"
+    ],
+    "Melanie Martinez": [
+        "Atlantic"
+    ],
+    "GloRilla": [
+        "Collective",
+        "Interscope"
+    ],
+    "Ed Sheeran": [
+        "Asylum",
+        "Atlantic",
+        "Elektra",
+        "Gingerbread Man"
     ],
     "Bruno Mars": [
         "Universal Motown",
         "Atlantic",
         "Elektra"
     ],
-    "TOMORROW X TOGETHER": [
-        "Big Hit",
-        "Republic"
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement",
+        "KRA International"
+    ],
+    "Metallica": [
+        "Megaforce",
+        "Elektra",
+        "Vertigo",
+        "Warner Bros",
+        "Blackened"
     ],
     "Nate Smith": [
         "Word",
@@ -257,159 +231,36 @@ var data = {
         "Sony",
         "MJJ Productions"
     ],
-    "Nicki Minaj": [
-        "Young Money",
-        "Cash Money",
-        "Republic",
-        "Heavy On It"
-    ],
-    "Cody Johnson": [
-        "Warner Bros"
-    ],
-    "Artemas": [],
-    "Melanie Martinez": [
-        "Atlantic"
-    ],
-    "Bryson Tiller": [],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
-    "Sexyy Red": [
-        "gamma.",
-        "Open Shift",
-        "Jay Rebel"
-    ],
-    "BossMan DLow": [
-        "Alamo"
+    "Fuerza Regida": [
+        "Lumbre",
+        "Cinq",
+        "Rancho Humilde",
+        "Street Mob",
+        "Sony Latin"
     ],
     "Jordan Davis": [
         "MCA Nashville"
     ],
-    "Def Leppard": [
-        "Jugoton",
-        "Croatia Records",
-        "Mercury",
-        "Universal",
-        "Phonogram",
-        "Vertigo",
-        "PolyGram",
-        "Bludgeon-Riffola (their own label)",
-        "Island",
-        "Frontiers",
-        "earMUSIC"
-    ],
-    "Eagles": [],
-    "Pearl Jam": [
-        "Monkeywrench",
-        "Universal",
-        "J",
-        "Epic",
-        "Third Man"
-    ],
-    "Bad Bunny": [
-        "Hear This Music",
-        "Rimas"
-    ],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
-    ],
-    "Tyler Hubbard": [
-        "Hubbard House",
-        "EMI Nashville"
-    ],
-    "Lana Del Rey": [
-        "5 Points",
-        "Stranger",
-        "Polydor",
-        "Interscope"
-    ],
-    "Peso Pluma": [
-        "El Cartel de Los \u00c1ngeles",
-        "Prajin",
-        "Worms",
-        "Double P",
-        "Creative Art Agency"
-    ],
-    "CeCe Winans": [
-        "Sparrow",
-        "PMG/Atlantic",
-        "PureSprings Gospel (aka WellSpring Gospel)",
-        "Atlantic",
-        "PureSprings Gospel"
-    ],
-    "Imagine Dragons": [
-        "Kidinakorner",
-        "Interscope"
-    ],
-    "Pet Shop Boys": [
-        "Parlophone/Rhino",
-        "EMI",
-        "Capitol/Astralwerks",
-        "x2/Sony Records Int'l",
-        "Kobalt",
-        "Atlantic",
-        "Parlophone",
-        "Rhino",
-        "Capitol",
-        "Astralwerks",
-        "x2",
-        "Sony Records Int'l"
-    ],
-    "Tyla": [
-        "Fax",
-        "Epic"
-    ],
-    "Xavi": [
-        "Interscope"
-    ],
-    "Harry Styles": [
-        "Syco",
-        "Columbia"
-    ],
-    "Justice": [
-        "Because",
-        "Ed Banger",
-        "Elektra",
-        "Downtown",
-        "Big Beat",
-        "Atlantic"
-    ],
-    "BigXthaPlug": [
-        "UnitedMasters"
-    ],
-    "Muni Long": [
-        "Def Jam",
-        "White Rose Garden",
-        "Thirty Tigers",
-        "Supergiant",
-        "Capitol",
-        "Virgin"
-    ],
-    "Tucker Wetmore": [],
-    "Dasha": [
-        "Disruptor",
+    "Bryson Tiller": [],
+    "Cody Johnson": [
         "Warner Bros"
     ],
-    "Charley Crockett": [
-        "Son of Davy",
-        "Thirty Tigers"
+    "BossMan DLow": [
+        "Alamo"
     ],
-    "Jason Aldean": [
-        "Broken Bow"
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
     ],
-    "for KING + COUNTRY": [
-        "Fervent",
-        "Curb"
+    "NCT DREAM": [
+        "SM",
+        "Avex Trax"
     ],
-    "Djo": [
-        "AWAL"
-    ],
-    "Frank Ocean": [
-        "Blonded",
-        "Def Jam",
-        "RedZone"
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
     ],
     "AC/DC": [
         "Albert",
@@ -420,11 +271,185 @@ var data = {
         "Epic",
         "Columbia"
     ],
-    "Justin Timberlake": [
-        "Jive",
-        "Zomba",
+    "Billie Eilish": [
+        "Darkroom",
+        "Interscope"
+    ],
+    "Bon Jovi": [
+        "Island",
+        "Mercury",
+        "Vertigo"
+    ],
+    "Laufey": [
+        "AWAL"
+    ],
+    "Imagine Dragons": [
+        "Kidinakorner",
+        "Interscope"
+    ],
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
+    ],
+    "Frank Ocean": [
+        "Blonded",
+        "Def Jam",
+        "RedZone"
+    ],
+    "Dave Matthews Band": [
         "RCA",
-        "Tennman"
+        "Bama Rags"
+    ],
+    "TOMORROW X TOGETHER": [
+        "Big Hit",
+        "Republic"
+    ],
+    "Artemas": [],
+    "Peso Pluma": [
+        "El Cartel de Los \u00c1ngeles",
+        "Prajin",
+        "Worms",
+        "Double P",
+        "Creative Art Agency"
+    ],
+    "Green Day": [
+        "Lookout",
+        "Reprise",
+        "Epitaph",
+        "Warner Bros"
+    ],
+    "Queen": [],
+    "Dasha": [
+        "Disruptor",
+        "Warner Bros"
+    ],
+    "Harry Styles": [
+        "Syco",
+        "Columbia"
+    ],
+    "Sexyy Red": [
+        "gamma.",
+        "Open Shift",
+        "Jay Rebel"
+    ],
+    "Rihanna": [
+        "Roc Nation",
+        "Def Jam",
+        "SRP",
+        "Westbury Road"
+    ],
+    "Lana Del Rey": [
+        "5 Points",
+        "Stranger",
+        "Polydor",
+        "Interscope"
+    ],
+    "HARDY": [
+        "Big Loud",
+        "Big Loud Rock",
+        "Tree Vibez"
+    ],
+    "Gunna": [
+        "YSL",
+        "300"
+    ],
+    "Xavi": [
+        "Interscope"
+    ],
+    "Tyla": [
+        "Fax",
+        "Epic"
+    ],
+    "Nicki Minaj": [
+        "Young Money",
+        "Cash Money",
+        "Republic",
+        "Heavy On It"
+    ],
+    "Megan Moroney": [
+        "Arista Nashville",
+        "Columbia"
+    ],
+    "BigXthaPlug": [
+        "UnitedMasters"
+    ],
+    "Adele": [
+        "XL",
+        "Columbia",
+        "Melted Stone"
+    ],
+    "Bad Bunny": [
+        "Hear This Music",
+        "Rimas"
+    ],
+    "Randy Travis": [
+        "Paula",
+        "Warner Bros",
+        "DreamWorks Nashville",
+        "Word",
+        "Gaither Music Group"
+    ],
+    "Jason Aldean": [
+        "Broken Bow"
+    ],
+    "Djo": [
+        "AWAL"
+    ],
+    "Muni Long": [
+        "Def Jam",
+        "White Rose Garden",
+        "Thirty Tigers",
+        "Supergiant",
+        "Capitol",
+        "Virgin"
+    ],
+    "The Beatles": [
+        "Parlophone",
+        "Capitol",
+        "Apple"
+    ],
+    "Kenny Chesney": [
+        "Capricorn",
+        "BNA",
+        "Columbia",
+        "Warner Bros",
+        "Blue Chair"
+    ],
+    "Tyler Hubbard": [
+        "Hubbard House",
+        "EMI Nashville"
+    ],
+    "Creedence Clearwater Revival": [
+        "Fantasy"
+    ],
+    "Kane Brown": [
+        "Zone 4",
+        "RCA"
+    ],
+    "Journey": [
+        "Columbia",
+        "Frontiers",
+        "Sanctuary",
+        "Nomota",
+        "BMG"
+    ],
+    "Tucker Wetmore": [],
+    "Flo Milli": [
+        "'94 Sounds",
+        "RCA"
+    ],
+    "Pearl Jam": [
+        "Monkeywrench",
+        "Universal",
+        "J",
+        "Epic",
+        "Third Man"
+    ],
+    "Cardi B": [
+        "Atlantic"
+    ],
+    "Warren Zeiders": [
+        "Warner Bros"
     ],
     "Bob Marley And The Wailers": [
         "Studio One",
@@ -435,50 +460,8 @@ var data = {
         "Island",
         "JAD"
     ],
-    "HARDY": [
-        "Big Loud",
-        "Big Loud Rock",
-        "Tree Vibez"
-    ],
-    "Maggie Rogers": [
-        "Debay Sounds",
-        "Capitol"
-    ],
-    "Anne Wilson": [],
-    "Creedence Clearwater Revival": [
-        "Fantasy"
-    ],
-    "Kenny Chesney": [
-        "Capricorn",
-        "BNA",
-        "Columbia",
-        "Warner Bros",
-        "Blue Chair"
-    ],
-    "Rihanna": [
-        "Roc Nation",
-        "Def Jam",
-        "SRP",
-        "Westbury Road"
-    ],
-    "BOYNEXTDOOR": [
-        "KOZ"
-    ],
-    "Adele": [
-        "XL",
-        "Columbia",
-        "Melted Stone"
-    ],
-    "Eminem": [
-        "Shady",
-        "Aftermath",
-        "Interscope",
-        "Web",
-        "Polydor"
-    ],
-    "The Beatles": [
-        "Parlophone",
-        "Capitol",
-        "Apple"
+    "The Red Clay Strays": [
+        "RCA",
+        "Thirty Tigers"
     ]
-};var lastUpdated = "05/14";
+};var lastUpdated = "05/15";
