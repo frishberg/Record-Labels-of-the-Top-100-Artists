@@ -318,7 +318,15 @@
         "Epitaph",
         "Warner Bros"
     ],
-    "Queen": [],
+    "Queen": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+    ],
     "Dasha": [
         "Disruptor",
         "Warner Bros"

@@ -318,7 +318,15 @@ var data = {
         "Epitaph",
         "Warner Bros"
     ],
-    "Queen": [],
+    "Queen": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+    ],
     "Dasha": [
         "Disruptor",
         "Warner Bros"
@@ -464,4 +472,4 @@ var data = {
         "RCA",
         "Thirty Tigers"
     ]
-};var lastUpdated = "05/16";
+};var lastUpdated = "05/17";
