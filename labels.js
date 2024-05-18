@@ -333,7 +333,8 @@ var data = {
     ],
     "Harry Styles": [
         "Syco",
-        "Columbia"
+        "Columbia",
+        "Erskine"
     ],
     "Sexyy Red": [
         "gamma.",
@@ -472,4 +473,4 @@ var data = {
         "RCA",
         "Thirty Tigers"
     ]
-};var lastUpdated = "05/17";
+};var lastUpdated = "05/18";
