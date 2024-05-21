@@ -153,7 +153,6 @@ var data = {
         "Slaughter Gang"
     ],
     "4Batz": [
-        "OVO",
         "gamma."
     ],
     "Fleetwood Mac": [],
@@ -473,4 +472,4 @@ var data = {
         "RCA",
         "Thirty Tigers"
     ]
-};var lastUpdated = "05/20";
+};var lastUpdated = "05/21";
