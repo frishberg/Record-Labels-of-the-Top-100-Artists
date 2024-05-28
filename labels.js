@@ -427,7 +427,9 @@ var data = {
         "Hear This Music",
         "Rimas"
     ],
-    "Myles Smith": [],
+    "Myles Smith": [
+        "RCA"
+    ],
     "Bob Marley And The Wailers": [
         "Studio One",
         "Wail'n Soul'm",
@@ -467,4 +469,4 @@ var data = {
     "Unleash The Archers": [
         "Napalm"
     ]
-};var lastUpdated = "05/27";
+};var lastUpdated = "05/28";
