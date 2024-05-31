@@ -331,7 +331,12 @@ var data = {
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Xavi": [
         "Interscope"
     ],
@@ -450,4 +455,4 @@ var data = {
         "Suretone",
         "Fuzze-Flex"
     ]
-};var lastUpdated = "05/30";
+};var lastUpdated = "05/31";

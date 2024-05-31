@@ -331,7 +331,12 @@
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Xavi": [
         "Interscope"
     ],
