@@ -331,12 +331,7 @@
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Xavi": [
         "Interscope"
     ],
@@ -405,7 +400,10 @@
         "Nomota",
         "BMG"
     ],
-    "Tucker Wetmore": [],
+    "Tucker Wetmore": [
+        "Back Blocks Music",
+        "UMG Nashville"
+    ],
     "Artemas": [],
     "Lana Del Rey": [
         "5 Points",

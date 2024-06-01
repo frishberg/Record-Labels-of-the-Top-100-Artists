@@ -331,12 +331,7 @@ var data = {
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Xavi": [
         "Interscope"
     ],
@@ -405,7 +400,10 @@ var data = {
         "Nomota",
         "BMG"
     ],
-    "Tucker Wetmore": [],
+    "Tucker Wetmore": [
+        "Back Blocks Music",
+        "UMG Nashville"
+    ],
     "Artemas": [],
     "Lana Del Rey": [
         "5 Points",
@@ -455,4 +453,4 @@ var data = {
         "Suretone",
         "Fuzze-Flex"
     ]
-};var lastUpdated = "05/31";
+};var lastUpdated = "06/01";
