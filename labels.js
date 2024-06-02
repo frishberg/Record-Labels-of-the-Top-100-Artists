@@ -14,9 +14,9 @@ var data = {
         "Mercury"
     ],
     "Kendrick Lamar": [
+        "Interscope",
         "Top Dawg",
         "Aftermath",
-        "Interscope",
         "PGLang"
     ],
     "Luke Combs": [
@@ -168,8 +168,7 @@ var data = {
     "Chappell Roan": [
         "Atlantic",
         "Island",
-        "Amusement",
-        "KRA International"
+        "Amusement"
     ],
     "Jack Harlow": [
         "Generation Now",
@@ -453,4 +452,4 @@ var data = {
         "Suretone",
         "Fuzze-Flex"
     ]
-};var lastUpdated = "06/01";
+};var lastUpdated = "06/02";
