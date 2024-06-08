@@ -271,12 +271,7 @@ var data = {
     "BossMan DLow": [
         "Alamo"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Journey": [
         "Columbia",
         "Frontiers",
@@ -473,4 +468,4 @@ var data = {
         "Show Dog-Universal Music (formerly Show Dog Nashville)",
         "Show Dog-Universal Music"
     ]
-};var lastUpdated = "06/07";
+};var lastUpdated = "06/08";
