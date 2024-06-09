@@ -70,7 +70,10 @@
     "Teddy Swims": [
         "Warner Bros"
     ],
-    "Tommy Richman": [],
+    "Tommy Richman": [
+        "ISO Supremacy",
+        "Pulse"
+    ],
     "Chris Stapleton": [
         "Mercury Nashville"
     ],
@@ -317,6 +320,7 @@
         "Fantasy"
     ],
     "The Beatles": [
+        "Warner Bros",
         "Parlophone",
         "Capitol",
         "Apple"

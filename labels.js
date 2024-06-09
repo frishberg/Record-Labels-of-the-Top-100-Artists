@@ -70,7 +70,10 @@ var data = {
     "Teddy Swims": [
         "Warner Bros"
     ],
-    "Tommy Richman": [],
+    "Tommy Richman": [
+        "ISO Supremacy",
+        "Pulse"
+    ],
     "Chris Stapleton": [
         "Mercury Nashville"
     ],
@@ -317,6 +320,7 @@ var data = {
         "Fantasy"
     ],
     "The Beatles": [
+        "Warner Bros",
         "Parlophone",
         "Capitol",
         "Apple"
@@ -468,4 +472,4 @@ var data = {
         "Show Dog-Universal Music (formerly Show Dog Nashville)",
         "Show Dog-Universal Music"
     ]
-};var lastUpdated = "06/08";
+};var lastUpdated = "06/09";
