@@ -152,6 +152,7 @@ var data = {
     ],
     "TOMORROW X TOGETHER": [
         "Big Hit",
+        "Universal Music Japan",
         "Republic"
     ],
     "Cody Johnson": [
@@ -274,7 +275,12 @@ var data = {
     "BossMan DLow": [
         "Alamo"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Journey": [
         "Columbia",
         "Frontiers",
@@ -472,4 +478,4 @@ var data = {
         "Show Dog-Universal Music (formerly Show Dog Nashville)",
         "Show Dog-Universal Music"
     ]
-};var lastUpdated = "06/09";
+};var lastUpdated = "06/10";
