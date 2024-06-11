@@ -122,7 +122,14 @@
         "Kemosabe",
         "RCA"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "The Weeknd": [
         "XO",
         "Republic"
@@ -326,7 +333,6 @@
         "Fantasy"
     ],
     "The Beatles": [
-        "Warner Bros",
         "Parlophone",
         "Capitol",
         "Apple"

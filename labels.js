@@ -122,7 +122,14 @@ var data = {
         "Kemosabe",
         "RCA"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "The Weeknd": [
         "XO",
         "Republic"
@@ -326,7 +333,6 @@ var data = {
         "Fantasy"
     ],
     "The Beatles": [
-        "Warner Bros",
         "Parlophone",
         "Capitol",
         "Apple"
@@ -478,4 +484,4 @@ var data = {
         "Show Dog-Universal Music (formerly Show Dog Nashville)",
         "Show Dog-Universal Music"
     ]
-};var lastUpdated = "06/10";
+};var lastUpdated = "06/11";
