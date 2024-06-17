@@ -135,7 +135,14 @@ var data = {
         "XO",
         "Republic"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "Travis Scott": [
         "Grand Hustle",
         "Epic",
@@ -489,4 +496,4 @@ var data = {
     "BigXthaPlug": [
         "UnitedMasters"
     ]
-};var lastUpdated = "06/16";
+};var lastUpdated = "06/17";
