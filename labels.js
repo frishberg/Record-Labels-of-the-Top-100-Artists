@@ -8,8 +8,7 @@ var data = {
         "Legacy",
         "RCA",
         "Columbia",
-        "Universal Sigma",
-        "ko"
+        "Universal Sigma"
     ],
     "Billie Eilish": [
         "Darkroom",
@@ -135,14 +134,7 @@ var data = {
         "XO",
         "Republic"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Travis Scott": [
         "Grand Hustle",
         "Epic",
@@ -496,4 +488,4 @@ var data = {
     "BigXthaPlug": [
         "UnitedMasters"
     ]
-};var lastUpdated = "06/17";
+};var lastUpdated = "06/18";
