@@ -336,7 +336,8 @@ var data = {
         "Alamo"
     ],
     "Jessie Murph": [
-        "Disruptor Records"
+        "Disruptor",
+        "Columbia"
     ],
     "Djo": [
         "AWAL"
@@ -467,4 +468,4 @@ var data = {
         "Capitol",
         "Virgin"
     ]
-};var lastUpdated = "06/19";
+};var lastUpdated = "06/20";
