@@ -190,7 +190,11 @@ var data = {
         "Capitol",
         "Universal"
     ],
-    "The Decemberists": [],
+    "The Decemberists": [
+        "Kill Rock Stars",
+        "Capitol",
+        "Hush Records"
+    ],
     "Melanie Martinez": [
         "Atlantic"
     ],
@@ -481,4 +485,4 @@ var data = {
         "Warner Bros",
         "Blue Chair"
     ]
-};var lastUpdated = "06/27";
+};var lastUpdated = "06/28";
