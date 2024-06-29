@@ -364,13 +364,11 @@ var data = {
         "JAD"
     ],
     "Queen": [
+        "Columbia",
+        "Polydor",
         "EMI",
         "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
+        "Hollywood"
     ],
     "Djo": [
         "AWAL"
@@ -485,4 +483,4 @@ var data = {
         "Warner Bros",
         "Blue Chair"
     ]
-};var lastUpdated = "06/28";
+};var lastUpdated = "06/29";
