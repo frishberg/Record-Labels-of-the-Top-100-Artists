@@ -452,7 +452,11 @@ var data = {
         "Capitol",
         "Atlantic"
     ],
-    "Chris Brown": [],
+    "Chris Brown": [
+        "CBE",
+        "Jive",
+        "RCA"
+    ],
     "Jason Aldean": [
         "Broken Bow"
     ],
@@ -479,4 +483,4 @@ var data = {
         "Warner Bros",
         "Blue Chair"
     ]
-};var lastUpdated = "06/30";
+};var lastUpdated = "07/01";
