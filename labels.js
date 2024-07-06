@@ -422,11 +422,13 @@ var data = {
         "Slaughter Gang"
     ],
     "Queen": [
-        "Columbia",
-        "Polydor",
         "EMI",
         "Parlophone",
-        "Hollywood"
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
     ],
     "Lil Baby": [
         "Capitol",
@@ -488,4 +490,4 @@ var data = {
         "Caroline",
         "Sumerian"
     ]
-};var lastUpdated = "07/05";
+};var lastUpdated = "07/06";
