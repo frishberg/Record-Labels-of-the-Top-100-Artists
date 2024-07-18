@@ -477,7 +477,10 @@ var data = {
         "Columbia",
         "Melted Stone"
     ],
-    "Ella Langley": [],
+    "Ella Langley": [
+        "Sony Music Nashville",
+        "Columbia"
+    ],
     "NAYEON": [
         "JYP",
         "Warner Bros",
@@ -491,4 +494,4 @@ var data = {
         "Glassnote (former)",
         "Glassnote"
     ]
-};var lastUpdated = "07/17";
+};var lastUpdated = "07/18";
