@@ -207,9 +207,7 @@ var data = {
         "Sony",
         "MJJ Productions"
     ],
-    "Agust D": [
-        "Big Hit"
-    ],
+    "Agust D": [],
     "Kanye West": [
         "GOOD",
         "Island Def Jam",
@@ -494,4 +492,4 @@ var data = {
         "Glassnote (former)",
         "Glassnote"
     ]
-};var lastUpdated = "07/22";
+};var lastUpdated = "07/23";
