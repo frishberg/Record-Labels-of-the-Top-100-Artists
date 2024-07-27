@@ -133,14 +133,7 @@ var data = {
         "Partisan",
         "Spanish Prayers"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Charli XCX": [
         "Vroom Vroom",
         "Warner Bros",
@@ -474,4 +467,4 @@ var data = {
     "Djo": [
         "AWAL"
     ]
-};var lastUpdated = "07/26";
+};var lastUpdated = "07/27";
