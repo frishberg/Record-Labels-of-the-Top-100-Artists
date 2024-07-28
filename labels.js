@@ -133,7 +133,14 @@ var data = {
         "Partisan",
         "Spanish Prayers"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "Charli XCX": [
         "Vroom Vroom",
         "Warner Bros",
@@ -423,7 +430,7 @@ var data = {
         "UnitedMasters"
     ],
     "Tucker Wetmore": [
-        "Back Blocks Music",
+        "Back Blocks",
         "UMG Nashville"
     ],
     "White Gold": [],
@@ -467,4 +474,4 @@ var data = {
     "Djo": [
         "AWAL"
     ]
-};var lastUpdated = "07/27";
+};var lastUpdated = "07/28";
