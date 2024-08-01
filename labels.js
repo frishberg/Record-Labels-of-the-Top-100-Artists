@@ -294,11 +294,7 @@ var data = {
         "Capitol",
         "Virgin Music"
     ],
-    "Chris Brown": [
-        "CBE",
-        "Jive",
-        "RCA"
-    ],
+    "Chris Brown": [],
     "Bryson Tiller": [],
     "The Kid LAROI": [
         "Grade A",
@@ -487,4 +483,4 @@ var data = {
         "Warner Bros",
         "Virgin"
     ]
-};var lastUpdated = "07/31";
+};var lastUpdated = "08/01";
