@@ -218,10 +218,9 @@ var data = {
         "YZY"
     ],
     "Karol G": [
-        "Universal Latino \n(2016-2023)",
+        "Universal Latino",
         "Bichota",
-        "Interscope",
-        "Universal Latino"
+        "Interscope"
     ],
     "Megan Thee Stallion": [
         "BMG",
@@ -487,4 +486,4 @@ var data = {
         "Warner Bros",
         "Virgin"
     ]
-};var lastUpdated = "08/02";
+};var lastUpdated = "08/03";
