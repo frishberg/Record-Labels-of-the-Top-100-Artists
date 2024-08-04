@@ -172,7 +172,9 @@ var data = {
     ],
     "JT": [
         "Quality Control",
+        "Universal",
         "Motown",
+        "Capitol (2018\u20142020)",
         "Capitol"
     ],
     "Nate Smith": [
@@ -486,4 +488,4 @@ var data = {
         "Warner Bros",
         "Virgin"
     ]
-};var lastUpdated = "08/03";
+};var lastUpdated = "08/04";
