@@ -144,14 +144,7 @@ var data = {
         "Elektra"
     ],
     "Koe Wetzel": [],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "The Weeknd": [
         "XO",
         "Republic"
@@ -390,12 +383,7 @@ var data = {
     "Myles Smith": [
         "RCA"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Tucker Wetmore": [
         "Back Blocks",
         "UMG Nashville"
@@ -485,4 +473,4 @@ var data = {
         "Warner Bros",
         "Virgin"
     ]
-};var lastUpdated = "08/05";
+};var lastUpdated = "08/06";
