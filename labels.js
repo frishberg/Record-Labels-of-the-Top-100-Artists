@@ -327,7 +327,9 @@ var data = {
         "Enigma",
         "Warner Bros"
     ],
-    "Bryson Tiller": [],
+    "Bryson Tiller": [
+        "RCA"
+    ],
     "Bruno Mars": [
         "Universal Motown",
         "Atlantic",
@@ -364,7 +366,8 @@ var data = {
     "Kali Uchis": [
         "Virgin EMI",
         "Interscope",
-        "Geffen"
+        "Geffen",
+        "Capitol"
     ],
     "mgk": [
         "EST 19XX",
@@ -476,4 +479,4 @@ var data = {
         "Tribl",
         "Provident"
     ]
-};var lastUpdated = "08/07";
+};var lastUpdated = "08/08";
