@@ -154,14 +154,7 @@ var data = {
         "Very GOOD Beats",
         "Cactus Jack"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Forrest Frank": [
         "10K Projects",
         "Caroline Records"
@@ -486,4 +479,4 @@ var data = {
         "Tribl",
         "Provident"
     ]
-};var lastUpdated = "08/10";
+};var lastUpdated = "08/11";
