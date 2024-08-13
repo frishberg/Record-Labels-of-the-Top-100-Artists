@@ -105,7 +105,7 @@ var data = {
     "Chris Stapleton": [
         "Mercury Nashville"
     ],
-    "Charli XCX": [
+    "Charli xcx": [
         "Vroom Vroom",
         "Warner Bros",
         "Asylum",
@@ -479,4 +479,4 @@ var data = {
         "Tribl",
         "Provident"
     ]
-};var lastUpdated = "08/12";
+};var lastUpdated = "08/13";
