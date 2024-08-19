@@ -251,7 +251,11 @@ var data = {
     "Creedence Clearwater Revival": [
         "Fantasy"
     ],
-    "Chris Brown": [],
+    "Chris Brown": [
+        "CBE",
+        "Jive",
+        "RCA"
+    ],
     "Frank Ocean": [
         "Blonded",
         "Def Jam",
@@ -472,4 +476,4 @@ var data = {
         "Warner Bros",
         "Reprise"
     ]
-};var lastUpdated = "08/18";
+};var lastUpdated = "08/19";

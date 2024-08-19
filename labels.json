@@ -251,7 +251,11 @@
     "Creedence Clearwater Revival": [
         "Fantasy"
     ],
-    "Chris Brown": [],
+    "Chris Brown": [
+        "CBE",
+        "Jive",
+        "RCA"
+    ],
     "Frank Ocean": [
         "Blonded",
         "Def Jam",
