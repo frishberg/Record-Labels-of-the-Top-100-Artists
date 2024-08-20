@@ -346,7 +346,12 @@ var data = {
         "Capitol",
         "Polydor"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Myles Smith": [
         "RCA"
     ],
@@ -476,4 +481,4 @@ var data = {
         "Warner Bros",
         "Reprise"
     ]
-};var lastUpdated = "08/19";
+};var lastUpdated = "08/20";

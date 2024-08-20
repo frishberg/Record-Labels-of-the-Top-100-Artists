@@ -346,7 +346,12 @@
         "Capitol",
         "Polydor"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Myles Smith": [
         "RCA"
     ],
