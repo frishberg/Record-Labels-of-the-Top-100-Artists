@@ -504,4 +504,4 @@ var data = {
         "Republic",
         "88rising"
     ]
-};var lastUpdated = "08/23";
+};var lastUpdated = "08/24";
