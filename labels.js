@@ -41,8 +41,8 @@ var data = {
         "Mercury"
     ],
     "Shaboozey": [
-        "EMPIRE",
-        "Republic"
+        "Republic",
+        "Empire Distribution"
     ],
     "Jelly Roll": [
         "Slumerican",
@@ -504,4 +504,4 @@ var data = {
         "Republic",
         "88rising"
     ]
-};var lastUpdated = "08/26";
+};var lastUpdated = "08/27";
