@@ -123,12 +123,7 @@ var data = {
         "Warner Bros",
         "Blackened"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Ariana Grande": [
         "Republic"
     ],
@@ -488,4 +483,4 @@ var data = {
     "Laufey": [
         "AWAL"
     ]
-};var lastUpdated = "09/02";
+};var lastUpdated = "09/03";
