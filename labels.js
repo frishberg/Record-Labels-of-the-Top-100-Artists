@@ -79,11 +79,9 @@ var data = {
         "Mercury Nashville"
     ],
     "Charli xcx": [
-        "Vroom Vroom",
-        "Warner Bros",
         "Asylum",
         "Atlantic",
-        "Iamsound"
+        "IAMSOUND"
     ],
     "Tommy Richman": [
         "ISO Supremacy",
@@ -349,12 +347,7 @@ var data = {
         "The Orchard",
         "Slaughter Gang"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Lil Baby": [
         "Capitol",
         "Motown",
@@ -483,4 +476,4 @@ var data = {
     "Laufey": [
         "AWAL"
     ]
-};var lastUpdated = "09/03";
+};var lastUpdated = "09/04";
