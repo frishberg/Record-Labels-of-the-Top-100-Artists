@@ -137,7 +137,12 @@ var data = {
     "Dua Lipa": [
         "Warner Bros"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "Drake": [
         "OVO Sound",
         "Republic",
@@ -480,4 +485,4 @@ var data = {
     "Riley Green": [
         "Nashville Harbor"
     ]
-};var lastUpdated = "09/08";
+};var lastUpdated = "09/09";
