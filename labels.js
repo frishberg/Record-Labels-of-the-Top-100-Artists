@@ -137,7 +137,12 @@ var data = {
         "Atlantic",
         "Iamsound"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "GloRilla": [
         "Collective",
         "Interscope"
@@ -357,7 +362,12 @@ var data = {
         "Zone 4",
         "RCA"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Lil Baby": [
         "Capitol",
         "Motown",
@@ -491,4 +501,4 @@ var data = {
     "Jordan Davis": [
         "MCA Nashville"
     ]
-};var lastUpdated = "09/13";
+};var lastUpdated = "09/14";
