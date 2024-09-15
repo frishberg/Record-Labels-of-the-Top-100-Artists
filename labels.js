@@ -137,12 +137,7 @@ var data = {
         "Atlantic",
         "Iamsound"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "GloRilla": [
         "Collective",
         "Interscope"
@@ -501,4 +496,4 @@ var data = {
     "Jordan Davis": [
         "MCA Nashville"
     ]
-};var lastUpdated = "09/14";
+};var lastUpdated = "09/15";
