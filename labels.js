@@ -357,12 +357,7 @@ var data = {
         "Zone 4",
         "RCA"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Lil Baby": [
         "Capitol",
         "Motown",
@@ -496,4 +491,4 @@ var data = {
     "Jordan Davis": [
         "MCA Nashville"
     ]
-};var lastUpdated = "09/16";
+};var lastUpdated = "09/17";
