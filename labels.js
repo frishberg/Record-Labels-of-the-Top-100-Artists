@@ -34,7 +34,13 @@ var data = {
         "River House Artists",
         "Columbia"
     ],
-    "David Gilmour": [],
+    "David Gilmour": [
+        "Columbia",
+        "Harvest",
+        "Capitol",
+        "Sony",
+        "EMI"
+    ],
     "Kendrick Lamar": [
         "Interscope",
         "Top Dawg",
@@ -102,7 +108,7 @@ var data = {
         "ISO Supremacy",
         "Pulse"
     ],
-    "LL Cool J": [
+    "LL COOL J": [
         "Virgin",
         "429",
         "Def Jam",
@@ -489,4 +495,4 @@ var data = {
         "Parlophone",
         "Capitol"
     ]
-};var lastUpdated = "09/18";
+};var lastUpdated = "09/19";
