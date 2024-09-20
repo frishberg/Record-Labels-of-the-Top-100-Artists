@@ -164,7 +164,12 @@ var data = {
         "XO",
         "Republic"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "GloRilla": [
         "Collective",
         "Interscope"
@@ -361,7 +366,12 @@ var data = {
         "Double P",
         "Creative Art Agency"
     ],
-    "Jordan Adetunji": [],
+    "Jordan Adetunji": [
+        "Indigo Kid",
+        "300 (current)",
+        "RCA",
+        "300"
+    ],
     "Lil Baby": [
         "Capitol",
         "Motown",
@@ -390,12 +400,7 @@ var data = {
     "RM": [
         "Big Hit"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Kane Brown": [
         "Zone 4",
         "RCA"
@@ -495,4 +500,4 @@ var data = {
         "Parlophone",
         "Capitol"
     ]
-};var lastUpdated = "09/19";
+};var lastUpdated = "09/20";

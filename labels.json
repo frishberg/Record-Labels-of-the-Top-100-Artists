@@ -164,7 +164,12 @@
         "XO",
         "Republic"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "GloRilla": [
         "Collective",
         "Interscope"
@@ -361,7 +366,12 @@
         "Double P",
         "Creative Art Agency"
     ],
-    "Jordan Adetunji": [],
+    "Jordan Adetunji": [
+        "Indigo Kid",
+        "300 (current)",
+        "RCA",
+        "300"
+    ],
     "Lil Baby": [
         "Capitol",
         "Motown",
@@ -390,12 +400,7 @@
     "RM": [
         "Big Hit"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Kane Brown": [
         "Zone 4",
         "RCA"
