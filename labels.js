@@ -71,6 +71,8 @@ var data = {
         "Republic"
     ],
     "George Strait": [
+        "MCA (MCA Nashville)",
+        "D Records",
         "MCA",
         "MCA Nashville"
     ],
@@ -400,7 +402,12 @@ var data = {
     "RM": [
         "Big Hit"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Kane Brown": [
         "Zone 4",
         "RCA"
@@ -500,4 +507,4 @@ var data = {
         "Parlophone",
         "Capitol"
     ]
-};var lastUpdated = "09/20";
+};var lastUpdated = "09/21";
