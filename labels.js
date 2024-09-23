@@ -166,12 +166,7 @@ var data = {
         "XO",
         "Republic"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "GloRilla": [
         "Collective",
         "Interscope"
@@ -507,4 +502,4 @@ var data = {
         "Parlophone",
         "Capitol"
     ]
-};var lastUpdated = "09/22";
+};var lastUpdated = "09/23";
