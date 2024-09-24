@@ -56,7 +56,7 @@ var data = {
     ],
     "Shaboozey": [
         "Republic",
-        "Empire Distribution"
+        "Empire"
     ],
     "Jelly Roll": [
         "Slumerican",
@@ -397,12 +397,7 @@ var data = {
     "RM": [
         "Big Hit"
     ],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Kane Brown": [
         "Zone 4",
         "RCA"
@@ -502,4 +497,4 @@ var data = {
         "Parlophone",
         "Capitol"
     ]
-};var lastUpdated = "09/23";
+};var lastUpdated = "09/24";
