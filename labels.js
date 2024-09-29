@@ -418,7 +418,12 @@ var data = {
         "Polydor",
         "Interscope"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Bon Jovi": [
         "Island",
         "Mercury",
@@ -484,4 +489,4 @@ var data = {
         "Elektra",
         "Atlantic"
     ]
-};var lastUpdated = "09/28";
+};var lastUpdated = "09/29";
