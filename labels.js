@@ -109,14 +109,7 @@ var data = {
         "XO",
         "Republic"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Keith Urban": [
         "Capitol Nashville"
     ],
@@ -516,4 +509,4 @@ var data = {
         "Republic Nashville",
         "Big Loud"
     ]
-};var lastUpdated = "10/05";
+};var lastUpdated = "10/06";
