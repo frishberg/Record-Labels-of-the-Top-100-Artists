@@ -112,6 +112,8 @@ var data = {
     "Fleetwood Mac": [
         "Blue Horizon",
         "Reprise",
+        "Sire",
+        "CBS",
         "Warner Bros",
         "LMJS Productions"
     ],
@@ -514,4 +516,4 @@ var data = {
         "Republic Nashville",
         "Big Loud"
     ]
-};var lastUpdated = "10/07";
+};var lastUpdated = "10/08";
