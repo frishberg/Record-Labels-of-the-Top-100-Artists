@@ -179,7 +179,7 @@ var data = {
         "Island Def Jam",
         "Def Jam",
         "Roc-A-Fella",
-        "Yeezy"
+        "YZY"
     ],
     "Bailey Zimmerman": [
         "Warner Bros",
@@ -497,4 +497,4 @@ var data = {
         "Arista Nashville",
         "Columbia"
     ]
-};var lastUpdated = "11/02";
+};var lastUpdated = "11/03";
