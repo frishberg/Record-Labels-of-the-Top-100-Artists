@@ -497,4 +497,4 @@ var data = {
         "Arista Nashville",
         "Columbia"
     ]
-};var lastUpdated = "11/04";
+};var lastUpdated = "11/05";
