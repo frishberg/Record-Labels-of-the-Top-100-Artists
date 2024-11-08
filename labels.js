@@ -106,13 +106,7 @@ var data = {
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Megan Thee Stallion": [
-        "BMG",
-        "Roc Nation",
-        "Hot Girl",
-        "300",
-        "1501 Certified"
-    ],
+    "Megan Thee Stallion": [],
     "Michael Jackson": [
         "Steeltown",
         "Motown",
@@ -130,14 +124,7 @@ var data = {
         "Island",
         "Columbia"
     ],
-    "Grateful Dead": [
-        "Warner Bros",
-        "Grateful Dead",
-        "Arista",
-        "Rhino",
-        "Sunflower",
-        "United Artists"
-    ],
+    "Grateful Dead": [],
     "Andrea Bocelli": [
         "Polydor",
         "Decca",
@@ -462,9 +449,7 @@ var data = {
         "Lone Chief",
         "BBR"
     ],
-    "Jordan Davis": [
-        "MCA Nashville"
-    ],
+    "Jordan Davis": [],
     "Bryson Tiller": [
         "RCA"
     ],
@@ -478,4 +463,4 @@ var data = {
         "Interscope"
     ],
     "Tito Double P": []
-};var lastUpdated = "11/07";
+};var lastUpdated = "11/08";
