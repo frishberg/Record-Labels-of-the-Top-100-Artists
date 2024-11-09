@@ -92,9 +92,7 @@
         "Republic",
         "Empire"
     ],
-    "Gracie Abrams": [
-        "Interscope"
-    ],
+    "Gracie Abrams": [],
     "SZA": [
         "TDE",
         "RCA"
@@ -106,7 +104,13 @@
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Megan Thee Stallion": [],
+    "Megan Thee Stallion": [
+        "BMG",
+        "Warner Bros",
+        "Hot Girl",
+        "300",
+        "1501 Certified"
+    ],
     "Michael Jackson": [
         "Steeltown",
         "Motown",
@@ -124,7 +128,14 @@
         "Island",
         "Columbia"
     ],
-    "Grateful Dead": [],
+    "Grateful Dead": [
+        "Warner Bros",
+        "Grateful Dead",
+        "Arista",
+        "Rhino",
+        "Sunflower",
+        "United Artists"
+    ],
     "Andrea Bocelli": [
         "Polydor",
         "Decca",
@@ -247,10 +258,7 @@
         "Warner Bros",
         "Elektra"
     ],
-    "The Red Clay Strays": [
-        "RCA",
-        "Thirty Tigers"
-    ],
+    "The Red Clay Strays": [],
     "Ray Parker Jr.": [
         "Arista",
         "Geffen",
@@ -449,7 +457,9 @@
         "Lone Chief",
         "BBR"
     ],
-    "Jordan Davis": [],
+    "Jordan Davis": [
+        "MCA Nashville"
+    ],
     "Bryson Tiller": [
         "RCA"
     ],
