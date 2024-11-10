@@ -92,15 +92,14 @@ var data = {
         "Republic",
         "Empire"
     ],
-    "Gracie Abrams": [],
+    "Gracie Abrams": [
+        "Interscope"
+    ],
     "SZA": [
         "TDE",
         "RCA"
     ],
-    "The Weeknd": [
-        "XO",
-        "Republic"
-    ],
+    "The Weeknd": [],
     "BigXthaPlug": [
         "UnitedMasters"
     ],
@@ -258,7 +257,10 @@ var data = {
         "Warner Bros",
         "Elektra"
     ],
-    "The Red Clay Strays": [],
+    "The Red Clay Strays": [
+        "RCA",
+        "Thirty Tigers"
+    ],
     "Ray Parker Jr.": [
         "Arista",
         "Geffen",
@@ -335,13 +337,7 @@ var data = {
         "Epic",
         "Columbia"
     ],
-    "Fuerza Regida": [
-        "Lumbre",
-        "Cinq",
-        "Rancho Humilde",
-        "Street Mob",
-        "Sony Latin"
-    ],
+    "Fuerza Regida": [],
     "Don Toliver": [
         "Cactus Jack",
         "Atlantic",
@@ -473,4 +469,4 @@ var data = {
         "Interscope"
     ],
     "Tito Double P": []
-};var lastUpdated = "11/09";
+};var lastUpdated = "11/10";

@@ -92,15 +92,14 @@
         "Republic",
         "Empire"
     ],
-    "Gracie Abrams": [],
+    "Gracie Abrams": [
+        "Interscope"
+    ],
     "SZA": [
         "TDE",
         "RCA"
     ],
-    "The Weeknd": [
-        "XO",
-        "Republic"
-    ],
+    "The Weeknd": [],
     "BigXthaPlug": [
         "UnitedMasters"
     ],
@@ -258,7 +257,10 @@
         "Warner Bros",
         "Elektra"
     ],
-    "The Red Clay Strays": [],
+    "The Red Clay Strays": [
+        "RCA",
+        "Thirty Tigers"
+    ],
     "Ray Parker Jr.": [
         "Arista",
         "Geffen",
@@ -335,13 +337,7 @@
         "Epic",
         "Columbia"
     ],
-    "Fuerza Regida": [
-        "Lumbre",
-        "Cinq",
-        "Rancho Humilde",
-        "Street Mob",
-        "Sony Latin"
-    ],
+    "Fuerza Regida": [],
     "Don Toliver": [
         "Cactus Jack",
         "Atlantic",
