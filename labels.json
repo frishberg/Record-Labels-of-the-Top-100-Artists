@@ -58,10 +58,7 @@
     "Kelsea Ballerini": [
         "Black River"
     ],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Broncos"
-    ],
+    "Zach Bryan": [],
     "Luke Combs": [
         "River House Artists",
         "Sony Music Nashville"
@@ -99,7 +96,10 @@
         "TDE",
         "RCA"
     ],
-    "The Weeknd": [],
+    "The Weeknd": [
+        "XO",
+        "Republic"
+    ],
     "BigXthaPlug": [
         "UnitedMasters"
     ],
@@ -243,12 +243,7 @@
     "Bobby \"Boris\" Pickett And The Crypt-Kickers": [
         "Garpax Records"
     ],
-    "Travis Scott": [
-        "Grand Hustle",
-        "Epic",
-        "Very GOOD Beats",
-        "Cactus Jack"
-    ],
+    "Travis Scott": [],
     "Tommy Richman": [
         "ISO Supremacy",
         "Pulse"
@@ -337,7 +332,13 @@
         "Epic",
         "Columbia"
     ],
-    "Fuerza Regida": [],
+    "Fuerza Regida": [
+        "Lumbre",
+        "Cinq",
+        "Rancho Humilde",
+        "Street Mob",
+        "Sony Latin"
+    ],
     "Don Toliver": [
         "Cactus Jack",
         "Atlantic",
