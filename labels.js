@@ -58,7 +58,10 @@ var data = {
     "Kelsea Ballerini": [
         "Black River"
     ],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Broncos"
+    ],
     "Luke Combs": [
         "River House Artists",
         "Sony Music Nashville"
@@ -243,7 +246,12 @@ var data = {
     "Bobby \"Boris\" Pickett And The Crypt-Kickers": [
         "Garpax Records"
     ],
-    "Travis Scott": [],
+    "Travis Scott": [
+        "Grand Hustle",
+        "Epic",
+        "Very GOOD Beats",
+        "Cactus Jack"
+    ],
     "Tommy Richman": [
         "ISO Supremacy",
         "Pulse"
@@ -470,4 +478,4 @@ var data = {
         "Interscope"
     ],
     "Tito Double P": []
-};var lastUpdated = "11/11";
+};var lastUpdated = "11/12";
