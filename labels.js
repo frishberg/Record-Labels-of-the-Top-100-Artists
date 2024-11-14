@@ -25,12 +25,7 @@ var data = {
         "Republic",
         "Big Machine"
     ],
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
+    "Morgan Wallen": [],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -63,9 +58,7 @@ var data = {
         "River House Artists",
         "Sony Music Nashville"
     ],
-    "Gracie Abrams": [
-        "Interscope"
-    ],
+    "Gracie Abrams": [],
     "Bruno Mars": [
         "Universal Motown",
         "Atlantic",
@@ -469,7 +462,12 @@ var data = {
         "Slaughter Gang"
     ],
     "Tito Double P": [],
-    "Drew Jacobs": [],
+    "Drew Jacobs": [
+        "19",
+        "Arista",
+        "Arista Nashville",
+        "Capitol Nashville"
+    ],
     "Bryson Tiller": [
         "RCA"
     ],
@@ -493,4 +491,4 @@ var data = {
         "Parlophone",
         "Capitol"
     ]
-};var lastUpdated = "11/13";
+};var lastUpdated = "11/14";
