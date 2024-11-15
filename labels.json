@@ -25,7 +25,12 @@
         "Republic",
         "Big Machine"
     ],
-    "Morgan Wallen": [],
+    "Morgan Wallen": [
+        "Panacea",
+        "Big Loud",
+        "Republic",
+        "Mercury"
+    ],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -58,7 +63,10 @@
         "River House Artists",
         "Sony Music Nashville"
     ],
-    "Gracie Abrams": [],
+    "Gracie Abrams": [
+        "Interscope",
+        "Polydor"
+    ],
     "Bruno Mars": [
         "Universal Motown",
         "Atlantic",
@@ -462,12 +470,7 @@
         "Slaughter Gang"
     ],
     "Tito Double P": [],
-    "Drew Jacobs": [
-        "19",
-        "Arista",
-        "Arista Nashville",
-        "Capitol Nashville"
-    ],
+    "Drew Jacobs": [],
     "Bryson Tiller": [
         "RCA"
     ],
