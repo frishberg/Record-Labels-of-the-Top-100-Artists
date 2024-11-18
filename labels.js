@@ -470,12 +470,7 @@ var data = {
         "Slaughter Gang"
     ],
     "Tito Double P": [],
-    "Drew Jacobs": [
-        "19",
-        "Arista",
-        "Arista Nashville",
-        "Capitol Nashville"
-    ],
+    "Drew Jacobs": [],
     "Bryson Tiller": [
         "RCA"
     ],
@@ -499,4 +494,4 @@ var data = {
         "Parlophone",
         "Capitol"
     ]
-};var lastUpdated = "11/17";
+};var lastUpdated = "11/18";
