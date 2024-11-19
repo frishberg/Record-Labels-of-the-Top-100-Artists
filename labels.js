@@ -451,9 +451,7 @@ var data = {
         "Disruptor",
         "Columbia"
     ],
-    "Jimin": [
-        "Big Hit"
-    ],
+    "Jimin": [],
     "Arctic Monkeys": [
         "Domino",
         "Warner Bros"
@@ -485,13 +483,5 @@ var data = {
         "Republic",
         "Golden Child"
     ],
-    "Radiohead": [
-        "EMI",
-        "XL",
-        "Ticker Tape Ltd.",
-        "Hostess",
-        "TBD",
-        "Parlophone",
-        "Capitol"
-    ]
-};var lastUpdated = "11/18";
+    "Radiohead": []
+};var lastUpdated = "11/19";

@@ -451,9 +451,7 @@
         "Disruptor",
         "Columbia"
     ],
-    "Jimin": [
-        "Big Hit"
-    ],
+    "Jimin": [],
     "Arctic Monkeys": [
         "Domino",
         "Warner Bros"
@@ -485,13 +483,5 @@
         "Republic",
         "Golden Child"
     ],
-    "Radiohead": [
-        "EMI",
-        "XL",
-        "Ticker Tape Ltd.",
-        "Hostess",
-        "TBD",
-        "Parlophone",
-        "Capitol"
-    ]
+    "Radiohead": []
 }
