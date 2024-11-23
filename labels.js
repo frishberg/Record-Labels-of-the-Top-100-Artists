@@ -56,11 +56,7 @@ var data = {
         "Interscope",
         "Polydor"
     ],
-    "Bruno Mars": [
-        "Universal Motown",
-        "Atlantic",
-        "Elektra"
-    ],
+    "Bruno Mars": [],
     "Post Malone": [
         "Republic",
         "Mercury"
@@ -307,12 +303,7 @@ var data = {
         "Back Blocks",
         "UMG Nashville"
     ],
-    "Don Toliver": [
-        "Cactus Jack",
-        "Atlantic",
-        "APG",
-        "We Run It"
-    ],
+    "Don Toliver": [],
     "Rihanna": [
         "Roc Nation",
         "Def Jam",
@@ -334,13 +325,7 @@ var data = {
         "Street Mob",
         "Sony Latin"
     ],
-    "Megan Thee Stallion": [
-        "BMG",
-        "Warner Bros",
-        "Hot Girl",
-        "300",
-        "1501 Certified"
-    ],
+    "Megan Thee Stallion": [],
     "Adele": [
         "XL",
         "Columbia",
@@ -495,12 +480,7 @@ var data = {
     "Thomas Rhett": [
         "Valory/Big Machine"
     ],
-    "Jordan Adetunji": [
-        "Indigo Kid",
-        "300 (current)",
-        "RCA",
-        "300"
-    ],
+    "Jordan Adetunji": [],
     "Lil Uzi Vert": [
         "Roc Nation",
         "Atlantic",
@@ -512,4 +492,4 @@ var data = {
         "RCA"
     ],
     "Tito Double P": []
-};var lastUpdated = "11/22";
+};var lastUpdated = "11/23";
