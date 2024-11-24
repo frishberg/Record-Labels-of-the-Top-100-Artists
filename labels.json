@@ -56,7 +56,11 @@
         "Interscope",
         "Polydor"
     ],
-    "Bruno Mars": [],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Post Malone": [
         "Republic",
         "Mercury"
@@ -303,7 +307,12 @@
         "Back Blocks",
         "UMG Nashville"
     ],
-    "Don Toliver": [],
+    "Don Toliver": [
+        "Cactus Jack",
+        "Atlantic",
+        "APG",
+        "We Run It"
+    ],
     "Rihanna": [
         "Roc Nation",
         "Def Jam",
@@ -325,7 +334,13 @@
         "Street Mob",
         "Sony Latin"
     ],
-    "Megan Thee Stallion": [],
+    "Megan Thee Stallion": [
+        "BMG",
+        "Warner Bros",
+        "Hot Girl",
+        "300",
+        "1501 Certified"
+    ],
     "Adele": [
         "XL",
         "Columbia",
@@ -424,9 +439,7 @@
         "Domino",
         "Warner Bros"
     ],
-    "Creed": [
-        "Wind-up"
-    ],
+    "Creed": [],
     "Bing Crosby": [
         "Decca",
         "Columbia",
@@ -463,13 +476,7 @@
         "The Orchard",
         "Slaughter Gang"
     ],
-    "Frank Sinatra": [
-        "RCA",
-        "Columbia",
-        "Capitol",
-        "Reprise",
-        "Warner Bros"
-    ],
+    "Frank Sinatra": [],
     "for KING + COUNTRY": [
         "Fervent",
         "Curb"
@@ -480,7 +487,12 @@
     "Thomas Rhett": [
         "Valory/Big Machine"
     ],
-    "Jordan Adetunji": [],
+    "Jordan Adetunji": [
+        "Indigo Kid",
+        "300 (current)",
+        "RCA",
+        "300"
+    ],
     "Lil Uzi Vert": [
         "Roc Nation",
         "Atlantic",
