@@ -61,10 +61,7 @@ var data = {
         "Atlantic",
         "Elektra"
     ],
-    "Post Malone": [
-        "Republic",
-        "Mercury"
-    ],
+    "Post Malone": [],
     "Kendrick Lamar": [
         "Interscope",
         "Top Dawg",
@@ -272,19 +269,12 @@ var data = {
         "Sony",
         "MJJ Productions"
     ],
-    "Michael Buble": [
-        "143",
-        "Reprise"
-    ],
+    "Michael Buble": [],
     "Nirvana": [
         "Sub Pop",
         "DGC"
     ],
-    "Lainey Wilson": [
-        "Cupit",
-        "Lone Chief",
-        "BBR"
-    ],
+    "Lainey Wilson": [],
     "Olivia Rodrigo": [
         "Geffen"
     ],
@@ -439,7 +429,9 @@ var data = {
         "Domino",
         "Warner Bros"
     ],
-    "Creed": [],
+    "Creed": [
+        "Wind-up"
+    ],
     "Bing Crosby": [
         "Decca",
         "Columbia",
@@ -476,7 +468,13 @@ var data = {
         "The Orchard",
         "Slaughter Gang"
     ],
-    "Frank Sinatra": [],
+    "Frank Sinatra": [
+        "RCA",
+        "Columbia",
+        "Capitol",
+        "Reprise",
+        "Warner Bros"
+    ],
     "for KING + COUNTRY": [
         "Fervent",
         "Curb"
@@ -493,15 +491,11 @@ var data = {
         "RCA",
         "300"
     ],
-    "Lil Uzi Vert": [
-        "Roc Nation",
-        "Atlantic",
-        "Generation Now"
-    ],
+    "Lil Uzi Vert": [],
     "Nate Smith": [
         "Word",
         "Arista Nashville",
         "RCA"
     ],
     "Tito Double P": []
-};var lastUpdated = "11/24";
+};var lastUpdated = "11/25";

@@ -61,10 +61,7 @@
         "Atlantic",
         "Elektra"
     ],
-    "Post Malone": [
-        "Republic",
-        "Mercury"
-    ],
+    "Post Malone": [],
     "Kendrick Lamar": [
         "Interscope",
         "Top Dawg",
@@ -272,19 +269,12 @@
         "Sony",
         "MJJ Productions"
     ],
-    "Michael Buble": [
-        "143",
-        "Reprise"
-    ],
+    "Michael Buble": [],
     "Nirvana": [
         "Sub Pop",
         "DGC"
     ],
-    "Lainey Wilson": [
-        "Cupit",
-        "Lone Chief",
-        "BBR"
-    ],
+    "Lainey Wilson": [],
     "Olivia Rodrigo": [
         "Geffen"
     ],
@@ -439,7 +429,9 @@
         "Domino",
         "Warner Bros"
     ],
-    "Creed": [],
+    "Creed": [
+        "Wind-up"
+    ],
     "Bing Crosby": [
         "Decca",
         "Columbia",
@@ -476,7 +468,13 @@
         "The Orchard",
         "Slaughter Gang"
     ],
-    "Frank Sinatra": [],
+    "Frank Sinatra": [
+        "RCA",
+        "Columbia",
+        "Capitol",
+        "Reprise",
+        "Warner Bros"
+    ],
     "for KING + COUNTRY": [
         "Fervent",
         "Curb"
@@ -493,11 +491,7 @@
         "RCA",
         "300"
     ],
-    "Lil Uzi Vert": [
-        "Roc Nation",
-        "Atlantic",
-        "Generation Now"
-    ],
+    "Lil Uzi Vert": [],
     "Nate Smith": [
         "Word",
         "Arista Nashville",
