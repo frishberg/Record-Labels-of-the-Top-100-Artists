@@ -61,7 +61,10 @@ var data = {
         "Atlantic",
         "Elektra"
     ],
-    "Post Malone": [],
+    "Post Malone": [
+        "Republic",
+        "Mercury"
+    ],
     "Kendrick Lamar": [
         "Interscope",
         "Top Dawg",
@@ -148,15 +151,7 @@ var data = {
         "Warner Bros",
         "LMJS Productions"
     ],
-    "Mariah Carey": [
-        "Columbia",
-        "Crave",
-        "Virgin",
-        "MonarC",
-        "Island",
-        "Def Jam",
-        "Epic"
-    ],
+    "Mariah Carey": [],
     "BigXthaPlug": [
         "UnitedMasters"
     ],
@@ -269,12 +264,19 @@ var data = {
         "Sony",
         "MJJ Productions"
     ],
-    "Michael Buble": [],
+    "Michael Buble": [
+        "143",
+        "Reprise"
+    ],
     "Nirvana": [
         "Sub Pop",
         "DGC"
     ],
-    "Lainey Wilson": [],
+    "Lainey Wilson": [
+        "Cupit",
+        "Lone Chief",
+        "BBR"
+    ],
     "Olivia Rodrigo": [
         "Geffen"
     ],
@@ -309,10 +311,7 @@ var data = {
         "SRP",
         "Westbury Road"
     ],
-    "Doja Cat": [
-        "Kemosabe",
-        "RCA"
-    ],
+    "Doja Cat": [],
     "Zach Top": [],
     "Riley Green": [
         "Nashville Harbor"
@@ -491,11 +490,15 @@ var data = {
         "RCA",
         "300"
     ],
-    "Lil Uzi Vert": [],
+    "Lil Uzi Vert": [
+        "Roc Nation",
+        "Atlantic",
+        "Generation Now"
+    ],
     "Nate Smith": [
         "Word",
         "Arista Nashville",
         "RCA"
     ],
     "Tito Double P": []
-};var lastUpdated = "11/25";
+};var lastUpdated = "11/26";
