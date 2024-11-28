@@ -498,14 +498,5 @@ var data = {
         "Sony",
         "MJJ Productions"
     ],
-    "Bing Crosby": [
-        "Decca",
-        "Columbia",
-        "RCA",
-        "Brunswick",
-        "Reprise",
-        "Capitol",
-        "Verve",
-        "United Artists"
-    ]
-};var lastUpdated = "11/27";
+    "Bing Crosby": []
+};var lastUpdated = "11/28";
