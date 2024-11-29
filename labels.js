@@ -409,13 +409,7 @@ var data = {
         "Awful (former)",
         "Awful"
     ],
-    "Coldplay": [
-        "Fierce Panda",
-        "Parlophone",
-        "Nettwerk",
-        "Capitol",
-        "Atlantic"
-    ],
+    "Coldplay": [],
     "Gigi Perez": [
         "Mogul Vision",
         "Interscope",
@@ -468,9 +462,7 @@ var data = {
     "Olivia Rodrigo": [
         "Geffen"
     ],
-    "Bryson Tiller": [
-        "RCA"
-    ],
+    "Bryson Tiller": [],
     "Jimin": [
         "Big Hit"
     ],
@@ -498,5 +490,14 @@ var data = {
         "Sony",
         "MJJ Productions"
     ],
-    "Bing Crosby": []
-};var lastUpdated = "11/28";
+    "Bing Crosby": [
+        "Decca",
+        "Columbia",
+        "RCA",
+        "Brunswick",
+        "Reprise",
+        "Capitol",
+        "Verve",
+        "United Artists"
+    ]
+};var lastUpdated = "11/29";
