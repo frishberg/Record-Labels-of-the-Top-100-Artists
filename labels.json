@@ -9,10 +9,7 @@
     "JIN": [
         "Big Hit"
     ],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Linkin Park": [],
     "Sabrina Carpenter": [
         "Hollywood",
         "Island"
@@ -66,10 +63,7 @@
         "River House Artists",
         "Sony Music Nashville"
     ],
-    "Shaboozey": [
-        "Republic",
-        "Empire"
-    ],
+    "Shaboozey": [],
     "Bruno Mars": [
         "Universal Motown",
         "Atlantic",
@@ -290,11 +284,7 @@
         "Columbia",
         "Kritzerland"
     ],
-    "Juice WRLD": [
-        "Grade A",
-        "Interscope",
-        "Polydor"
-    ],
+    "Juice WRLD": [],
     "Brenda Lee": [
         "Decca",
         "MCA",
@@ -333,13 +323,7 @@
         "Open Shift",
         "Jay Rebel"
     ],
-    "Kanye West": [
-        "GOOD",
-        "Island Def Jam",
-        "Def Jam",
-        "Roc-A-Fella",
-        "YZY"
-    ],
+    "Kanye West": [],
     "Doja Cat": [
         "Kemosabe",
         "RCA"
@@ -379,7 +363,9 @@
         "RCA",
         "Epic"
     ],
-    "Zach Top": [],
+    "Zach Top": [
+        "Leo33"
+    ],
     "Summer Walker": [
         "Love Renaissance",
         "Interscope",
@@ -409,7 +395,13 @@
         "Awful (former)",
         "Awful"
     ],
-    "Coldplay": [],
+    "Coldplay": [
+        "Fierce Panda",
+        "Parlophone",
+        "Nettwerk",
+        "Capitol",
+        "Atlantic"
+    ],
     "Gigi Perez": [
         "Mogul Vision",
         "Interscope",
@@ -462,7 +454,9 @@
     "Olivia Rodrigo": [
         "Geffen"
     ],
-    "Bryson Tiller": [],
+    "Bryson Tiller": [
+        "RCA"
+    ],
     "Jimin": [
         "Big Hit"
     ],
