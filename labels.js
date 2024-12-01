@@ -9,7 +9,10 @@ var data = {
     "JIN": [
         "Big Hit"
     ],
-    "Linkin Park": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "Sabrina Carpenter": [
         "Hollywood",
         "Island"
@@ -63,7 +66,10 @@ var data = {
         "River House Artists",
         "Sony Music Nashville"
     ],
-    "Shaboozey": [],
+    "Shaboozey": [
+        "Republic",
+        "Empire"
+    ],
     "Bruno Mars": [
         "Universal Motown",
         "Atlantic",
@@ -190,12 +196,7 @@ var data = {
     "Ariana Grande": [
         "Republic"
     ],
-    "Future": [
-        "Freebandz",
-        "Epic",
-        "A1 (formerly)",
-        "A1"
-    ],
+    "Future": [],
     "Shawn Mendes": [
         "Island",
         "Universal Music Canada"
@@ -284,7 +285,11 @@ var data = {
         "Columbia",
         "Kritzerland"
     ],
-    "Juice WRLD": [],
+    "Juice WRLD": [
+        "Grade A",
+        "Interscope",
+        "Polydor"
+    ],
     "Brenda Lee": [
         "Decca",
         "MCA",
@@ -323,7 +328,13 @@ var data = {
         "Open Shift",
         "Jay Rebel"
     ],
-    "Kanye West": [],
+    "Kanye West": [
+        "GOOD",
+        "Island Def Jam",
+        "Def Jam",
+        "Roc-A-Fella",
+        "YZY"
+    ],
     "Doja Cat": [
         "Kemosabe",
         "RCA"
@@ -494,4 +505,4 @@ var data = {
         "Verve",
         "United Artists"
     ]
-};var lastUpdated = "11/30";
+};var lastUpdated = "12/01";
