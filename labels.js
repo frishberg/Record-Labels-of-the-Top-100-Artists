@@ -146,11 +146,7 @@ var data = {
         "Def Jam",
         "Epic"
     ],
-    "TOMORROW X TOGETHER": [
-        "Big Hit",
-        "Universal Japan",
-        "Republic"
-    ],
+    "TOMORROW X TOGETHER": [],
     "Michael Buble": [
         "143",
         "Reprise"
@@ -196,7 +192,12 @@ var data = {
     "Ariana Grande": [
         "Republic"
     ],
-    "Future": [],
+    "Future": [
+        "Freebandz",
+        "Epic",
+        "A1 (formerly)",
+        "A1"
+    ],
     "Shawn Mendes": [
         "Island",
         "Universal Music Canada"
@@ -351,9 +352,7 @@ var data = {
         "BBR Music Group",
         "Wheelhouse"
     ],
-    "Riley Green": [
-        "Nashville Harbor"
-    ],
+    "Riley Green": [],
     "Ella Langley": [
         "Sony Nashville",
         "Columbia"
@@ -471,10 +470,7 @@ var data = {
     "Jimin": [
         "Big Hit"
     ],
-    "Dasha": [
-        "Disruptor",
-        "Warner Bros"
-    ],
+    "Dasha": [],
     "Brandon Lake": [
         "Bethel Music",
         "Tribl",
@@ -505,4 +501,4 @@ var data = {
         "Verve",
         "United Artists"
     ]
-};var lastUpdated = "12/01";
+};var lastUpdated = "12/02";
