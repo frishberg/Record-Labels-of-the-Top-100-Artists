@@ -30,10 +30,7 @@
         "RED",
         "XL"
     ],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "Taylor Swift": [
         "Republic",
         "Big Machine"
@@ -146,7 +143,11 @@
         "Def Jam",
         "Epic"
     ],
-    "TOMORROW X TOGETHER": [],
+    "TOMORROW X TOGETHER": [
+        "Big Hit",
+        "Universal Japan",
+        "Republic"
+    ],
     "Michael Buble": [
         "143",
         "Reprise"
@@ -352,7 +353,9 @@
         "BBR Music Group",
         "Wheelhouse"
     ],
-    "Riley Green": [],
+    "Riley Green": [
+        "Nashville Harbor"
+    ],
     "Ella Langley": [
         "Sony Nashville",
         "Columbia"
@@ -470,7 +473,10 @@
     "Jimin": [
         "Big Hit"
     ],
-    "Dasha": [],
+    "Dasha": [
+        "Disruptor",
+        "Warner Bros"
+    ],
     "Brandon Lake": [
         "Bethel Music",
         "Tribl",

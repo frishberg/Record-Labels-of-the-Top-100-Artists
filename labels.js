@@ -30,10 +30,7 @@ var data = {
         "RED",
         "XL"
     ],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "Taylor Swift": [
         "Republic",
         "Big Machine"
@@ -146,7 +143,11 @@ var data = {
         "Def Jam",
         "Epic"
     ],
-    "TOMORROW X TOGETHER": [],
+    "TOMORROW X TOGETHER": [
+        "Big Hit",
+        "Universal Japan",
+        "Republic"
+    ],
     "Michael Buble": [
         "143",
         "Reprise"
@@ -352,7 +353,9 @@ var data = {
         "BBR Music Group",
         "Wheelhouse"
     ],
-    "Riley Green": [],
+    "Riley Green": [
+        "Nashville Harbor"
+    ],
     "Ella Langley": [
         "Sony Nashville",
         "Columbia"
@@ -470,7 +473,10 @@ var data = {
     "Jimin": [
         "Big Hit"
     ],
-    "Dasha": [],
+    "Dasha": [
+        "Disruptor",
+        "Warner Bros"
+    ],
     "Brandon Lake": [
         "Bethel Music",
         "Tribl",
@@ -501,4 +507,4 @@ var data = {
         "Verve",
         "United Artists"
     ]
-};var lastUpdated = "12/02";
+};var lastUpdated = "12/03";
