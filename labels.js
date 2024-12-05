@@ -65,11 +65,7 @@ var data = {
         "River House Artists",
         "Sony Music Nashville"
     ],
-    "Bruno Mars": [
-        "Universal Motown",
-        "Atlantic",
-        "Elektra"
-    ],
+    "Bruno Mars": [],
     "Gracie Abrams": [
         "Interscope",
         "Polydor"
@@ -185,11 +181,7 @@ var data = {
         "Web",
         "Polydor"
     ],
-    "ENHYPEN": [
-        "Belift Lab",
-        "Virgin/Universal Music Japan",
-        "Universal Music Japan"
-    ],
+    "ENHYPEN": [],
     "Lainey Wilson": [
         "Cupit",
         "Lone Chief",
@@ -404,11 +396,7 @@ var data = {
         "Open Shift",
         "Jay Rebel"
     ],
-    "Jack Harlow": [
-        "Generation Now",
-        "Atlantic",
-        "sonaBLAST!"
-    ],
+    "Jack Harlow": [],
     "Zach Top": [
         "Leo33"
     ],
@@ -420,10 +408,7 @@ var data = {
         "RCA",
         "Anthem"
     ],
-    "Doja Cat": [
-        "Kemosabe",
-        "RCA"
-    ],
+    "Doja Cat": [],
     "Darlene Love": [
         "Philles",
         "OKeh",
@@ -514,4 +499,4 @@ var data = {
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/04";
+};var lastUpdated = "12/05";
