@@ -27,10 +27,7 @@
         "Darkroom",
         "Interscope"
     ],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Broncos"
-    ],
+    "Zach Bryan": [],
     "Jelly Roll": [
         "Slumerican",
         "Bad Apple Inc.",
@@ -58,6 +55,7 @@
         "Warner Bros"
     ],
     "Shaboozey": [
+        "Republic\nEmpire",
         "Republic",
         "Empire"
     ],
@@ -65,7 +63,11 @@
         "River House Artists",
         "Sony Music Nashville"
     ],
-    "Bruno Mars": [],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Gracie Abrams": [
         "Interscope",
         "Polydor"
@@ -181,7 +183,11 @@
         "Web",
         "Polydor"
     ],
-    "ENHYPEN": [],
+    "ENHYPEN": [
+        "Belift Lab",
+        "Virgin/Universal Music Japan",
+        "Universal Music Japan"
+    ],
     "Lainey Wilson": [
         "Cupit",
         "Lone Chief",
@@ -300,10 +306,7 @@
         "Big Hit"
     ],
     "Burl Ives": [],
-    "Bailey Zimmerman": [
-        "Warner Bros",
-        "Elektra"
-    ],
+    "Bailey Zimmerman": [],
     "Thomas Rhett": [
         "Valory/Big Machine"
     ],
@@ -408,7 +411,10 @@
         "RCA",
         "Anthem"
     ],
-    "Doja Cat": [],
+    "Doja Cat": [
+        "Kemosabe",
+        "RCA"
+    ],
     "Darlene Love": [
         "Philles",
         "OKeh",
