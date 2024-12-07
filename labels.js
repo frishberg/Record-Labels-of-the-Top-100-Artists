@@ -27,7 +27,10 @@ var data = {
         "Darkroom",
         "Interscope"
     ],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Broncos"
+    ],
     "Jelly Roll": [
         "Slumerican",
         "Bad Apple Inc.",
@@ -74,7 +77,8 @@ var data = {
     ],
     "Post Malone": [
         "Republic",
-        "Mercury"
+        "Mercury",
+        "Posty"
     ],
     "The Philly Specials": [],
     "Michael Buble": [
@@ -306,7 +310,10 @@ var data = {
         "Big Hit"
     ],
     "Burl Ives": [],
-    "Bailey Zimmerman": [],
+    "Bailey Zimmerman": [
+        "Warner Bros",
+        "Elektra"
+    ],
     "Thomas Rhett": [
         "Valory/Big Machine"
     ],
@@ -399,7 +406,11 @@ var data = {
         "Open Shift",
         "Jay Rebel"
     ],
-    "Jack Harlow": [],
+    "Jack Harlow": [
+        "Generation Now",
+        "Atlantic",
+        "sonaBLAST!"
+    ],
     "Zach Top": [
         "Leo33"
     ],
@@ -494,15 +505,9 @@ var data = {
     "Jimin": [
         "Big Hit"
     ],
-    "The Jacksons": [
-        "Steeltown",
-        "Motown",
-        "PIR",
-        "Epic",
-        "CBS"
-    ],
+    "The Jacksons": [],
     "Tucker Wetmore": [
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/06";
+};var lastUpdated = "12/07";

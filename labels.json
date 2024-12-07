@@ -27,7 +27,10 @@
         "Darkroom",
         "Interscope"
     ],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Broncos"
+    ],
     "Jelly Roll": [
         "Slumerican",
         "Bad Apple Inc.",
@@ -74,7 +77,8 @@
     ],
     "Post Malone": [
         "Republic",
-        "Mercury"
+        "Mercury",
+        "Posty"
     ],
     "The Philly Specials": [],
     "Michael Buble": [
@@ -306,7 +310,10 @@
         "Big Hit"
     ],
     "Burl Ives": [],
-    "Bailey Zimmerman": [],
+    "Bailey Zimmerman": [
+        "Warner Bros",
+        "Elektra"
+    ],
     "Thomas Rhett": [
         "Valory/Big Machine"
     ],
@@ -399,7 +406,11 @@
         "Open Shift",
         "Jay Rebel"
     ],
-    "Jack Harlow": [],
+    "Jack Harlow": [
+        "Generation Now",
+        "Atlantic",
+        "sonaBLAST!"
+    ],
     "Zach Top": [
         "Leo33"
     ],
@@ -494,13 +505,7 @@
     "Jimin": [
         "Big Hit"
     ],
-    "The Jacksons": [
-        "Steeltown",
-        "Motown",
-        "PIR",
-        "Epic",
-        "CBS"
-    ],
+    "The Jacksons": [],
     "Tucker Wetmore": [
         "Back Blocks",
         "UMG Nashville"
