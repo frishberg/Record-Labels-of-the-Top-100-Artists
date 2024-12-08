@@ -223,13 +223,7 @@ var data = {
         "Duars",
         "Sony Latin"
     ],
-    "Frank Sinatra": [
-        "RCA",
-        "Columbia",
-        "Capitol",
-        "Reprise",
-        "Warner Bros"
-    ],
+    "Frank Sinatra": [],
     "Wham!": [
         "Columbia",
         "Innervision",
@@ -317,11 +311,7 @@ var data = {
     "Thomas Rhett": [
         "Valory/Big Machine"
     ],
-    "TOMORROW X TOGETHER": [
-        "Big Hit",
-        "Universal Japan",
-        "Republic"
-    ],
+    "TOMORROW X TOGETHER": [],
     "Ella Langley": [
         "Sony Nashville",
         "Columbia"
@@ -505,9 +495,15 @@ var data = {
     "Jimin": [
         "Big Hit"
     ],
-    "The Jacksons": [],
+    "The Jacksons": [
+        "Steeltown",
+        "Motown",
+        "PIR",
+        "Epic",
+        "CBS"
+    ],
     "Tucker Wetmore": [
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/07";
+};var lastUpdated = "12/08";
