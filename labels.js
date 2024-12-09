@@ -27,10 +27,7 @@ var data = {
         "Darkroom",
         "Interscope"
     ],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Broncos"
-    ],
+    "Zach Bryan": [],
     "Jelly Roll": [
         "Slumerican",
         "Bad Apple Inc.",
@@ -223,7 +220,13 @@ var data = {
         "Duars",
         "Sony Latin"
     ],
-    "Frank Sinatra": [],
+    "Frank Sinatra": [
+        "RCA",
+        "Columbia",
+        "Capitol",
+        "Reprise",
+        "Warner Bros"
+    ],
     "Wham!": [
         "Columbia",
         "Innervision",
@@ -311,7 +314,11 @@ var data = {
     "Thomas Rhett": [
         "Valory/Big Machine"
     ],
-    "TOMORROW X TOGETHER": [],
+    "TOMORROW X TOGETHER": [
+        "Big Hit",
+        "Universal Japan",
+        "Republic"
+    ],
     "Ella Langley": [
         "Sony Nashville",
         "Columbia"
@@ -506,4 +513,4 @@ var data = {
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/08";
+};var lastUpdated = "12/09";

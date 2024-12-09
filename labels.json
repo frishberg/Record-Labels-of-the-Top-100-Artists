@@ -27,10 +27,7 @@
         "Darkroom",
         "Interscope"
     ],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Broncos"
-    ],
+    "Zach Bryan": [],
     "Jelly Roll": [
         "Slumerican",
         "Bad Apple Inc.",
@@ -223,7 +220,13 @@
         "Duars",
         "Sony Latin"
     ],
-    "Frank Sinatra": [],
+    "Frank Sinatra": [
+        "RCA",
+        "Columbia",
+        "Capitol",
+        "Reprise",
+        "Warner Bros"
+    ],
     "Wham!": [
         "Columbia",
         "Innervision",
@@ -311,7 +314,11 @@
     "Thomas Rhett": [
         "Valory/Big Machine"
     ],
-    "TOMORROW X TOGETHER": [],
+    "TOMORROW X TOGETHER": [
+        "Big Hit",
+        "Universal Japan",
+        "Republic"
+    ],
     "Ella Langley": [
         "Sony Nashville",
         "Columbia"
