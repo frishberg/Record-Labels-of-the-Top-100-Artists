@@ -27,7 +27,10 @@
         "Darkroom",
         "Interscope"
     ],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Broncos"
+    ],
     "Jelly Roll": [
         "Slumerican",
         "Bad Apple Inc.",
@@ -124,11 +127,7 @@
         "Def Jam",
         "Epic"
     ],
-    "Hozier": [
-        "Rubyworks",
-        "Island",
-        "Columbia"
-    ],
+    "Hozier": [],
     "Lady Gaga": [
         "Def Jam",
         "Cherrytree",
@@ -371,12 +370,7 @@
         "Roadrunner",
         "Atomic Fire"
     ],
-    "Ed Sheeran": [
-        "Asylum",
-        "Atlantic",
-        "Elektra",
-        "Gingerbread Man"
-    ],
+    "Ed Sheeran": [],
     "Frank Ocean": [
         "Blonded",
         "Def Jam",

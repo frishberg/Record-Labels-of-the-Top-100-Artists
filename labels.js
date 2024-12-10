@@ -27,7 +27,10 @@ var data = {
         "Darkroom",
         "Interscope"
     ],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Broncos"
+    ],
     "Jelly Roll": [
         "Slumerican",
         "Bad Apple Inc.",
@@ -124,11 +127,7 @@ var data = {
         "Def Jam",
         "Epic"
     ],
-    "Hozier": [
-        "Rubyworks",
-        "Island",
-        "Columbia"
-    ],
+    "Hozier": [],
     "Lady Gaga": [
         "Def Jam",
         "Cherrytree",
@@ -371,12 +370,7 @@ var data = {
         "Roadrunner",
         "Atomic Fire"
     ],
-    "Ed Sheeran": [
-        "Asylum",
-        "Atlantic",
-        "Elektra",
-        "Gingerbread Man"
-    ],
+    "Ed Sheeran": [],
     "Frank Ocean": [
         "Blonded",
         "Def Jam",
@@ -513,4 +507,4 @@ var data = {
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/09";
+};var lastUpdated = "12/10";
