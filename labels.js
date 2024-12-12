@@ -126,7 +126,11 @@ var data = {
         "Columbia",
         "Kritzerland"
     ],
-    "Hozier": [],
+    "Hozier": [
+        "Rubyworks",
+        "Island",
+        "Columbia"
+    ],
     "Bing Crosby": [
         "Decca",
         "Columbia",
@@ -166,11 +170,7 @@ var data = {
     "Chris Stapleton": [
         "Mercury Nashville"
     ],
-    "Bobby Helms": [
-        "Decca",
-        "Columbia",
-        "Vocalion"
-    ],
+    "Bobby Helms": [],
     "Frank Sinatra": [
         "RCA",
         "Columbia",
@@ -523,4 +523,4 @@ var data = {
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/11";
+};var lastUpdated = "12/12";

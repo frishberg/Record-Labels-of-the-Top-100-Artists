@@ -126,7 +126,11 @@
         "Columbia",
         "Kritzerland"
     ],
-    "Hozier": [],
+    "Hozier": [
+        "Rubyworks",
+        "Island",
+        "Columbia"
+    ],
     "Bing Crosby": [
         "Decca",
         "Columbia",
@@ -166,11 +170,7 @@
     "Chris Stapleton": [
         "Mercury Nashville"
     ],
-    "Bobby Helms": [
-        "Decca",
-        "Columbia",
-        "Vocalion"
-    ],
+    "Bobby Helms": [],
     "Frank Sinatra": [
         "RCA",
         "Columbia",
