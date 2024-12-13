@@ -170,7 +170,11 @@
     "Chris Stapleton": [
         "Mercury Nashville"
     ],
-    "Bobby Helms": [],
+    "Bobby Helms": [
+        "Decca",
+        "Columbia",
+        "Vocalion"
+    ],
     "Frank Sinatra": [
         "RCA",
         "Columbia",
@@ -217,7 +221,8 @@
     ],
     "Pentatonix": [
         "RCA",
-        "Madison Gate"
+        "Madison Gate",
+        "Republic"
     ],
     "Charli xcx": [
         "Vroom Vroom",

@@ -170,7 +170,11 @@ var data = {
     "Chris Stapleton": [
         "Mercury Nashville"
     ],
-    "Bobby Helms": [],
+    "Bobby Helms": [
+        "Decca",
+        "Columbia",
+        "Vocalion"
+    ],
     "Frank Sinatra": [
         "RCA",
         "Columbia",
@@ -217,7 +221,8 @@ var data = {
     ],
     "Pentatonix": [
         "RCA",
-        "Madison Gate"
+        "Madison Gate",
+        "Republic"
     ],
     "Charli xcx": [
         "Vroom Vroom",
@@ -523,4 +528,4 @@ var data = {
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/12";
+};var lastUpdated = "12/13";
