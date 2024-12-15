@@ -75,7 +75,6 @@ var data = {
         "Warner Bros"
     ],
     "Shaboozey": [
-        "Republic\nEmpire",
         "Republic",
         "Empire"
     ],
@@ -114,8 +113,23 @@ var data = {
         "XO",
         "Republic"
     ],
-    "Vince Guaraldi Trio": [],
-    "Hozier": [],
+    "Vince Guaraldi Trio": [
+        "Lee Mendelson Film Productions",
+        "Fantasy",
+        "Concord",
+        "Craft",
+        "Warner Bros",
+        "Omnivore",
+        "D & D",
+        "V.A.G. Publishing",
+        "Columbia",
+        "Kritzerland"
+    ],
+    "Hozier": [
+        "Rubyworks",
+        "Island",
+        "Columbia"
+    ],
     "Bing Crosby": [
         "Decca",
         "Columbia",
@@ -143,12 +157,18 @@ var data = {
         "Sony"
     ],
     "Burl Ives": [],
-    "Noah Kahan": [],
+    "Noah Kahan": [
+        "Republic",
+        "Universal",
+        "Mercury"
+    ],
     "Dean Martin": [
         "Capitol",
         "Reprise"
     ],
-    "Chris Stapleton": [],
+    "Chris Stapleton": [
+        "Mercury Nashville"
+    ],
     "Bobby Helms": [
         "Decca",
         "Columbia",
@@ -412,7 +432,10 @@ var data = {
         "Open Shift",
         "Jay Rebel"
     ],
-    "Nirvana": [],
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
+    ],
     "Sia": [
         "Dance Pool",
         "Go! Beat",
@@ -504,4 +527,4 @@ var data = {
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/14";
+};var lastUpdated = "12/15";
