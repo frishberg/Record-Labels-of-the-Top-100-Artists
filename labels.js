@@ -422,11 +422,7 @@ var data = {
         "Kemosabe",
         "RCA"
     ],
-    "TOMORROW X TOGETHER": [
-        "Big Hit",
-        "Universal Japan",
-        "Republic"
-    ],
+    "TOMORROW X TOGETHER": [],
     "Sexyy Red": [
         "gamma.",
         "Open Shift",
@@ -444,13 +440,7 @@ var data = {
         "Monkey Puzzle",
         "Atlantic"
     ],
-    "Coldplay": [
-        "Fierce Panda",
-        "Parlophone",
-        "Nettwerk",
-        "Capitol",
-        "Atlantic"
-    ],
+    "Coldplay": [],
     "Stevie Wonder": [
         "Tamla",
         "Motown",
@@ -459,9 +449,7 @@ var data = {
     "V": [
         "Big Hit"
     ],
-    "Cody Johnson": [
-        "Warner Bros"
-    ],
+    "Cody Johnson": [],
     "Lana Del Rey": [
         "5 Points",
         "Stranger",
@@ -527,4 +515,4 @@ var data = {
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/15";
+};var lastUpdated = "12/16";
