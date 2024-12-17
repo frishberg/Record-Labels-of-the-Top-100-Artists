@@ -275,12 +275,7 @@ var data = {
         "Colpix",
         "Philles"
     ],
-    "Elvis Presley": [
-        "Sun",
-        "RCA",
-        "HMV",
-        "Allied Artists Music Group"
-    ],
+    "Elvis Presley": [],
     "Eagles": [
         "Asylum",
         "Geffen",
@@ -422,7 +417,11 @@ var data = {
         "Kemosabe",
         "RCA"
     ],
-    "TOMORROW X TOGETHER": [],
+    "TOMORROW X TOGETHER": [
+        "Big Hit",
+        "Universal Japan",
+        "Republic"
+    ],
     "Sexyy Red": [
         "gamma.",
         "Open Shift",
@@ -440,7 +439,13 @@ var data = {
         "Monkey Puzzle",
         "Atlantic"
     ],
-    "Coldplay": [],
+    "Coldplay": [
+        "Fierce Panda",
+        "Parlophone",
+        "Nettwerk",
+        "Capitol",
+        "Atlantic"
+    ],
     "Stevie Wonder": [
         "Tamla",
         "Motown",
@@ -449,7 +454,9 @@ var data = {
     "V": [
         "Big Hit"
     ],
-    "Cody Johnson": [],
+    "Cody Johnson": [
+        "Warner Bros"
+    ],
     "Lana Del Rey": [
         "5 Points",
         "Stranger",
@@ -515,4 +522,4 @@ var data = {
         "Back Blocks",
         "UMG Nashville"
     ]
-};var lastUpdated = "12/16";
+};var lastUpdated = "12/17";
