@@ -27,7 +27,12 @@ var data = {
     "Ariana Grande": [
         "Republic"
     ],
-    "Morgan Wallen": [],
+    "Morgan Wallen": [
+        "Panacea",
+        "Big Loud",
+        "Republic",
+        "Mercury"
+    ],
     "Billie Eilish": [
         "Darkroom",
         "Interscope"
@@ -134,7 +139,12 @@ var data = {
         "Columbia",
         "Kritzerland"
     ],
-    "Brenda Lee": [],
+    "Brenda Lee": [
+        "Decca",
+        "MCA",
+        "Warner Bros",
+        "Telstar"
+    ],
     "Luke Combs": [
         "River House Artists",
         "Sony Music Nashville"
@@ -225,9 +235,7 @@ var data = {
         "Web",
         "Polydor"
     ],
-    "Tate McRae": [
-        "RCA"
-    ],
+    "Tate McRae": [],
     "Laufey": [
         "AWAL"
     ],
@@ -265,10 +273,7 @@ var data = {
         "Polydor",
         "Lost Highway"
     ],
-    "The Ronettes": [
-        "Colpix",
-        "Philles"
-    ],
+    "The Ronettes": [],
     "Charli xcx": [
         "Vroom Vroom",
         "Warner Bros",
@@ -450,12 +455,7 @@ var data = {
         "Virgin EMI",
         "EMI"
     ],
-    "Lana Del Rey": [
-        "5 Points",
-        "Stranger",
-        "Polydor",
-        "Interscope"
-    ],
+    "Lana Del Rey": [],
     "Thurl Ravenscroft": [],
     "Playboi Carti": [
         "AWGE",
@@ -520,4 +520,4 @@ var data = {
         "RCA",
         "Jive"
     ]
-};var lastUpdated = "12/18";
+};var lastUpdated = "12/19";
