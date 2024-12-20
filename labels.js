@@ -235,7 +235,9 @@ var data = {
         "Web",
         "Polydor"
     ],
-    "Tate McRae": [],
+    "Tate McRae": [
+        "RCA"
+    ],
     "Laufey": [
         "AWAL"
     ],
@@ -273,7 +275,10 @@ var data = {
         "Polydor",
         "Lost Highway"
     ],
-    "The Ronettes": [],
+    "The Ronettes": [
+        "Colpix",
+        "Philles"
+    ],
     "Charli xcx": [
         "Vroom Vroom",
         "Warner Bros",
@@ -455,7 +460,12 @@ var data = {
         "Virgin EMI",
         "EMI"
     ],
-    "Lana Del Rey": [],
+    "Lana Del Rey": [
+        "5 Points",
+        "Stranger",
+        "Polydor",
+        "Interscope"
+    ],
     "Thurl Ravenscroft": [],
     "Playboi Carti": [
         "AWGE",
@@ -520,4 +530,4 @@ var data = {
         "RCA",
         "Jive"
     ]
-};var lastUpdated = "12/19";
+};var lastUpdated = "12/20";
