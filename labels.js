@@ -44,10 +44,7 @@ var data = {
         "RED",
         "XL"
     ],
-    "SZA": [
-        "TDE",
-        "RCA"
-    ],
+    "SZA": [],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -163,7 +160,8 @@ var data = {
         "Columbia",
         "Innervision",
         "Epic",
-        "Sony"
+        "Sony",
+        "Granada Records"
     ],
     "Dean Martin": [
         "Capitol",
@@ -486,17 +484,7 @@ var data = {
     "Lola Young": [
         "Island"
     ],
-    "Paul McCartney": [
-        "Apple",
-        "Capitol",
-        "Columbia",
-        "Decca",
-        "Hear Music",
-        "Parlophone",
-        "Polydor",
-        "Swan",
-        "Vee-Jay"
-    ],
+    "Paul McCartney": [],
     "Perry Como": [
         "Decca",
         "RCA"
@@ -530,4 +518,4 @@ var data = {
         "RCA",
         "Jive"
     ]
-};var lastUpdated = "12/20";
+};var lastUpdated = "12/21";

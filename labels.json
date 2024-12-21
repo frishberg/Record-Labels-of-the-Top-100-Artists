@@ -44,10 +44,7 @@
         "RED",
         "XL"
     ],
-    "SZA": [
-        "TDE",
-        "RCA"
-    ],
+    "SZA": [],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -163,7 +160,8 @@
         "Columbia",
         "Innervision",
         "Epic",
-        "Sony"
+        "Sony",
+        "Granada Records"
     ],
     "Dean Martin": [
         "Capitol",
@@ -486,17 +484,7 @@
     "Lola Young": [
         "Island"
     ],
-    "Paul McCartney": [
-        "Apple",
-        "Capitol",
-        "Columbia",
-        "Decca",
-        "Hear Music",
-        "Parlophone",
-        "Polydor",
-        "Swan",
-        "Vee-Jay"
-    ],
+    "Paul McCartney": [],
     "Perry Como": [
         "Decca",
         "RCA"
