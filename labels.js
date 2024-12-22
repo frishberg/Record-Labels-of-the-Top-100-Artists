@@ -44,7 +44,10 @@ var data = {
         "RED",
         "XL"
     ],
-    "SZA": [],
+    "SZA": [
+        "TDE",
+        "RCA"
+    ],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -78,9 +81,7 @@ var data = {
         "Warner Bros",
         "Belting Broncos"
     ],
-    "Teddy Swims": [
-        "Warner Bros"
-    ],
+    "Teddy Swims": [],
     "Nat King Cole": [
         "Ammor",
         "Excelsior",
@@ -160,8 +161,7 @@ var data = {
         "Columbia",
         "Innervision",
         "Epic",
-        "Sony",
-        "Granada Records"
+        "Sony"
     ],
     "Dean Martin": [
         "Capitol",
@@ -236,22 +236,14 @@ var data = {
     "Tate McRae": [
         "RCA"
     ],
-    "Laufey": [
-        "AWAL"
-    ],
+    "Laufey": [],
     "Elvis Presley": [
         "Sun",
         "RCA",
         "HMV",
         "Allied Artists Music Group"
     ],
-    "Gene Autry": [
-        "Columbia",
-        "Okeh",
-        "Perfect",
-        "Conqueror",
-        "Victor"
-    ],
+    "Gene Autry": [],
     "Trans-Siberian Orchestra": [
         "Lava",
         "Atlantic",
@@ -484,7 +476,17 @@ var data = {
     "Lola Young": [
         "Island"
     ],
-    "Paul McCartney": [],
+    "Paul McCartney": [
+        "Apple",
+        "Capitol",
+        "Columbia",
+        "Decca",
+        "Hear Music",
+        "Parlophone",
+        "Polydor",
+        "Swan",
+        "Vee-Jay"
+    ],
     "Perry Como": [
         "Decca",
         "RCA"
@@ -518,4 +520,4 @@ var data = {
         "RCA",
         "Jive"
     ]
-};var lastUpdated = "12/21";
+};var lastUpdated = "12/22";

@@ -44,7 +44,10 @@
         "RED",
         "XL"
     ],
-    "SZA": [],
+    "SZA": [
+        "TDE",
+        "RCA"
+    ],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -78,9 +81,7 @@
         "Warner Bros",
         "Belting Broncos"
     ],
-    "Teddy Swims": [
-        "Warner Bros"
-    ],
+    "Teddy Swims": [],
     "Nat King Cole": [
         "Ammor",
         "Excelsior",
@@ -160,8 +161,7 @@
         "Columbia",
         "Innervision",
         "Epic",
-        "Sony",
-        "Granada Records"
+        "Sony"
     ],
     "Dean Martin": [
         "Capitol",
@@ -236,22 +236,14 @@
     "Tate McRae": [
         "RCA"
     ],
-    "Laufey": [
-        "AWAL"
-    ],
+    "Laufey": [],
     "Elvis Presley": [
         "Sun",
         "RCA",
         "HMV",
         "Allied Artists Music Group"
     ],
-    "Gene Autry": [
-        "Columbia",
-        "Okeh",
-        "Perfect",
-        "Conqueror",
-        "Victor"
-    ],
+    "Gene Autry": [],
     "Trans-Siberian Orchestra": [
         "Lava",
         "Atlantic",
@@ -484,7 +476,17 @@
     "Lola Young": [
         "Island"
     ],
-    "Paul McCartney": [],
+    "Paul McCartney": [
+        "Apple",
+        "Capitol",
+        "Columbia",
+        "Decca",
+        "Hear Music",
+        "Parlophone",
+        "Polydor",
+        "Swan",
+        "Vee-Jay"
+    ],
     "Perry Como": [
         "Decca",
         "RCA"
