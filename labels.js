@@ -44,10 +44,7 @@ var data = {
         "RED",
         "XL"
     ],
-    "SZA": [
-        "TDE",
-        "RCA"
-    ],
+    "SZA": [],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -81,7 +78,9 @@ var data = {
         "Warner Bros",
         "Belting Broncos"
     ],
-    "Teddy Swims": [],
+    "Teddy Swims": [
+        "Warner Bros"
+    ],
     "Nat King Cole": [
         "Ammor",
         "Excelsior",
@@ -236,14 +235,22 @@ var data = {
     "Tate McRae": [
         "RCA"
     ],
-    "Laufey": [],
+    "Laufey": [
+        "AWAL"
+    ],
     "Elvis Presley": [
         "Sun",
         "RCA",
         "HMV",
         "Allied Artists Music Group"
     ],
-    "Gene Autry": [],
+    "Gene Autry": [
+        "Columbia",
+        "Okeh",
+        "Perfect",
+        "Conqueror",
+        "Victor"
+    ],
     "Trans-Siberian Orchestra": [
         "Lava",
         "Atlantic",
@@ -276,14 +283,7 @@ var data = {
         "Atlantic",
         "Iamsound"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "The Jacksons": [
         "Steeltown",
         "Motown",
@@ -344,11 +344,7 @@ var data = {
         "Elektra"
     ],
     "Tito Double P": [],
-    "Frank Ocean": [
-        "Blonded",
-        "Def Jam",
-        "RedZone"
-    ],
+    "Frank Ocean": [],
     "The Beatles": [
         "Polydor",
         "Parlophone",
@@ -520,4 +516,4 @@ var data = {
         "RCA",
         "Jive"
     ]
-};var lastUpdated = "12/22";
+};var lastUpdated = "12/23";

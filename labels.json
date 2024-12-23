@@ -44,10 +44,7 @@
         "RED",
         "XL"
     ],
-    "SZA": [
-        "TDE",
-        "RCA"
-    ],
+    "SZA": [],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -81,7 +78,9 @@
         "Warner Bros",
         "Belting Broncos"
     ],
-    "Teddy Swims": [],
+    "Teddy Swims": [
+        "Warner Bros"
+    ],
     "Nat King Cole": [
         "Ammor",
         "Excelsior",
@@ -236,14 +235,22 @@
     "Tate McRae": [
         "RCA"
     ],
-    "Laufey": [],
+    "Laufey": [
+        "AWAL"
+    ],
     "Elvis Presley": [
         "Sun",
         "RCA",
         "HMV",
         "Allied Artists Music Group"
     ],
-    "Gene Autry": [],
+    "Gene Autry": [
+        "Columbia",
+        "Okeh",
+        "Perfect",
+        "Conqueror",
+        "Victor"
+    ],
     "Trans-Siberian Orchestra": [
         "Lava",
         "Atlantic",
@@ -276,14 +283,7 @@
         "Atlantic",
         "Iamsound"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "The Jacksons": [
         "Steeltown",
         "Motown",
@@ -344,11 +344,7 @@
         "Elektra"
     ],
     "Tito Double P": [],
-    "Frank Ocean": [
-        "Blonded",
-        "Def Jam",
-        "RedZone"
-    ],
+    "Frank Ocean": [],
     "The Beatles": [
         "Polydor",
         "Parlophone",
