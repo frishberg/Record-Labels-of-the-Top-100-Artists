@@ -37,14 +37,11 @@ var data = {
         "Darkroom",
         "Interscope"
     ],
-    "Tyler, The Creator": [
-        "Columbia",
-        "Odd Future",
-        "Sony",
-        "RED",
-        "XL"
+    "Tyler, The Creator": [],
+    "SZA": [
+        "TDE",
+        "RCA"
     ],
-    "SZA": [],
     "Chappell Roan": [
         "Atlantic",
         "Island",
@@ -283,7 +280,14 @@ var data = {
         "Atlantic",
         "Iamsound"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "The Jacksons": [
         "Steeltown",
         "Motown",
@@ -344,7 +348,11 @@ var data = {
         "Elektra"
     ],
     "Tito Double P": [],
-    "Frank Ocean": [],
+    "Frank Ocean": [
+        "Blonded",
+        "Def Jam",
+        "RedZone"
+    ],
     "The Beatles": [
         "Polydor",
         "Parlophone",
@@ -516,4 +524,4 @@ var data = {
         "RCA",
         "Jive"
     ]
-};var lastUpdated = "12/23";
+};var lastUpdated = "12/24";
