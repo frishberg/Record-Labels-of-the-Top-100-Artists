@@ -28,7 +28,15 @@ var data = {
         "Republic",
         "Mercury"
     ],
-    "Mariah Carey": [],
+    "Mariah Carey": [
+        "Columbia",
+        "Crave",
+        "Virgin",
+        "MonarC",
+        "Island",
+        "Def Jam",
+        "Epic"
+    ],
     "Tyler, The Creator": [
         "Columbia",
         "Odd Future",
@@ -79,7 +87,18 @@ var data = {
         "Elektra"
     ],
     "Shaboozey": [],
-    "Vince Guaraldi Trio": [],
+    "Vince Guaraldi Trio": [
+        "Lee Mendelson Film Productions",
+        "Fantasy",
+        "Concord",
+        "Craft",
+        "Warner Bros",
+        "Omnivore",
+        "D & D",
+        "V.A.G. Publishing",
+        "Columbia",
+        "Kritzerland"
+    ],
     "Teddy Swims": [
         "Warner Bros"
     ],
@@ -269,10 +288,7 @@ var data = {
         "Rhino",
         "Republic"
     ],
-    "The Ronettes": [
-        "Colpix",
-        "Philles"
-    ],
+    "The Ronettes": [],
     "Laufey": [
         "AWAL"
     ],
@@ -531,4 +547,4 @@ var data = {
         "Sony Nashville",
         "Columbia"
     ]
-};var lastUpdated = "12/25";
+};var lastUpdated = "12/26";
