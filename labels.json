@@ -86,7 +86,10 @@
         "Atlantic",
         "Elektra"
     ],
-    "Shaboozey": [],
+    "Shaboozey": [
+        "Republic",
+        "Empire"
+    ],
     "Vince Guaraldi Trio": [
         "Lee Mendelson Film Productions",
         "Fantasy",
@@ -288,7 +291,10 @@
         "Rhino",
         "Republic"
     ],
-    "The Ronettes": [],
+    "The Ronettes": [
+        "Colpix",
+        "Philles"
+    ],
     "Laufey": [
         "AWAL"
     ],

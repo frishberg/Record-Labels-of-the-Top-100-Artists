@@ -86,7 +86,10 @@ var data = {
         "Atlantic",
         "Elektra"
     ],
-    "Shaboozey": [],
+    "Shaboozey": [
+        "Republic",
+        "Empire"
+    ],
     "Vince Guaraldi Trio": [
         "Lee Mendelson Film Productions",
         "Fantasy",
@@ -288,7 +291,10 @@ var data = {
         "Rhino",
         "Republic"
     ],
-    "The Ronettes": [],
+    "The Ronettes": [
+        "Colpix",
+        "Philles"
+    ],
     "Laufey": [
         "AWAL"
     ],
@@ -547,4 +553,4 @@ var data = {
         "Sony Nashville",
         "Columbia"
     ]
-};var lastUpdated = "12/26";
+};var lastUpdated = "12/27";
