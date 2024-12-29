@@ -86,10 +86,7 @@ var data = {
         "Atlantic",
         "Elektra"
     ],
-    "Shaboozey": [
-        "Republic",
-        "Empire"
-    ],
+    "Shaboozey": [],
     "Vince Guaraldi Trio": [
         "Lee Mendelson Film Productions",
         "Fantasy",
@@ -220,10 +217,7 @@ var data = {
         "Streamline",
         "Interscope"
     ],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
-    ],
+    "Benson Boone": [],
     "Cynthia Erivo": [],
     "Darlene Love": [
         "Philles",
@@ -455,10 +449,7 @@ var data = {
     "Olivia Rodrigo": [
         "Geffen"
     ],
-    "Meghan Trainor": [
-        "Honest OG",
-        "Epic"
-    ],
+    "Meghan Trainor": [],
     "Thurl Ravenscroft": [],
     "Drake": [
         "OVO Sound",
@@ -466,9 +457,7 @@ var data = {
         "Young Money",
         "Cash Money"
     ],
-    "Lola Young": [
-        "Island"
-    ],
+    "Lola Young": [],
     "Daft Punk": [
         "Daft Life",
         "Columbia",
@@ -543,14 +532,9 @@ var data = {
         "APG",
         "We Run It"
     ],
-    "Carrie Underwood": [
-        "19",
-        "Arista",
-        "Arista Nashville",
-        "Capitol Nashville"
-    ],
+    "Carrie Underwood": [],
     "Ella Langley": [
         "Sony Nashville",
         "Columbia"
     ]
-};var lastUpdated = "12/28";
+};var lastUpdated = "12/29";
