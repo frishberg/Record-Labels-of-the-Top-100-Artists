@@ -81,11 +81,7 @@
         "Interscope",
         "Polydor"
     ],
-    "Bruno Mars": [
-        "Universal Motown",
-        "Atlantic",
-        "Elektra"
-    ],
+    "Bruno Mars": [],
     "Shaboozey": [],
     "Vince Guaraldi Trio": [
         "Lee Mendelson Film Productions",
@@ -217,13 +213,12 @@
         "Streamline",
         "Interscope"
     ],
-    "Benson Boone": [],
-    "Cynthia Erivo": [],
-    "Darlene Love": [
-        "Philles",
-        "OKeh",
-        "Warner Bros"
+    "Benson Boone": [
+        "Warner Bros",
+        "Night Street"
     ],
+    "Cynthia Erivo": [],
+    "Darlene Love": [],
     "Gene Autry": [
         "Columbia",
         "Okeh",
@@ -325,14 +320,7 @@
         "Warner Bros",
         "Republic"
     ],
-    "The Beach Boys": [
-        "Candix",
-        "Capitol",
-        "Brother",
-        "Reprise",
-        "Caribou",
-        "CBS"
-    ],
+    "The Beach Boys": [],
     "Metallica": [
         "Megaforce",
         "Elektra",
@@ -394,22 +382,7 @@
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Elton John": [
-        "Philips",
-        "Congress",
-        "DJM",
-        "Uni",
-        "Paramount",
-        "MCA",
-        "Geffen",
-        "Rocket",
-        "Island",
-        "Mercury",
-        "Island Def Jam",
-        "Interscope",
-        "Virgin EMI",
-        "EMI"
-    ],
+    "Elton John": [],
     "Dan + Shay": [
         "Warner Bros"
     ],
@@ -449,7 +422,10 @@
     "Olivia Rodrigo": [
         "Geffen"
     ],
-    "Meghan Trainor": [],
+    "Meghan Trainor": [
+        "Honest OG",
+        "Epic"
+    ],
     "Thurl Ravenscroft": [],
     "Drake": [
         "OVO Sound",
@@ -457,7 +433,9 @@
         "Young Money",
         "Cash Money"
     ],
-    "Lola Young": [],
+    "Lola Young": [
+        "Island"
+    ],
     "Daft Punk": [
         "Daft Life",
         "Columbia",
@@ -532,7 +510,12 @@
         "APG",
         "We Run It"
     ],
-    "Carrie Underwood": [],
+    "Carrie Underwood": [
+        "19",
+        "Arista",
+        "Arista Nashville",
+        "Capitol Nashville"
+    ],
     "Ella Langley": [
         "Sony Nashville",
         "Columbia"
