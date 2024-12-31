@@ -81,8 +81,15 @@ var data = {
         "Interscope",
         "Polydor"
     ],
-    "Bruno Mars": [],
-    "Shaboozey": [],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
+    "Shaboozey": [
+        "Republic",
+        "Empire"
+    ],
     "Vince Guaraldi Trio": [
         "Lee Mendelson Film Productions",
         "Fantasy",
@@ -218,7 +225,11 @@ var data = {
         "Night Street"
     ],
     "Cynthia Erivo": [],
-    "Darlene Love": [],
+    "Darlene Love": [
+        "Philles",
+        "OKeh",
+        "Warner Bros"
+    ],
     "Gene Autry": [
         "Columbia",
         "Okeh",
@@ -236,14 +247,7 @@ var data = {
         "Warner Bros",
         "Machine Shop"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Eminem": [
         "Shady",
         "Aftermath",
@@ -320,7 +324,14 @@ var data = {
         "Warner Bros",
         "Republic"
     ],
-    "The Beach Boys": [],
+    "The Beach Boys": [
+        "Candix",
+        "Capitol",
+        "Brother",
+        "Reprise",
+        "Caribou",
+        "CBS"
+    ],
     "Metallica": [
         "Megaforce",
         "Elektra",
@@ -382,7 +393,22 @@ var data = {
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Elton John": [],
+    "Elton John": [
+        "Philips",
+        "Congress",
+        "DJM",
+        "Uni",
+        "Paramount",
+        "MCA",
+        "Geffen",
+        "Rocket",
+        "Island",
+        "Mercury",
+        "Island Def Jam",
+        "Interscope",
+        "Virgin EMI",
+        "EMI"
+    ],
     "Dan + Shay": [
         "Warner Bros"
     ],
@@ -520,4 +546,4 @@ var data = {
         "Sony Nashville",
         "Columbia"
     ]
-};var lastUpdated = "12/30";
+};var lastUpdated = "12/31";
