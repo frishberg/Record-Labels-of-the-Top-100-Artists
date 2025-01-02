@@ -124,13 +124,20 @@ var data = {
         "Wyte Music",
         "BBR"
     ],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Broncos"
+    ],
     "Bobby Helms": [
         "Decca",
         "Columbia",
         "Vocalion"
     ],
-    "Bruno Mars": [],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Kelly Clarkson": [
         "RCA",
         "19",
@@ -242,7 +249,10 @@ var data = {
         "The Black Label",
         "Atlantic"
     ],
-    "GloRilla": [],
+    "GloRilla": [
+        "Collective",
+        "Interscope"
+    ],
     "The Jacksons": [
         "Steeltown",
         "Motown",
@@ -312,10 +322,7 @@ var data = {
         "Monkey Puzzle",
         "Atlantic"
     ],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
-    ],
+    "Nirvana": [],
     "Myles Smith": [
         "RCA"
     ],
@@ -339,13 +346,7 @@ var data = {
         "Decca",
         "RCA"
     ],
-    "Eminem": [
-        "Shady",
-        "Aftermath",
-        "Interscope",
-        "Web",
-        "Polydor"
-    ],
+    "Eminem": [],
     "Lainey Wilson": [
         "Cupit",
         "Lone Chief",
@@ -489,7 +490,15 @@ var data = {
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Queen": [],
+    "Queen": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+    ],
     "Beyonce": [
         "Parkwood",
         "Columbia",
@@ -550,4 +559,4 @@ var data = {
         "Roc-A-Fella",
         "YZY"
     ]
-};var lastUpdated = "01/01";
+};var lastUpdated = "01/02";

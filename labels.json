@@ -124,13 +124,20 @@
         "Wyte Music",
         "BBR"
     ],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Broncos"
+    ],
     "Bobby Helms": [
         "Decca",
         "Columbia",
         "Vocalion"
     ],
-    "Bruno Mars": [],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Kelly Clarkson": [
         "RCA",
         "19",
@@ -242,7 +249,10 @@
         "The Black Label",
         "Atlantic"
     ],
-    "GloRilla": [],
+    "GloRilla": [
+        "Collective",
+        "Interscope"
+    ],
     "The Jacksons": [
         "Steeltown",
         "Motown",
@@ -312,10 +322,7 @@
         "Monkey Puzzle",
         "Atlantic"
     ],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
-    ],
+    "Nirvana": [],
     "Myles Smith": [
         "RCA"
     ],
@@ -339,13 +346,7 @@
         "Decca",
         "RCA"
     ],
-    "Eminem": [
-        "Shady",
-        "Aftermath",
-        "Interscope",
-        "Web",
-        "Polydor"
-    ],
+    "Eminem": [],
     "Lainey Wilson": [
         "Cupit",
         "Lone Chief",
@@ -489,7 +490,15 @@
     "BigXthaPlug": [
         "UnitedMasters"
     ],
-    "Queen": [],
+    "Queen": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+    ],
     "Beyonce": [
         "Parkwood",
         "Columbia",
