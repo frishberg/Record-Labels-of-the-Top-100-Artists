@@ -43,12 +43,7 @@ var data = {
         "Darkroom",
         "Interscope"
     ],
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
+    "Morgan Wallen": [],
     "Bing Crosby": [
         "Decca",
         "Columbia",
@@ -183,7 +178,7 @@ var data = {
     "Elvis Presley": [
         "Sun",
         "RCA",
-        "HMV",
+        "His Master's Voice",
         "Allied Artists Music Group"
     ],
     "Gene Autry": [
@@ -267,14 +262,7 @@ var data = {
         "Warner Bros",
         "Machine Shop"
     ],
-    "The Beach Boys": [
-        "Candix",
-        "Capitol",
-        "Brother",
-        "Reprise",
-        "Caribou",
-        "CBS"
-    ],
+    "The Beach Boys": [],
     "Charli xcx": [
         "Vroom Vroom",
         "Warner Bros",
@@ -322,10 +310,11 @@ var data = {
         "Monkey Puzzle",
         "Atlantic"
     ],
-    "Nirvana": [],
-    "Myles Smith": [
-        "RCA"
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
     ],
+    "Myles Smith": [],
     "Elton John": [
         "Philips",
         "Congress",
@@ -344,9 +333,16 @@ var data = {
     ],
     "Perry Como": [
         "Decca",
-        "RCA"
+        "RCA",
+        "His Master's Voice"
     ],
-    "Eminem": [],
+    "Eminem": [
+        "Shady",
+        "Aftermath",
+        "Interscope",
+        "Web",
+        "Polydor"
+    ],
     "Lainey Wilson": [
         "Cupit",
         "Lone Chief",
@@ -430,6 +426,7 @@ var data = {
     ],
     "Johnny Mathis": [
         "Columbia",
+        "His Master's Voice",
         "Fontana",
         "Mercury"
     ],
@@ -513,20 +510,7 @@ var data = {
         "Warner Bros",
         "Reprise"
     ],
-    "Eartha Kitt": [
-        "RCA",
-        "Kapp",
-        "MGM",
-        "EMI",
-        "GNP Crescendo",
-        "Decca",
-        "Spark",
-        "Can't Stop",
-        "Ariola",
-        "ITM",
-        "DRG",
-        "Strike Force"
-    ],
+    "Eartha Kitt": [],
     "John Williams": [],
     "Carrie Underwood": [
         "19",
@@ -559,4 +543,4 @@ var data = {
         "Roc-A-Fella",
         "YZY"
     ]
-};var lastUpdated = "01/02";
+};var lastUpdated = "01/03";
