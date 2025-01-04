@@ -43,7 +43,12 @@
         "Darkroom",
         "Interscope"
     ],
-    "Morgan Wallen": [],
+    "Morgan Wallen": [
+        "Panacea",
+        "Big Loud",
+        "Republic",
+        "Mercury"
+    ],
     "Bing Crosby": [
         "Decca",
         "Columbia",
@@ -66,12 +71,7 @@
         "Island",
         "Amusement"
     ],
-    "Andy Williams": [
-        "Cadence",
-        "Columbia",
-        "London",
-        "Polydor"
-    ],
+    "Andy Williams": [],
     "Wham!": [
         "Columbia",
         "Innervision",
@@ -94,12 +94,7 @@
         "Capitol",
         "Reprise"
     ],
-    "Brenda Lee": [
-        "Decca",
-        "MCA",
-        "Warner Bros",
-        "Telstar"
-    ],
+    "Brenda Lee": [],
     "Stray Kids": [
         "JYP",
         "Epic Japan",
@@ -214,9 +209,7 @@
         "Warner Bros",
         "LMJS Productions"
     ],
-    "Laufey": [
-        "AWAL"
-    ],
+    "Laufey": [],
     "Lady Gaga": [
         "Def Jam",
         "Cherrytree",
@@ -262,7 +255,14 @@
         "Warner Bros",
         "Machine Shop"
     ],
-    "The Beach Boys": [],
+    "The Beach Boys": [
+        "Candix",
+        "Capitol",
+        "Brother",
+        "Reprise",
+        "Caribou",
+        "CBS"
+    ],
     "Charli xcx": [
         "Vroom Vroom",
         "Warner Bros",
@@ -314,7 +314,9 @@
         "Sub Pop",
         "DGC"
     ],
-    "Myles Smith": [],
+    "Myles Smith": [
+        "RCA"
+    ],
     "Elton John": [
         "Philips",
         "Congress",
@@ -413,9 +415,7 @@
     "Melanie Martinez": [
         "Atlantic"
     ],
-    "Olivia Rodrigo": [
-        "Geffen"
-    ],
+    "Olivia Rodrigo": [],
     "Dan + Shay": [
         "Warner Bros"
     ],
@@ -464,10 +464,7 @@
         "Word",
         "Sparrow"
     ],
-    "for KING + COUNTRY": [
-        "Fervent",
-        "Curb"
-    ],
+    "for KING + COUNTRY": [],
     "Tate McRae": [
         "RCA"
     ],
@@ -510,7 +507,21 @@
         "Warner Bros",
         "Reprise"
     ],
-    "Eartha Kitt": [],
+    "Eartha Kitt": [
+        "RCA",
+        "Kapp",
+        "MGM",
+        "EMI",
+        "GNP Crescendo",
+        "Decca",
+        "Spark",
+        "Can't Stop",
+        "Ariola",
+        "ITM",
+        "DRG",
+        "Strike Force",
+        "His Master's Voice"
+    ],
     "John Williams": [],
     "Carrie Underwood": [
         "19",
