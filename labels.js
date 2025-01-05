@@ -66,12 +66,13 @@ var data = {
         "RED",
         "XL"
     ],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement"
+    "Chappell Roan": [],
+    "Andy Williams": [
+        "Cadence",
+        "Columbia",
+        "London",
+        "Polydor"
     ],
-    "Andy Williams": [],
     "Wham!": [
         "Columbia",
         "Innervision",
@@ -94,7 +95,12 @@ var data = {
         "Capitol",
         "Reprise"
     ],
-    "Brenda Lee": [],
+    "Brenda Lee": [
+        "Decca",
+        "MCA",
+        "Warner Bros",
+        "Telstar"
+    ],
     "Stray Kids": [
         "JYP",
         "Epic Japan",
@@ -174,7 +180,7 @@ var data = {
         "Sun",
         "RCA",
         "His Master's Voice",
-        "Allied Artists Music Group"
+        "Allied Artists"
     ],
     "Gene Autry": [
         "Columbia",
@@ -187,10 +193,7 @@ var data = {
         "RCA",
         "Anthem"
     ],
-    "The Ronettes": [
-        "Colpix",
-        "Philles"
-    ],
+    "The Ronettes": [],
     "The Weeknd": [
         "XO",
         "Republic"
@@ -209,7 +212,9 @@ var data = {
         "Warner Bros",
         "LMJS Productions"
     ],
-    "Laufey": [],
+    "Laufey": [
+        "AWAL"
+    ],
     "Lady Gaga": [
         "Def Jam",
         "Cherrytree",
@@ -415,7 +420,9 @@ var data = {
     "Melanie Martinez": [
         "Atlantic"
     ],
-    "Olivia Rodrigo": [],
+    "Olivia Rodrigo": [
+        "Geffen"
+    ],
     "Dan + Shay": [
         "Warner Bros"
     ],
@@ -464,7 +471,10 @@ var data = {
         "Word",
         "Sparrow"
     ],
-    "for KING + COUNTRY": [],
+    "for KING + COUNTRY": [
+        "Fervent",
+        "Curb"
+    ],
     "Tate McRae": [
         "RCA"
     ],
@@ -554,4 +564,4 @@ var data = {
         "Roc-A-Fella",
         "YZY"
     ]
-};var lastUpdated = "01/04";
+};var lastUpdated = "01/05";
