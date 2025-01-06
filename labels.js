@@ -7,10 +7,7 @@ var data = {
         "TDE",
         "RCA"
     ],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
-    ],
+    "Sabrina Carpenter": [],
     "Kendrick Lamar": [
         "Interscope",
         "Top Dawg",
@@ -66,7 +63,11 @@ var data = {
         "RED",
         "XL"
     ],
-    "Chappell Roan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
     "Andy Williams": [
         "Cadence",
         "Columbia",
@@ -134,12 +135,7 @@ var data = {
         "Atlantic",
         "Elektra"
     ],
-    "Kelly Clarkson": [
-        "RCA",
-        "19",
-        "S",
-        "Atlantic"
-    ],
+    "Kelly Clarkson": [],
     "Burl Ives": [],
     "Teddy Swims": [
         "Warner Bros"
@@ -179,8 +175,9 @@ var data = {
     "Elvis Presley": [
         "Sun",
         "RCA",
-        "His Master's Voice",
-        "Allied Artists"
+        "His Master's Voice (UK)",
+        "Allied Artists",
+        "His Master's Voice"
     ],
     "Gene Autry": [
         "Columbia",
@@ -193,7 +190,10 @@ var data = {
         "RCA",
         "Anthem"
     ],
-    "The Ronettes": [],
+    "The Ronettes": [
+        "Colpix",
+        "Philles"
+    ],
     "The Weeknd": [
         "XO",
         "Republic"
@@ -253,13 +253,8 @@ var data = {
         "Epic",
         "CBS"
     ],
-    "Chris Stapleton": [
-        "Mercury Nashville"
-    ],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Chris Stapleton": [],
+    "Linkin Park": [],
     "The Beach Boys": [
         "Candix",
         "Capitol",
@@ -268,13 +263,7 @@ var data = {
         "Caribou",
         "CBS"
     ],
-    "Charli xcx": [
-        "Vroom Vroom",
-        "Warner Bros",
-        "Asylum",
-        "Atlantic",
-        "Iamsound"
-    ],
+    "Charli xcx": [],
     "Benson Boone": [
         "Warner Bros",
         "Night Street"
@@ -395,17 +384,7 @@ var data = {
         "EMI",
         "No Limit"
     ],
-    "Paul McCartney": [
-        "Apple",
-        "Capitol",
-        "Columbia",
-        "Decca",
-        "Hear Music",
-        "Parlophone",
-        "Polydor",
-        "Swan",
-        "Vee-Jay"
-    ],
+    "Paul McCartney": [],
     "Chris Brown": [
         "CBE",
         "Jive",
@@ -478,10 +457,7 @@ var data = {
     "Tate McRae": [
         "RCA"
     ],
-    "Meghan Trainor": [
-        "Honest OG",
-        "Epic"
-    ],
+    "Meghan Trainor": [],
     "Jonas Brothers": [
         "Walt Disney",
         "Hollywood",
@@ -508,10 +484,7 @@ var data = {
         "Columbia",
         "Music World"
     ],
-    "Gunna": [
-        "YSL",
-        "300"
-    ],
+    "Gunna": [],
     "Deftones": [
         "Maverick",
         "Warner Bros",
@@ -564,4 +537,4 @@ var data = {
         "Roc-A-Fella",
         "YZY"
     ]
-};var lastUpdated = "01/05";
+};var lastUpdated = "01/06";
