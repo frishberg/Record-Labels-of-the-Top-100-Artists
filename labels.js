@@ -7,7 +7,10 @@ var data = {
         "TDE",
         "RCA"
     ],
-    "Sabrina Carpenter": [],
+    "Sabrina Carpenter": [
+        "Hollywood",
+        "Island"
+    ],
     "Kendrick Lamar": [
         "Interscope",
         "Top Dawg",
@@ -130,12 +133,13 @@ var data = {
         "Columbia",
         "Vocalion"
     ],
-    "Bruno Mars": [
-        "Universal Motown",
-        "Atlantic",
-        "Elektra"
+    "Bruno Mars": [],
+    "Kelly Clarkson": [
+        "RCA",
+        "19",
+        "S",
+        "Atlantic"
     ],
-    "Kelly Clarkson": [],
     "Burl Ives": [],
     "Teddy Swims": [
         "Warner Bros"
@@ -253,8 +257,13 @@ var data = {
         "Epic",
         "CBS"
     ],
-    "Chris Stapleton": [],
-    "Linkin Park": [],
+    "Chris Stapleton": [
+        "Mercury Nashville"
+    ],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "The Beach Boys": [
         "Candix",
         "Capitol",
@@ -263,7 +272,13 @@ var data = {
         "Caribou",
         "CBS"
     ],
-    "Charli xcx": [],
+    "Charli xcx": [
+        "Vroom Vroom",
+        "Warner Bros",
+        "Asylum",
+        "Atlantic",
+        "Iamsound"
+    ],
     "Benson Boone": [
         "Warner Bros",
         "Night Street"
@@ -290,12 +305,7 @@ var data = {
         "Motown",
         "So What the Fuss Records"
     ],
-    "Lana Del Rey": [
-        "5 Points",
-        "Stranger",
-        "Polydor",
-        "Interscope"
-    ],
+    "Lana Del Rey": [],
     "Sia": [
         "Dance Pool",
         "Go! Beat",
@@ -384,7 +394,17 @@ var data = {
         "EMI",
         "No Limit"
     ],
-    "Paul McCartney": [],
+    "Paul McCartney": [
+        "Apple",
+        "Capitol",
+        "Columbia",
+        "Decca",
+        "Hear Music",
+        "Parlophone",
+        "Polydor",
+        "Swan",
+        "Vee-Jay"
+    ],
     "Chris Brown": [
         "CBE",
         "Jive",
@@ -457,7 +477,10 @@ var data = {
     "Tate McRae": [
         "RCA"
     ],
-    "Meghan Trainor": [],
+    "Meghan Trainor": [
+        "Honest OG",
+        "Epic"
+    ],
     "Jonas Brothers": [
         "Walt Disney",
         "Hollywood",
@@ -484,7 +507,10 @@ var data = {
         "Columbia",
         "Music World"
     ],
-    "Gunna": [],
+    "Gunna": [
+        "YSL",
+        "300"
+    ],
     "Deftones": [
         "Maverick",
         "Warner Bros",
@@ -537,4 +563,4 @@ var data = {
         "Roc-A-Fella",
         "YZY"
     ]
-};var lastUpdated = "01/06";
+};var lastUpdated = "01/07";
