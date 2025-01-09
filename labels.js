@@ -48,7 +48,9 @@ var data = {
         "Warner Bros",
         "Belting Broncos"
     ],
-    "Teddy Swims": [],
+    "Teddy Swims": [
+        "Warner Bros"
+    ],
     "Jelly Roll": [
         "Slumerican",
         "Bad Apple Inc.",
@@ -60,7 +62,10 @@ var data = {
         "Republic",
         "Empire"
     ],
-    "Luke Combs": [],
+    "Luke Combs": [
+        "River House Artists",
+        "Sony Music Nashville"
+    ],
     "Gracie Abrams": [
         "Interscope",
         "Polydor"
@@ -107,14 +112,7 @@ var data = {
         "Warner Bros",
         "Night Street"
     ],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "GloRilla": [
         "Collective",
         "Interscope"
@@ -184,12 +182,7 @@ var data = {
         "Very GOOD Beats",
         "Cactus Jack"
     ],
-    "Lana Del Rey": [
-        "5 Points",
-        "Stranger",
-        "Polydor",
-        "Interscope"
-    ],
+    "Lana Del Rey": [],
     "Bailey Zimmerman": [
         "Warner Bros",
         "Elektra"
@@ -214,14 +207,7 @@ var data = {
         "A1 (formerly)",
         "A1"
     ],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
-    ],
+    "Michael Jackson": [],
     "The Beatles": [
         "Polydor",
         "Parlophone",
@@ -287,7 +273,10 @@ var data = {
         "SRP",
         "Westbury Road"
     ],
-    "Doja Cat": [],
+    "Doja Cat": [
+        "Kemosabe",
+        "RCA"
+    ],
     "Bad Bunny": [
         "Hear This Music",
         "Rimas"
@@ -362,7 +351,12 @@ var data = {
         "Warner Bros",
         "Republic"
     ],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Sexyy Red": [
         "gamma.",
         "Open Shift",
@@ -393,6 +387,7 @@ var data = {
         "Columbia"
     ],
     "Creed": [
+        "Blue Collar",
         "Wind-up"
     ],
     "Green Day": [
@@ -467,4 +462,4 @@ var data = {
         "American",
         "Columbia"
     ]
-};var lastUpdated = "01/08";
+};var lastUpdated = "01/09";
