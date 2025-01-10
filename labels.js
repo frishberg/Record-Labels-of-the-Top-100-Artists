@@ -112,7 +112,14 @@ var data = {
         "Warner Bros",
         "Night Street"
     ],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "GloRilla": [
         "Collective",
         "Interscope"
@@ -182,7 +189,12 @@ var data = {
         "Very GOOD Beats",
         "Cactus Jack"
     ],
-    "Lana Del Rey": [],
+    "Lana Del Rey": [
+        "5 Points",
+        "Stranger",
+        "Polydor",
+        "Interscope"
+    ],
     "Bailey Zimmerman": [
         "Warner Bros",
         "Elektra"
@@ -207,7 +219,14 @@ var data = {
         "A1 (formerly)",
         "A1"
     ],
-    "Michael Jackson": [],
+    "Michael Jackson": [
+        "Steeltown",
+        "Motown",
+        "Epic",
+        "Legacy",
+        "Sony",
+        "MJJ Productions"
+    ],
     "The Beatles": [
         "Polydor",
         "Parlophone",
@@ -462,4 +481,4 @@ var data = {
         "American",
         "Columbia"
     ]
-};var lastUpdated = "01/09";
+};var lastUpdated = "01/10";
