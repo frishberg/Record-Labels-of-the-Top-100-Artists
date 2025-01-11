@@ -440,9 +440,7 @@ var data = {
         "Interscope",
         "Island"
     ],
-    "Creedence Clearwater Revival": [
-        "Fantasy"
-    ],
+    "Creedence Clearwater Revival": [],
     "Ken Carson": [
         "Opium",
         "Interscope (current)",
@@ -481,4 +479,4 @@ var data = {
         "American",
         "Columbia"
     ]
-};var lastUpdated = "01/10";
+};var lastUpdated = "01/11";
