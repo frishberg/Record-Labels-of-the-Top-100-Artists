@@ -300,13 +300,7 @@ var data = {
         "Hear This Music",
         "Rimas"
     ],
-    "Playboi Carti": [
-        "AWGE",
-        "Interscope",
-        "Opium",
-        "Awful (former)",
-        "Awful"
-    ],
+    "Playboi Carti": [],
     "J. Cole": [
         "Dreamville",
         "Roc Nation",
@@ -440,7 +434,9 @@ var data = {
         "Interscope",
         "Island"
     ],
-    "Creedence Clearwater Revival": [],
+    "Creedence Clearwater Revival": [
+        "Fantasy"
+    ],
     "Ken Carson": [
         "Opium",
         "Interscope (current)",
@@ -479,4 +475,4 @@ var data = {
         "American",
         "Columbia"
     ]
-};var lastUpdated = "01/11";
+};var lastUpdated = "01/12";

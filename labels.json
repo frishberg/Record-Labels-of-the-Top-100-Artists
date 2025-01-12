@@ -300,13 +300,7 @@
         "Hear This Music",
         "Rimas"
     ],
-    "Playboi Carti": [
-        "AWGE",
-        "Interscope",
-        "Opium",
-        "Awful (former)",
-        "Awful"
-    ],
+    "Playboi Carti": [],
     "J. Cole": [
         "Dreamville",
         "Roc Nation",
@@ -440,7 +434,9 @@
         "Interscope",
         "Island"
     ],
-    "Creedence Clearwater Revival": [],
+    "Creedence Clearwater Revival": [
+        "Fantasy"
+    ],
     "Ken Carson": [
         "Opium",
         "Interscope (current)",
