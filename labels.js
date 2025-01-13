@@ -300,7 +300,13 @@ var data = {
         "Hear This Music",
         "Rimas"
     ],
-    "Playboi Carti": [],
+    "Playboi Carti": [
+        "AWGE",
+        "Interscope",
+        "Opium",
+        "Awful (former)",
+        "Awful"
+    ],
     "J. Cole": [
         "Dreamville",
         "Roc Nation",
@@ -475,4 +481,4 @@ var data = {
         "American",
         "Columbia"
     ]
-};var lastUpdated = "01/12";
+};var lastUpdated = "01/13";
