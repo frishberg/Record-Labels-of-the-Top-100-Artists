@@ -1,8 +1,5 @@
 var data = {
-    "SZA": [
-        "TDE",
-        "RCA"
-    ],
+    "SZA": [],
     "Kendrick Lamar": [
         "Interscope",
         "Top Dawg",
@@ -19,14 +16,8 @@ var data = {
         "Republic",
         "Big Machine"
     ],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
-    ],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Sabrina Carpenter": [],
+    "Billie Eilish": [],
     "Tyler, The Creator": [
         "Columbia",
         "Odd Future",
@@ -67,8 +58,7 @@ var data = {
         "Sony Music Nashville"
     ],
     "Gracie Abrams": [
-        "Interscope",
-        "Polydor"
+        "Interscope"
     ],
     "Ariana Grande": [
         "Republic"
@@ -213,12 +203,7 @@ var data = {
         "Capitol",
         "Atlantic"
     ],
-    "Future": [
-        "Freebandz",
-        "Epic",
-        "A1 (formerly)",
-        "A1"
-    ],
+    "Future": [],
     "Michael Jackson": [
         "Steeltown",
         "Motown",
@@ -227,17 +212,7 @@ var data = {
         "Sony",
         "MJJ Productions"
     ],
-    "The Beatles": [
-        "Polydor",
-        "Parlophone",
-        "Tollie",
-        "Vee-Jay",
-        "Capitol",
-        "Swan",
-        "United Artists",
-        "Atco",
-        "Apple"
-    ],
+    "The Beatles": [],
     "Beyonce": [
         "Parkwood",
         "Columbia",
@@ -259,11 +234,7 @@ var data = {
     "Dua Lipa": [
         "Warner Bros"
     ],
-    "Frank Ocean": [
-        "Blonded",
-        "Def Jam",
-        "RedZone"
-    ],
+    "Frank Ocean": [],
     "Tito Double P": [],
     "Bob Dylan": [
         "Columbia",
@@ -277,11 +248,7 @@ var data = {
     "Olivia Rodrigo": [
         "Geffen"
     ],
-    "Deftones": [
-        "Maverick",
-        "Warner Bros",
-        "Reprise"
-    ],
+    "Deftones": [],
     "Arctic Monkeys": [
         "Domino",
         "Warner Bros"
@@ -307,24 +274,13 @@ var data = {
         "Awful (former)",
         "Awful"
     ],
-    "J. Cole": [
-        "Dreamville",
-        "Roc Nation",
-        "Interscope",
-        "Columbia",
-        "ByStorm"
-    ],
+    "J. Cole": [],
     "Juice WRLD": [
         "Grade A",
         "Interscope",
         "Polydor"
     ],
-    "Don Toliver": [
-        "Cactus Jack",
-        "Atlantic",
-        "APG",
-        "We Run It"
-    ],
+    "Don Toliver": [],
     "Tucker Wetmore": [
         "Back Blocks",
         "UMG Nashville"
@@ -362,9 +318,7 @@ var data = {
         "Columbia",
         "Erskine"
     ],
-    "Cody Johnson": [
-        "Warner Bros"
-    ],
+    "Cody Johnson": [],
     "TWICE": [
         "JYP",
         "Warner Bros",
@@ -376,11 +330,7 @@ var data = {
         "Polydor",
         "Lost Highway"
     ],
-    "Sexyy Red": [
-        "gamma.",
-        "Open Shift",
-        "Jay Rebel"
-    ],
+    "Sexyy Red": [],
     "Mariah Carey": [
         "Columbia",
         "Crave",
@@ -396,19 +346,12 @@ var data = {
     "Jordan Davis": [
         "MCA Nashville"
     ],
-    "Jack Harlow": [
-        "Generation Now",
-        "Atlantic",
-        "sonaBLAST!"
-    ],
+    "Jack Harlow": [],
     "Ella Langley": [
         "Sony Nashville",
         "Columbia"
     ],
-    "Creed": [
-        "Blue Collar",
-        "Wind-up"
-    ],
+    "Creed": [],
     "Green Day": [
         "Lookout",
         "Reprise",
@@ -458,9 +401,7 @@ var data = {
         "Columbia"
     ],
     "Neton Vega": [],
-    "Tyler Childers": [
-        "RCA"
-    ],
+    "Tyler Childers": [],
     "Bryson Tiller": [
         "RCA"
     ],
@@ -481,4 +422,4 @@ var data = {
         "American",
         "Columbia"
     ]
-};var lastUpdated = "01/13";
+};var lastUpdated = "01/14";
