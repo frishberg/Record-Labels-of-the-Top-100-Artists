@@ -67,7 +67,7 @@ var data = {
     "Riley Green": [],
     "Miley Cyrus": [],
     "Rihanna": [],
-    "G3 (LiAngelo Ball)": [],
+    "Gelo": [],
     "Adele": [],
     "Melanie Martinez": [],
     "The Marias": [],
@@ -99,4 +99,4 @@ var data = {
     "Summer Walker": [],
     "Twenty One Pilots": [],
     "Doja Cat": []
-};var lastUpdated = "01/17";
+};var lastUpdated = "01/18";
