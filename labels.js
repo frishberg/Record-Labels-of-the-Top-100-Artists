@@ -99,4 +99,4 @@ var data = {
     "Summer Walker": [],
     "Twenty One Pilots": [],
     "Doja Cat": []
-};var lastUpdated = "01/18";
+};var lastUpdated = "01/19";
