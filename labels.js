@@ -99,4 +99,4 @@ var data = {
     "Melanie Martinez": [],
     "Alex Warren": [],
     "Doja Cat": []
-};var lastUpdated = "01/23";
+};var lastUpdated = "01/24";
