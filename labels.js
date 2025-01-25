@@ -61,7 +61,7 @@ var data = {
     "Doechii": [],
     "Miley Cyrus": [],
     "J. Cole": [],
-    "Gelo": [],
+    "GELO": [],
     "The Beatles": [],
     "Riley Green": [],
     "Mac Miller": [],
@@ -99,4 +99,4 @@ var data = {
     "Melanie Martinez": [],
     "Alex Warren": [],
     "Doja Cat": []
-};var lastUpdated = "01/24";
+};var lastUpdated = "01/25";
