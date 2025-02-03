@@ -99,4 +99,4 @@ var data = {
     "The Killers": [],
     "Tyler Childers": [],
     "Doja Cat": []
-};var lastUpdated = "02/02";
+};var lastUpdated = "02/03";
