@@ -99,4 +99,4 @@ var data = {
     "Blake Shelton": [],
     "Creed": [],
     "Tommy Richman": []
-};var lastUpdated = "02/07";
+};var lastUpdated = "02/08";
