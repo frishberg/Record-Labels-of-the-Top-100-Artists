@@ -99,4 +99,4 @@ var data = {
     "Jack Harlow": [],
     "Peso Pluma": [],
     "Journey": []
-};var lastUpdated = "02/21";
+};var lastUpdated = "02/22";
