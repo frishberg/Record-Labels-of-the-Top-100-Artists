@@ -99,4 +99,4 @@ var data = {
     "Eagles": [],
     "ATEEZ": [],
     "Jason Aldean": []
-};var lastUpdated = "03/01";
+};var lastUpdated = "03/02";
