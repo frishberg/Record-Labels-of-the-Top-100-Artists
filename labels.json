@@ -1,315 +1,102 @@
 {
-    "Lil Baby": [
-        "Capitol",
-        "Motown",
-        "Quality Control",
-        "Glass Window (4PF)",
-        "Wolfpack",
-        "YSL"
-    ],
-    "SZA": [
-        "TDE",
-        "RCA"
-    ],
-    "Bad Bunny": [
-        "Hear This Music",
-        "Rimas"
-    ],
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
-    "Kendrick Lamar": [
-        "Interscope",
-        "Top Dawg",
-        "Aftermath",
-        "PGLang"
-    ],
+    "Kendrick Lamar": [],
+    "Morgan Wallen": [],
+    "Tate McRae": [],
     "Sabrina Carpenter": [],
-    "Taylor Swift": [
-        "Republic",
-        "Big Machine"
-    ],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "SZA": [],
+    "Drake": [],
+    "Billie Eilish": [],
+    "LISA": [],
+    "Chappell Roan": [],
     "Bruno Mars": [],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement"
-    ],
-    "Tyler, The Creator": [
-        "Columbia",
-        "Odd Future",
-        "Sony",
-        "RED",
-        "XL"
-    ],
-    "Teddy Swims": [
-        "Warner Bros"
-    ],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Broncos"
-    ],
+    "The Weeknd": [],
+    "Teddy Swims": [],
+    "Taylor Swift": [],
+    "Tyler, The Creator": [],
+    "Bad Bunny": [],
+    "Jelly Roll": [],
+    "Lady Gaga": [],
     "Gracie Abrams": [],
-    "Shaboozey": [
-        "Republic",
-        "Empire"
-    ],
-    "Ariana Grande": [],
+    "Benson Boone": [],
+    "Shaboozey": [],
     "Luke Combs": [],
     "Post Malone": [],
-    "The Weeknd": [],
-    "Hozier": [
-        "Rubyworks",
-        "Island",
-        "Columbia"
-    ],
-    "Lady Gaga": [
-        "Def Jam",
-        "Cherrytree",
-        "KonLive",
-        "Streamline",
-        "Interscope"
-    ],
+    "Doechii": [],
+    "Zach Bryan": [],
+    "Charli xcx": [],
+    "Hozier": [],
+    "Lola Young": [],
     "Chris Stapleton": [],
-    "Stray Kids": [],
-    "ROSE": [
-        "YG",
-        "Interscope",
-        "The Black Label",
-        "Atlantic"
-    ],
+    "PARTYNEXTDOOR": [],
+    "Metallica": [],
+    "Nirvana": [],
     "Fleetwood Mac": [],
-    "GloRilla": [],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
-    ],
-    "Cynthia Erivo": [],
-    "Metallica": [
-        "Megaforce",
-        "Elektra",
-        "Vertigo",
-        "Warner Bros",
-        "Blackened"
-    ],
-    "Future": [],
-    "Linkin Park": [],
-    "Noah Kahan": [],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
-    ],
     "Myles Smith": [],
-    "Eminem": [
-        "Shady",
-        "Aftermath",
-        "Interscope",
-        "Web",
-        "Polydor"
-    ],
-    "Drake": [
-        "OVO Sound",
-        "Republic",
-        "Young Money",
-        "Cash Money",
-        "Aspire"
-    ],
-    "Travis Scott": [
-        "Grand Hustle",
-        "Epic",
-        "Very GOOD Beats",
-        "Cactus Jack"
-    ],
-    "Kanye West": [
-        "GOOD",
-        "Island Def Jam",
-        "Def Jam",
-        "Roc-A-Fella",
-        "YZY"
-    ],
-    "The Beatles": [],
-    "Lainey Wilson": [],
-    "Tate McRae": [],
-    "Charli xcx": [
-        "Vroom Vroom",
-        "Warner Bros",
-        "Asylum",
-        "Atlantic",
-        "Iamsound"
-    ],
-    "Lola Young": [
-        "Island"
-    ],
-    "Bailey Zimmerman": [],
-    "Coldplay": [
-        "Fierce Panda",
-        "Parlophone",
-        "Nettwerk",
-        "Capitol",
-        "Atlantic"
-    ],
-    "Michael Jackson": [],
-    "Ed Sheeran": [
-        "Asylum",
-        "Atlantic",
-        "Elektra",
-        "Gingerbread Man"
-    ],
-    "Frank Ocean": [],
+    "Stray Kids": [],
     "BigXthaPlug": [],
-    "Lana Del Rey": [
-        "5 Points",
-        "Stranger",
-        "Polydor",
-        "Interscope"
-    ],
-    "Deftones": [
-        "Maverick",
-        "Warner Bros",
-        "Reprise"
-    ],
-    "Dua Lipa": [
-        "Warner Bros"
-    ],
-    "Arctic Monkeys": [],
-    "Bob Dylan": [
-        "Columbia",
-        "Asylum"
-    ],
-    "Don Toliver": [],
-    "Mac Miller": [
-        "Rostrum",
-        "REMember",
-        "Warner Bros"
-    ],
-    "Tucker Wetmore": [],
-    "Zach Top": [
-        "Leo33"
-    ],
-    "Olivia Rodrigo": [
-        "Geffen"
-    ],
-    "Chris Brown": [
-        "CBE",
-        "Jive",
-        "RCA"
-    ],
-    "Tito Double P": [],
-    "Playboi Carti": [
-        "AWGE",
-        "Interscope",
-        "Opium",
-        "Awful (former)",
-        "Awful"
-    ],
-    "Doechii": [
-        "Top Dawg",
-        "Capitol"
-    ],
-    "Radiohead": [
-        "EMI",
-        "XL",
-        "Ticker Tape Ltd.",
-        "Hostess",
-        "TBD",
-        "Parlophone",
-        "Capitol"
-    ],
-    "Riley Green": [],
-    "Miley Cyrus": [
-        "Walt Disney",
-        "Hollywood",
-        "RCA",
-        "Smiley Miley",
-        "Columbia"
-    ],
-    "Rihanna": [
-        "Roc Nation",
-        "Def Jam",
-        "SRP",
-        "Westbury Road"
-    ],
-    "G3 (LiAngelo Ball)": [],
-    "Adele": [
-        "XL",
-        "Columbia",
-        "Melted Stone"
-    ],
-    "Melanie Martinez": [
-        "Atlantic"
-    ],
-    "The Marias": [],
-    "Gunna": [],
-    "TWICE": [],
-    "Harry Styles": [],
-    "Cody Johnson": [],
-    "Juice WRLD": [],
-    "Tommy Richman": [
-        "ISO Supremacy",
-        "Pulse"
-    ],
-    "Ella Langley": [],
+    "ROSE": [],
+    "Future": [],
+    "Ariana Grande": [],
+    "Travis Scott": [],
+    "GloRilla": [],
     "J. Cole": [],
-    "Gigi Perez": [],
-    "Sexyy Red": [
-        "gamma.",
-        "Open Shift",
-        "Jay Rebel"
-    ],
-    "Jordan Davis": [],
-    "Jack Harlow": [],
-    "Beyonce": [
-        "Parkwood",
-        "Columbia",
-        "Music World"
-    ],
-    "ENHYPEN": [
-        "Belift Lab",
-        "Virgin/Universal Music Japan",
-        "Universal Music Japan"
-    ],
-    "Creedence Clearwater Revival": [],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
-    "Laufey": [],
-    "Green Day": [],
-    "AC/DC": [],
-    "Journey": [],
-    "Creed": [
-        "Blue Collar",
-        "Wind-up"
-    ],
-    "PARTYNEXTDOOR": [
-        "OVO Sound",
-        "Warner Bros"
-    ],
+    "Eminem": [],
+    "Linkin Park": [],
+    "Tito Double P": [],
+    "Bailey Zimmerman": [],
+    "Michael Jackson": [],
+    "Chris Brown": [],
     "Neton Vega": [],
-    "Dylan Scott": [
-        "Curb"
-    ],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Alex Warren": [],
+    "Ed Sheeran": [],
+    "Zach Top": [],
+    "Olivia Rodrigo": [],
+    "Noah Kahan": [],
+    "Frank Ocean": [],
+    "Radiohead": [],
+    "Kane Brown": [],
+    "Mac Miller": [],
+    "Coldplay": [],
+    "Deftones": [],
+    "Arctic Monkeys": [],
+    "Rihanna": [],
+    "Queen": [],
+    "Brandon Lake": [],
+    "The Red Clay Strays": [],
+    "Riley Green": [],
+    "Sexyy Red": [],
+    "Led Zeppelin": [],
+    "Creedence Clearwater Revival": [],
+    "Architects": [],
+    "Lainey Wilson": [],
+    "Miley Cyrus": [],
+    "Jordan Davis": [],
+    "AC/DC": [],
+    "Ella Langley": [],
+    "Lana Del Rey": [],
+    "Tommy Richman": [],
+    "The Marias": [],
+    "Gigi Perez": [],
+    "Bon Jovi": [],
+    "The Beatles": [],
+    "Lil Baby": [],
+    "Pink Floyd": [],
+    "Fuerza Regida": [],
+    "Playboi Carti": [],
+    "Red Hot Chili Peppers": [],
+    "Cody Johnson": [],
     "Summer Walker": [],
-    "Twenty One Pilots": [],
-    "Doja Cat": []
+    "Journey": [],
+    "Don Toliver": [],
+    "Jessie Murph": [],
+    "Eagles": [],
+    "Dasha": [],
+    "Bob Dylan": [],
+    "Megan Moroney": [],
+    "GELO": [],
+    "Dua Lipa": [],
+    "Alice In Chains": [],
+    "Fetty Wap": [],
+    "Blake Shelton": [],
+    "Lynyrd Skynyrd": []
 }
