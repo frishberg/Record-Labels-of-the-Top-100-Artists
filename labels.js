@@ -1,5 +1,10 @@
 var data = {
-    "Playboi Carti": [],
+    "Playboi Carti": [
+        "Awful",
+        "AWGE",
+        "Interscope",
+        "Opium"
+    ],
     "Kendrick Lamar": [],
     "Lady Gaga": [],
     "Morgan Wallen": [],
@@ -18,10 +23,19 @@ var data = {
     "Tyler, The Creator": [],
     "Luke Combs": [],
     "Bad Bunny": [],
-    "Jelly Roll": [],
+    "Jelly Roll": [
+        "Slumerican",
+        "Bad Apple Inc.",
+        "War Dog",
+        "Wyte Music",
+        "BBR"
+    ],
     "Benson Boone": [],
     "Gracie Abrams": [],
-    "Shaboozey": [],
+    "Shaboozey": [
+        "Republic",
+        "Empire"
+    ],
     "Post Malone": [],
     "Travis Scott": [],
     "Hozier": [],
@@ -48,14 +62,19 @@ var data = {
     "Ed Sheeran": [],
     "Sleep Token": [],
     "Linkin Park": [],
-    "BigXthaPlug": [],
+    "BigXthaPlug": [
+        "UnitedMasters"
+    ],
     "Future": [],
     "Michael Jackson": [],
     "GloRilla": [],
     "Stray Kids": [],
     "Charley Crockett": [],
     "Ariana Grande": [],
-    "PARTYNEXTDOOR": [],
+    "PARTYNEXTDOOR": [
+        "OVO Sound",
+        "Sony Music"
+    ],
     "Jisoo": [],
     "Steven Wilson": [],
     "Warren Zeiders": [],
@@ -99,4 +118,4 @@ var data = {
     "Dasha": [],
     "Goo Goo Dolls": [],
     "Summer Walker": []
-};var lastUpdated = "03/31";
+};var lastUpdated = "04/01";
