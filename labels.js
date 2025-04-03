@@ -4,16 +4,19 @@ var data = {
     "Playboi Carti": [],
     "Sabrina Carpenter": [],
     "Selena Gomez": [],
-    "benny blanco": [],
+    "benny blanco": [
+        "Mad Love",
+        "Interscope",
+        "Friends Keep Secrets",
+        "A&M"
+    ],
     "SZA": [],
     "Lady Gaga": [],
     "Chappell Roan": [],
     "The Weeknd": [],
     "Billie Eilish": [],
     "Drake": [],
-    "Teddy Swims": [
-        "Warner Bros"
-    ],
+    "Teddy Swims": [],
     "Taylor Swift": [],
     "Doechii": [],
     "Bruno Mars": [],
@@ -86,13 +89,7 @@ var data = {
     "Blake Shelton": [],
     "Dasha": [],
     "Jason Aldean": [],
-    "Fuerza Regida": [
-        "Lumbre",
-        "Cinq",
-        "Rancho Humilde",
-        "Street Mob",
-        "Sony Latin"
-    ],
+    "Fuerza Regida": [],
     "Melanie Martinez": [],
     "Red Hot Chili Peppers": [],
     "Harry Styles": [],
@@ -105,9 +102,6 @@ var data = {
     "Queen": [],
     "LISA": [],
     "Pink Floyd": [],
-    "Arctic Monkeys": [
-        "Domino",
-        "Warner Bros"
-    ],
+    "Arctic Monkeys": [],
     "NMIXX": []
-};var lastUpdated = "04/02";
+};var lastUpdated = "04/03";
