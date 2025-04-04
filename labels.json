@@ -4,15 +4,14 @@
     "Playboi Carti": [],
     "Sabrina Carpenter": [],
     "Selena Gomez": [],
-    "benny blanco": [
-        "Mad Love",
-        "Interscope",
-        "Friends Keep Secrets",
-        "A&M"
-    ],
+    "benny blanco": [],
     "SZA": [],
     "Lady Gaga": [],
-    "Chappell Roan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
     "The Weeknd": [],
     "Billie Eilish": [],
     "Drake": [],
@@ -20,7 +19,13 @@
     "Taylor Swift": [],
     "Doechii": [],
     "Bruno Mars": [],
-    "Tyler, The Creator": [],
+    "Tyler, The Creator": [
+        "Columbia",
+        "Odd Future",
+        "Sony",
+        "RED",
+        "XL"
+    ],
     "Tate McRae": [],
     "Luke Combs": [],
     "Benson Boone": [],
@@ -32,9 +37,21 @@
     "Hozier": [],
     "Zach Bryan": [],
     "Alex Warren": [],
-    "j-hope": [],
-    "Japanese Breakfast": [],
-    "Lola Young": [],
+    "j-hope": [
+        "Big Hit"
+    ],
+    "Japanese Breakfast": [
+        "Ranch",
+        "Seagreen",
+        "Yellow K",
+        "Dead Oceans",
+        "Polyvinyl",
+        "W Hotels",
+        "Sony Masterworks"
+    ],
+    "Lola Young": [
+        "Island"
+    ],
     "Chris Stapleton": [],
     "Fleetwood Mac": [],
     "Metallica": [],
