@@ -2,16 +2,15 @@ var data = {
     "Morgan Wallen": [],
     "Kendrick Lamar": [],
     "Playboi Carti": [],
-    "Sabrina Carpenter": [],
+    "Sabrina Carpenter": [
+        "Hollywood",
+        "Island"
+    ],
     "Selena Gomez": [],
     "benny blanco": [],
     "SZA": [],
     "Lady Gaga": [],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement"
-    ],
+    "Chappell Roan": [],
     "The Weeknd": [],
     "Billie Eilish": [],
     "Drake": [],
@@ -19,13 +18,7 @@ var data = {
     "Taylor Swift": [],
     "Doechii": [],
     "Bruno Mars": [],
-    "Tyler, The Creator": [
-        "Columbia",
-        "Odd Future",
-        "Sony",
-        "RED",
-        "XL"
-    ],
+    "Tyler, The Creator": [],
     "Tate McRae": [],
     "Luke Combs": [],
     "Benson Boone": [],
@@ -34,26 +27,25 @@ var data = {
     "Jelly Roll": [],
     "Shaboozey": [],
     "Post Malone": [],
-    "Hozier": [],
+    "Hozier": [
+        "Rubyworks",
+        "Island",
+        "Columbia"
+    ],
     "Zach Bryan": [],
     "Alex Warren": [],
-    "j-hope": [
-        "Big Hit"
-    ],
-    "Japanese Breakfast": [
-        "Ranch",
-        "Seagreen",
-        "Yellow K",
-        "Dead Oceans",
-        "Polyvinyl",
-        "W Hotels",
-        "Sony Masterworks"
-    ],
-    "Lola Young": [
-        "Island"
-    ],
+    "j-hope": [],
+    "Japanese Breakfast": [],
+    "Lola Young": [],
     "Chris Stapleton": [],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "Metallica": [],
     "Travis Scott": [],
     "Nirvana": [],
@@ -100,7 +92,10 @@ var data = {
     "Kid Cudi": [],
     "Gigi Perez": [],
     "Eagles": [],
-    "Tommy Richman": [],
+    "Tommy Richman": [
+        "ISO Supremacy",
+        "Pulse"
+    ],
     "Megan Moroney": [],
     "Lana Del Rey": [],
     "Blake Shelton": [],
@@ -121,4 +116,4 @@ var data = {
     "Pink Floyd": [],
     "Arctic Monkeys": [],
     "NMIXX": []
-};var lastUpdated = "04/04";
+};var lastUpdated = "04/05";
