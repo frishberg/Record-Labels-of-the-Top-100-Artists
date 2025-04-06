@@ -1,11 +1,13 @@
 var data = {
     "Morgan Wallen": [],
-    "Kendrick Lamar": [],
-    "Playboi Carti": [],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
+    "Kendrick Lamar": [
+        "Interscope",
+        "Top Dawg",
+        "Aftermath",
+        "PGLang"
     ],
+    "Playboi Carti": [],
+    "Sabrina Carpenter": [],
     "Selena Gomez": [],
     "benny blanco": [],
     "SZA": [],
@@ -18,7 +20,13 @@ var data = {
     "Taylor Swift": [],
     "Doechii": [],
     "Bruno Mars": [],
-    "Tyler, The Creator": [],
+    "Tyler, The Creator": [
+        "Columbia",
+        "Odd Future",
+        "Sony",
+        "RED",
+        "XL"
+    ],
     "Tate McRae": [],
     "Luke Combs": [],
     "Benson Boone": [],
@@ -27,25 +35,14 @@ var data = {
     "Jelly Roll": [],
     "Shaboozey": [],
     "Post Malone": [],
-    "Hozier": [
-        "Rubyworks",
-        "Island",
-        "Columbia"
-    ],
+    "Hozier": [],
     "Zach Bryan": [],
     "Alex Warren": [],
     "j-hope": [],
     "Japanese Breakfast": [],
     "Lola Young": [],
     "Chris Stapleton": [],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Metallica": [],
     "Travis Scott": [],
     "Nirvana": [],
@@ -59,13 +56,22 @@ var data = {
     "JENNIE": [],
     "Ed Sheeran": [],
     "LE SSERAFIM": [],
-    "Zach Top": [],
+    "Zach Top": [
+        "Leo33"
+    ],
     "Chris Brown": [],
     "Frank Ocean": [],
     "Radiohead": [],
-    "Stray Kids": [],
+    "Stray Kids": [
+        "JYP",
+        "Epic Japan",
+        "Republic"
+    ],
     "Ariana Grande": [],
-    "GloRilla": [],
+    "GloRilla": [
+        "Collective",
+        "Interscope"
+    ],
     "ROSE": [],
     "Michael Jackson": [],
     "Future": [],
@@ -73,7 +79,9 @@ var data = {
     "Leon Thomas": [],
     "Rush": [],
     "PARTYNEXTDOOR": [],
-    "Riley Green": [],
+    "Riley Green": [
+        "Nashville Harbor"
+    ],
     "Deftones": [],
     "Eminem": [],
     "Mac Miller": [],
@@ -92,13 +100,17 @@ var data = {
     "Kid Cudi": [],
     "Gigi Perez": [],
     "Eagles": [],
-    "Tommy Richman": [
-        "ISO Supremacy",
-        "Pulse"
-    ],
+    "Tommy Richman": [],
     "Megan Moroney": [],
     "Lana Del Rey": [],
-    "Blake Shelton": [],
+    "Blake Shelton": [
+        "Giant",
+        "Warner Bros",
+        "Reprise Nashville",
+        "Ten Point",
+        "BBR",
+        "Wheelhouse"
+    ],
     "Dasha": [],
     "Jason Aldean": [],
     "Fuerza Regida": [],
@@ -113,7 +125,15 @@ var data = {
     "AC/DC": [],
     "Queen": [],
     "LISA": [],
-    "Pink Floyd": [],
+    "Pink Floyd": [
+        "EMI",
+        "Columbia",
+        "Tower",
+        "Harvest",
+        "Capitol",
+        "Sony Music",
+        "Parlophone"
+    ],
     "Arctic Monkeys": [],
     "NMIXX": []
-};var lastUpdated = "04/05";
+};var lastUpdated = "04/06";
