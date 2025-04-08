@@ -13,7 +13,10 @@
     "Drake": [],
     "Teddy Swims": [],
     "Taylor Swift": [],
-    "Doechii": [],
+    "Doechii": [
+        "Top Dawg",
+        "Capitol"
+    ],
     "Bruno Mars": [],
     "Tyler, The Creator": [],
     "Tate McRae": [],
@@ -27,21 +30,26 @@
     "Hozier": [],
     "Zach Bryan": [],
     "Alex Warren": [],
-    "j-hope": [],
+    "j-hope": [
+        "Big Hit"
+    ],
     "Japanese Breakfast": [],
     "Lola Young": [],
     "Chris Stapleton": [],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "Metallica": [],
     "Travis Scott": [],
     "Nirvana": [],
     "Myles Smith": [],
     "My Morning Jacket": [],
-    "Noah Kahan": [
-        "Republic",
-        "Universal",
-        "Mercury"
-    ],
+    "Noah Kahan": [],
     "Linkin Park": [],
     "Neton Vega": [],
     "Bailey Zimmerman": [],
@@ -50,25 +58,29 @@
     "Ed Sheeran": [],
     "LE SSERAFIM": [],
     "Zach Top": [],
-    "Chris Brown": [
-        "CBE",
-        "Jive",
-        "RCA"
-    ],
+    "Chris Brown": [],
     "Frank Ocean": [],
     "Radiohead": [],
     "Stray Kids": [],
-    "Ariana Grande": [
-        "Republic"
-    ],
+    "Ariana Grande": [],
     "GloRilla": [],
     "ROSE": [],
     "Michael Jackson": [],
     "Future": [],
     "BigXthaPlug": [],
     "Leon Thomas": [],
-    "Rush": [],
-    "PARTYNEXTDOOR": [],
+    "Rush": [
+        "Moon",
+        "Mercury",
+        "Anthem",
+        "Vertigo",
+        "Atlantic",
+        "Roadrunner"
+    ],
+    "PARTYNEXTDOOR": [
+        "OVO Sound",
+        "Sony Music"
+    ],
     "Riley Green": [],
     "Deftones": [],
     "Eminem": [],
@@ -80,41 +92,38 @@
     "Lainey Wilson": [],
     "Sleep Token": [],
     "THE BOYZ": [],
-    "Rihanna": [
-        "Roc Nation",
-        "Def Jam",
-        "SRP",
-        "Westbury Road"
-    ],
+    "Rihanna": [],
     "Brandon Lake": [],
     "Miley Cyrus": [],
     "Ella Langley": [],
-    "Dua Lipa": [
-        "Warner Bros"
+    "Dua Lipa": [],
+    "Kid Cudi": [
+        "Wicked Awesome",
+        "Republic",
+        "Dream On",
+        "GOOD",
+        "Fool's Gold",
+        "Universal Motown"
     ],
-    "Kid Cudi": [],
     "Gigi Perez": [],
     "Eagles": [],
     "Tommy Richman": [],
     "Megan Moroney": [],
     "Lana Del Rey": [],
-    "Blake Shelton": [],
+    "Blake Shelton": [
+        "Giant",
+        "Warner Bros",
+        "Reprise Nashville",
+        "Ten Point",
+        "BBR",
+        "Wheelhouse"
+    ],
     "Dasha": [],
     "Jason Aldean": [],
-    "Fuerza Regida": [
-        "Lumbre",
-        "Cinq",
-        "Rancho Humilde",
-        "Street Mob",
-        "Sony Latin"
-    ],
+    "Fuerza Regida": [],
     "Melanie Martinez": [],
     "Red Hot Chili Peppers": [],
-    "Harry Styles": [
-        "Syco",
-        "Columbia",
-        "Erskine"
-    ],
+    "Harry Styles": [],
     "Journey": [],
     "Summer Walker": [],
     "J. Cole": [],
