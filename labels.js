@@ -1,7 +1,5 @@
 var data = {
-    "Ariana Grande": [
-        "Republic"
-    ],
+    "Ariana Grande": [],
     "Morgan Wallen": [],
     "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
@@ -17,7 +15,10 @@ var data = {
     "Taylor Swift": [],
     "Bruno Mars": [],
     "Tyler, The Creator": [],
-    "Doechii": [],
+    "Doechii": [
+        "Top Dawg",
+        "Capitol"
+    ],
     "Lucy Dacus": [],
     "Luke Combs": [],
     "Benson Boone": [],
@@ -32,23 +33,24 @@ var data = {
     "Zach Bryan": [],
     "Alex Warren": [],
     "Fleetwood Mac": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Linkin Park": [],
     "Chris Stapleton": [],
-    "Lola Young": [],
+    "Lola Young": [
+        "Island"
+    ],
     "Metallica": [],
     "Nirvana": [],
-    "Bailey Zimmerman": [
-        "Warner Bros",
-        "Elektra"
-    ],
+    "Bailey Zimmerman": [],
     "Selena Gomez": [],
     "Myles Smith": [],
     "benny blanco": [],
     "Neton Vega": [],
-    "Travis Scott": [],
+    "Travis Scott": [
+        "Grand Hustle",
+        "Epic",
+        "Very GOOD Beats",
+        "Cactus Jack"
+    ],
     "Chris Brown": [],
     "Noah Kahan": [],
     "Ed Sheeran": [],
@@ -57,25 +59,14 @@ var data = {
     "Radiohead": [],
     "Tito Double P": [],
     "Michael Jackson": [],
-    "Zach Top": [
-        "Leo33"
-    ],
+    "Zach Top": [],
     "Deftones": [],
     "Dua Lipa": [],
     "Frank Ocean": [],
-    "GloRilla": [
-        "Collective",
-        "Interscope"
-    ],
+    "GloRilla": [],
     "Future": [],
     "Riley Green": [],
-    "Coldplay": [
-        "Fierce Panda",
-        "Parlophone",
-        "Nettwerk",
-        "Capitol",
-        "Atlantic"
-    ],
+    "Coldplay": [],
     "NAV": [],
     "Lil Tecca": [],
     "ROSE": [],
@@ -87,10 +78,7 @@ var data = {
     "Blake Shelton": [],
     "Kane Brown": [],
     "Miley Cyrus": [],
-    "Ella Langley": [
-        "Sony Nashville",
-        "Columbia"
-    ],
+    "Ella Langley": [],
     "Brandon Lake": [],
     "Rihanna": [],
     "Eminem": [],
@@ -99,39 +87,36 @@ var data = {
     "Eagles": [],
     "Gigi Perez": [],
     "AC/DC": [],
-    "JENNIE": [
-        "YG",
-        "Interscope",
-        "Odd Atelier",
-        "Columbia"
-    ],
+    "JENNIE": [],
     "Lana Del Rey": [],
     "Deafheaven": [],
     "Red Hot Chili Peppers": [],
     "LE SSERAFIM": [],
-    "Pink Floyd": [
-        "EMI",
-        "Columbia",
-        "Tower",
-        "Harvest",
-        "Capitol",
-        "Sony Music",
-        "Parlophone"
-    ],
+    "Pink Floyd": [],
     "Sleep Token": [],
     "Tommy Richman": [],
     "Megan Moroney": [],
     "Dasha": [],
     "Led Zeppelin": [],
     "The Beatles": [],
-    "Jason Aldean": [],
+    "Jason Aldean": [
+        "Broken Bow"
+    ],
     "Fuerza Regida": [],
-    "Lainey Wilson": [],
-    "Harry Styles": [],
+    "Lainey Wilson": [
+        "Cupit",
+        "Lone Chief",
+        "BBR"
+    ],
+    "Harry Styles": [
+        "Syco",
+        "Columbia",
+        "Erskine"
+    ],
     "J. Cole": [],
     "Arctic Monkeys": [],
     "j-hope": [],
     "Jordan Davis": [],
     "Olivia Rodrigo": [],
     "Journey": []
-};var lastUpdated = "04/09";
+};var lastUpdated = "04/10";
