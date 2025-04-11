@@ -15,11 +15,11 @@ var data = {
     "Taylor Swift": [],
     "Bruno Mars": [],
     "Tyler, The Creator": [],
-    "Doechii": [
-        "Top Dawg",
-        "Capitol"
+    "Doechii": [],
+    "Lucy Dacus": [
+        "Matador",
+        "Geffen"
     ],
-    "Lucy Dacus": [],
     "Luke Combs": [],
     "Benson Boone": [],
     "Jelly Roll": [],
@@ -35,22 +35,19 @@ var data = {
     "Fleetwood Mac": [],
     "Linkin Park": [],
     "Chris Stapleton": [],
-    "Lola Young": [
-        "Island"
-    ],
+    "Lola Young": [],
     "Metallica": [],
     "Nirvana": [],
     "Bailey Zimmerman": [],
-    "Selena Gomez": [],
+    "Selena Gomez": [
+        "Walt Disney",
+        "Hollywood",
+        "Interscope"
+    ],
     "Myles Smith": [],
     "benny blanco": [],
     "Neton Vega": [],
-    "Travis Scott": [
-        "Grand Hustle",
-        "Epic",
-        "Very GOOD Beats",
-        "Cactus Jack"
-    ],
+    "Travis Scott": [],
     "Chris Brown": [],
     "Noah Kahan": [],
     "Ed Sheeran": [],
@@ -58,7 +55,14 @@ var data = {
     "Alison Krauss": [],
     "Radiohead": [],
     "Tito Double P": [],
-    "Michael Jackson": [],
+    "Michael Jackson": [
+        "Steeltown",
+        "Motown",
+        "Epic",
+        "Legacy",
+        "Sony",
+        "MJJ Productions"
+    ],
     "Zach Top": [],
     "Deftones": [],
     "Dua Lipa": [],
@@ -74,7 +78,15 @@ var data = {
     "The Marias": [],
     "Stray Kids": [],
     "PARTYNEXTDOOR": [],
-    "Queen": [],
+    "Queen": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+    ],
     "Blake Shelton": [],
     "Kane Brown": [],
     "Miley Cyrus": [],
@@ -86,7 +98,15 @@ var data = {
     "Cody Johnson": [],
     "Eagles": [],
     "Gigi Perez": [],
-    "AC/DC": [],
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
+    ],
     "JENNIE": [],
     "Lana Del Rey": [],
     "Deafheaven": [],
@@ -99,24 +119,14 @@ var data = {
     "Dasha": [],
     "Led Zeppelin": [],
     "The Beatles": [],
-    "Jason Aldean": [
-        "Broken Bow"
-    ],
+    "Jason Aldean": [],
     "Fuerza Regida": [],
-    "Lainey Wilson": [
-        "Cupit",
-        "Lone Chief",
-        "BBR"
-    ],
-    "Harry Styles": [
-        "Syco",
-        "Columbia",
-        "Erskine"
-    ],
+    "Lainey Wilson": [],
+    "Harry Styles": [],
     "J. Cole": [],
     "Arctic Monkeys": [],
     "j-hope": [],
     "Jordan Davis": [],
     "Olivia Rodrigo": [],
     "Journey": []
-};var lastUpdated = "04/10";
+};var lastUpdated = "04/11";
