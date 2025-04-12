@@ -16,10 +16,7 @@ var data = {
     "Bruno Mars": [],
     "Tyler, The Creator": [],
     "Doechii": [],
-    "Lucy Dacus": [
-        "Matador",
-        "Geffen"
-    ],
+    "Lucy Dacus": [],
     "Luke Combs": [],
     "Benson Boone": [],
     "Jelly Roll": [],
@@ -39,11 +36,7 @@ var data = {
     "Metallica": [],
     "Nirvana": [],
     "Bailey Zimmerman": [],
-    "Selena Gomez": [
-        "Walt Disney",
-        "Hollywood",
-        "Interscope"
-    ],
+    "Selena Gomez": [],
     "Myles Smith": [],
     "benny blanco": [],
     "Neton Vega": [],
@@ -53,16 +46,17 @@ var data = {
     "Ed Sheeran": [],
     "BigXthaPlug": [],
     "Alison Krauss": [],
-    "Radiohead": [],
-    "Tito Double P": [],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
+    "Radiohead": [
+        "EMI",
+        "XL",
+        "Ticker Tape Ltd.",
+        "Hostess",
+        "TBD",
+        "Parlophone",
+        "Capitol"
     ],
+    "Tito Double P": [],
+    "Michael Jackson": [],
     "Zach Top": [],
     "Deftones": [],
     "Dua Lipa": [],
@@ -78,15 +72,7 @@ var data = {
     "The Marias": [],
     "Stray Kids": [],
     "PARTYNEXTDOOR": [],
-    "Queen": [
-        "EMI",
-        "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
-    ],
+    "Queen": [],
     "Blake Shelton": [],
     "Kane Brown": [],
     "Miley Cyrus": [],
@@ -121,7 +107,11 @@ var data = {
     "The Beatles": [],
     "Jason Aldean": [],
     "Fuerza Regida": [],
-    "Lainey Wilson": [],
+    "Lainey Wilson": [
+        "Cupit",
+        "Lone Chief",
+        "BBR"
+    ],
     "Harry Styles": [],
     "J. Cole": [],
     "Arctic Monkeys": [],
@@ -129,4 +119,4 @@ var data = {
     "Jordan Davis": [],
     "Olivia Rodrigo": [],
     "Journey": []
-};var lastUpdated = "04/11";
+};var lastUpdated = "04/12";
