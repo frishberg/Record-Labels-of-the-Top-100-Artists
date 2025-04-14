@@ -1,11 +1,10 @@
 var data = {
-    "Ariana Grande": [],
+    "Ariana Grande": [
+        "Republic"
+    ],
     "Morgan Wallen": [],
     "Kendrick Lamar": [],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
-    ],
+    "Sabrina Carpenter": [],
     "SZA": [],
     "Chappell Roan": [],
     "Lady Gaga": [],
@@ -13,14 +12,7 @@ var data = {
     "Playboi Carti": [],
     "Drake": [],
     "Teddy Swims": [],
-    "Lil Durk": [
-        "Only the Family",
-        "Alamo",
-        "Geffen",
-        "Interscope",
-        "Def Jam",
-        "Coke Boys"
-    ],
+    "Lil Durk": [],
     "The Weeknd": [],
     "Taylor Swift": [],
     "Bruno Mars": [],
@@ -37,19 +29,16 @@ var data = {
     "Shaboozey": [],
     "Post Malone": [],
     "Hozier": [],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Bronco"
+    ],
     "Alex Warren": [],
     "Fleetwood Mac": [],
     "Linkin Park": [],
     "Chris Stapleton": [],
     "Lola Young": [],
-    "Metallica": [
-        "Megaforce",
-        "Elektra",
-        "Vertigo",
-        "Warner Bros",
-        "Blackened"
-    ],
+    "Metallica": [],
     "Nirvana": [],
     "Bailey Zimmerman": [],
     "Selena Gomez": [],
@@ -61,7 +50,10 @@ var data = {
     "Noah Kahan": [],
     "Ed Sheeran": [],
     "BigXthaPlug": [],
-    "Alison Krauss": [],
+    "Alison Krauss": [
+        "Rounder",
+        "Capitol"
+    ],
     "Radiohead": [],
     "Tito Double P": [],
     "Michael Jackson": [],
@@ -85,19 +77,14 @@ var data = {
     "The Marias": [],
     "Stray Kids": [],
     "PARTYNEXTDOOR": [],
-    "Queen": [
-        "EMI",
-        "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
-    ],
+    "Queen": [],
     "Blake Shelton": [],
     "Kane Brown": [],
     "Miley Cyrus": [],
-    "Ella Langley": [],
+    "Ella Langley": [
+        "Sony Nashville",
+        "Columbia"
+    ],
     "Brandon Lake": [],
     "Rihanna": [],
     "Eminem": [],
@@ -128,4 +115,4 @@ var data = {
     "Jordan Davis": [],
     "Olivia Rodrigo": [],
     "Journey": []
-};var lastUpdated = "04/13";
+};var lastUpdated = "04/14";
