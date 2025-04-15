@@ -1,7 +1,5 @@
 var data = {
-    "Ariana Grande": [
-        "Republic"
-    ],
+    "Ariana Grande": [],
     "Morgan Wallen": [],
     "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
@@ -11,7 +9,9 @@ var data = {
     "Billie Eilish": [],
     "Playboi Carti": [],
     "Drake": [],
-    "Teddy Swims": [],
+    "Teddy Swims": [
+        "Warner Bros"
+    ],
     "Lil Durk": [],
     "The Weeknd": [],
     "Taylor Swift": [],
@@ -29,12 +29,16 @@ var data = {
     "Shaboozey": [],
     "Post Malone": [],
     "Hozier": [],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Bronco"
-    ],
+    "Zach Bryan": [],
     "Alex Warren": [],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "Linkin Park": [],
     "Chris Stapleton": [],
     "Lola Young": [],
@@ -50,10 +54,7 @@ var data = {
     "Noah Kahan": [],
     "Ed Sheeran": [],
     "BigXthaPlug": [],
-    "Alison Krauss": [
-        "Rounder",
-        "Capitol"
-    ],
+    "Alison Krauss": [],
     "Radiohead": [],
     "Tito Double P": [],
     "Michael Jackson": [],
@@ -62,12 +63,7 @@ var data = {
     "Dua Lipa": [],
     "Frank Ocean": [],
     "GloRilla": [],
-    "Future": [
-        "Freebandz",
-        "Epic",
-        "A1 (formerly)",
-        "A1"
-    ],
+    "Future": [],
     "Riley Green": [],
     "Coldplay": [],
     "NAV": [],
@@ -81,10 +77,7 @@ var data = {
     "Blake Shelton": [],
     "Kane Brown": [],
     "Miley Cyrus": [],
-    "Ella Langley": [
-        "Sony Nashville",
-        "Columbia"
-    ],
+    "Ella Langley": [],
     "Brandon Lake": [],
     "Rihanna": [],
     "Eminem": [],
@@ -104,7 +97,17 @@ var data = {
     "Megan Moroney": [],
     "Dasha": [],
     "Led Zeppelin": [],
-    "The Beatles": [],
+    "The Beatles": [
+        "Polydor",
+        "Parlophone",
+        "Tollie",
+        "Vee-Jay",
+        "Capitol",
+        "Swan",
+        "United Artists",
+        "Atco",
+        "Apple"
+    ],
     "Jason Aldean": [],
     "Fuerza Regida": [],
     "Lainey Wilson": [],
@@ -115,4 +118,4 @@ var data = {
     "Jordan Davis": [],
     "Olivia Rodrigo": [],
     "Journey": []
-};var lastUpdated = "04/14";
+};var lastUpdated = "04/15";
