@@ -9,13 +9,7 @@
     "Ariana Grande": [],
     "Billie Eilish": [],
     "Teddy Swims": [],
-    "Lady Gaga": [
-        "Def Jam",
-        "Cherrytree",
-        "KonLive",
-        "Streamline",
-        "Interscope"
-    ],
+    "Lady Gaga": [],
     "The Weeknd": [],
     "Taylor Swift": [],
     "Bruno Mars": [],
@@ -23,12 +17,7 @@
         "Top Dawg",
         "Capitol"
     ],
-    "ZEROBASEONE": [
-        "WakeOne",
-        "Lapone/Sony",
-        "Lapone",
-        "Sony"
-    ],
+    "ZEROBASEONE": [],
     "Elton John": [],
     "BigXthaPlug": [],
     "Brandi Carlile": [],
@@ -38,42 +27,38 @@
     "Benson Boone": [],
     "Shaboozey": [],
     "Bad Bunny": [],
-    "Gracie Abrams": [],
-    "Tate McRae": [],
-    "Post Malone": [],
-    "Alex Warren": [
-        "Atlantic Records"
+    "Gracie Abrams": [
+        "Interscope"
     ],
+    "Tate McRae": [
+        "RCA"
+    ],
+    "Post Malone": [],
+    "Alex Warren": [],
     "Zach Bryan": [],
     "Ed Sheeran": [],
     "Tracy Chapman": [],
-    "Bailey Zimmerman": [
-        "Warner Bros",
-        "Elektra"
-    ],
+    "Bailey Zimmerman": [],
     "Playboi Carti": [],
-    "Hozier": [
-        "Rubyworks",
-        "Island",
-        "Columbia"
-    ],
+    "Hozier": [],
     "Chris Stapleton": [],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Sleep Token": [],
     "Miley Cyrus": [],
-    "Djo": [],
+    "Djo": [
+        "AWAL"
+    ],
     "Lola Young": [],
     "Metallica": [],
     "The Marias": [],
-    "Linkin Park": [],
-    "Nirvana": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
+    ],
     "Myles Smith": [],
     "Black Country, New Road": [],
     "Neton Vega": [],
@@ -100,7 +85,10 @@
     "benny blanco": [],
     "Kane Brown": [],
     "Future": [],
-    "Arctic Monkeys": [],
+    "Arctic Monkeys": [
+        "Domino",
+        "Warner Bros"
+    ],
     "Eagles": [],
     "Pink Floyd": [],
     "Eminem": [],
