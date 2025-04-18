@@ -7,16 +7,20 @@ var data = {
     "Chappell Roan": [],
     "Drake": [],
     "Ariana Grande": [],
-    "Billie Eilish": [],
+    "Billie Eilish": [
+        "Darkroom",
+        "Interscope"
+    ],
     "Teddy Swims": [],
     "Lady Gaga": [],
     "The Weeknd": [],
     "Taylor Swift": [],
-    "Bruno Mars": [],
-    "Doechii": [
-        "Top Dawg",
-        "Capitol"
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
     ],
+    "Doechii": [],
     "ZEROBASEONE": [],
     "Elton John": [],
     "BigXthaPlug": [],
@@ -27,12 +31,8 @@ var data = {
     "Benson Boone": [],
     "Shaboozey": [],
     "Bad Bunny": [],
-    "Gracie Abrams": [
-        "Interscope"
-    ],
-    "Tate McRae": [
-        "RCA"
-    ],
+    "Gracie Abrams": [],
+    "Tate McRae": [],
     "Post Malone": [],
     "Alex Warren": [],
     "Zach Bryan": [],
@@ -42,23 +42,22 @@ var data = {
     "Playboi Carti": [],
     "Hozier": [],
     "Chris Stapleton": [],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "Sleep Token": [],
     "Miley Cyrus": [],
-    "Djo": [
-        "AWAL"
-    ],
+    "Djo": [],
     "Lola Young": [],
     "Metallica": [],
     "The Marias": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
-    ],
+    "Linkin Park": [],
+    "Nirvana": [],
     "Myles Smith": [],
     "Black Country, New Road": [],
     "Neton Vega": [],
@@ -83,12 +82,12 @@ var data = {
     "AC/DC": [],
     "ROSE": [],
     "benny blanco": [],
-    "Kane Brown": [],
-    "Future": [],
-    "Arctic Monkeys": [
-        "Domino",
-        "Warner Bros"
+    "Kane Brown": [
+        "Zone 4",
+        "RCA"
     ],
+    "Future": [],
+    "Arctic Monkeys": [],
     "Eagles": [],
     "Pink Floyd": [],
     "Eminem": [],
@@ -99,10 +98,19 @@ var data = {
     "Queen": [],
     "Fuerza Regida": [],
     "Nate Smith": [],
-    "Gigi Perez": [],
+    "Gigi Perez": [
+        "Mogul Vision",
+        "Interscope",
+        "Island"
+    ],
     "Alice In Chains": [],
     "Megan Moroney": [],
-    "Red Hot Chili Peppers": [],
+    "Red Hot Chili Peppers": [
+        "Capitol",
+        "EMI",
+        "Enigma",
+        "Warner Bros"
+    ],
     "Tommy Richman": [],
     "Jason Aldean": [],
     "Stray Kids": [],
@@ -116,5 +124,9 @@ var data = {
     "Dasha": [],
     "Lana Del Rey": [],
     "Journey": [],
-    "Lainey Wilson": []
-};var lastUpdated = "04/17";
+    "Lainey Wilson": [
+        "Cupit",
+        "Lone Chief",
+        "BBR"
+    ]
+};var lastUpdated = "04/18";
