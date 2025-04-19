@@ -42,18 +42,13 @@
     "Playboi Carti": [],
     "Hozier": [],
     "Chris Stapleton": [],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Sleep Token": [],
     "Miley Cyrus": [],
     "Djo": [],
-    "Lola Young": [],
+    "Lola Young": [
+        "Island"
+    ],
     "Metallica": [],
     "The Marias": [],
     "Linkin Park": [],
@@ -61,7 +56,9 @@
     "Myles Smith": [],
     "Black Country, New Road": [],
     "Neton Vega": [],
-    "Zach Top": [],
+    "Zach Top": [
+        "Leo33"
+    ],
     "xikers": [],
     "Noah Kahan": [],
     "Radiohead": [],
@@ -82,14 +79,19 @@
     "AC/DC": [],
     "ROSE": [],
     "benny blanco": [],
-    "Kane Brown": [
-        "Zone 4",
-        "RCA"
-    ],
+    "Kane Brown": [],
     "Future": [],
     "Arctic Monkeys": [],
     "Eagles": [],
-    "Pink Floyd": [],
+    "Pink Floyd": [
+        "EMI",
+        "Columbia",
+        "Tower",
+        "Harvest",
+        "Capitol",
+        "Sony Music",
+        "Parlophone"
+    ],
     "Eminem": [],
     "Lil Tecca": [],
     "Creedence Clearwater Revival": [],
@@ -98,20 +100,14 @@
     "Queen": [],
     "Fuerza Regida": [],
     "Nate Smith": [],
-    "Gigi Perez": [
-        "Mogul Vision",
-        "Interscope",
-        "Island"
-    ],
+    "Gigi Perez": [],
     "Alice In Chains": [],
     "Megan Moroney": [],
-    "Red Hot Chili Peppers": [
-        "Capitol",
-        "EMI",
-        "Enigma",
-        "Warner Bros"
+    "Red Hot Chili Peppers": [],
+    "Tommy Richman": [
+        "ISO Supremacy",
+        "Pulse"
     ],
-    "Tommy Richman": [],
     "Jason Aldean": [],
     "Stray Kids": [],
     "Dua Lipa": [],
@@ -124,9 +120,5 @@
     "Dasha": [],
     "Lana Del Rey": [],
     "Journey": [],
-    "Lainey Wilson": [
-        "Cupit",
-        "Lone Chief",
-        "BBR"
-    ]
+    "Lainey Wilson": []
 }
