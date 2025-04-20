@@ -7,19 +7,12 @@ var data = {
     "Chappell Roan": [],
     "Drake": [],
     "Ariana Grande": [],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "Teddy Swims": [],
     "Lady Gaga": [],
     "The Weeknd": [],
     "Taylor Swift": [],
-    "Bruno Mars": [
-        "Universal Motown",
-        "Atlantic",
-        "Elektra"
-    ],
+    "Bruno Mars": [],
     "Doechii": [],
     "ZEROBASEONE": [],
     "Elton John": [],
@@ -34,7 +27,9 @@ var data = {
     "Gracie Abrams": [],
     "Tate McRae": [],
     "Post Malone": [],
-    "Alex Warren": [],
+    "Alex Warren": [
+        "Atlantic Records"
+    ],
     "Zach Bryan": [],
     "Ed Sheeran": [],
     "Tracy Chapman": [],
@@ -46,21 +41,24 @@ var data = {
     "Sleep Token": [],
     "Miley Cyrus": [],
     "Djo": [],
-    "Lola Young": [
-        "Island"
-    ],
+    "Lola Young": [],
     "Metallica": [],
     "The Marias": [],
     "Linkin Park": [],
     "Nirvana": [],
     "Myles Smith": [],
-    "Black Country, New Road": [],
-    "Neton Vega": [],
-    "Zach Top": [
-        "Leo33"
+    "Black Country, New Road": [
+        "Ninja Tune",
+        "Speedy Wunderground"
     ],
+    "Neton Vega": [],
+    "Zach Top": [],
     "xikers": [],
-    "Noah Kahan": [],
+    "Noah Kahan": [
+        "Republic",
+        "Universal",
+        "Mercury"
+    ],
     "Radiohead": [],
     "Tito Double P": [],
     "Chris Brown": [],
@@ -83,19 +81,17 @@ var data = {
     "Future": [],
     "Arctic Monkeys": [],
     "Eagles": [],
-    "Pink Floyd": [
-        "EMI",
-        "Columbia",
-        "Tower",
-        "Harvest",
-        "Capitol",
-        "Sony Music",
-        "Parlophone"
-    ],
+    "Pink Floyd": [],
     "Eminem": [],
     "Lil Tecca": [],
-    "Creedence Clearwater Revival": [],
-    "Mac Miller": [],
+    "Creedence Clearwater Revival": [
+        "Fantasy"
+    ],
+    "Mac Miller": [
+        "Rostrum",
+        "REMember",
+        "Warner Bros"
+    ],
     "Jessie Murph": [],
     "Queen": [],
     "Fuerza Regida": [],
@@ -104,10 +100,7 @@ var data = {
     "Alice In Chains": [],
     "Megan Moroney": [],
     "Red Hot Chili Peppers": [],
-    "Tommy Richman": [
-        "ISO Supremacy",
-        "Pulse"
-    ],
+    "Tommy Richman": [],
     "Jason Aldean": [],
     "Stray Kids": [],
     "Dua Lipa": [],
@@ -121,4 +114,4 @@ var data = {
     "Lana Del Rey": [],
     "Journey": [],
     "Lainey Wilson": []
-};var lastUpdated = "04/19";
+};var lastUpdated = "04/20";
