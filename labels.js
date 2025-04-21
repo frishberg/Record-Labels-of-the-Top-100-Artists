@@ -1,6 +1,11 @@
 var data = {
     "Morgan Wallen": [],
-    "Kendrick Lamar": [],
+    "Kendrick Lamar": [
+        "Interscope",
+        "Top Dawg",
+        "Aftermath",
+        "PGLang"
+    ],
     "Sabrina Carpenter": [],
     "Ethel Cain": [],
     "SZA": [],
@@ -21,15 +26,19 @@ var data = {
     "Jelly Roll": [],
     "Luke Combs": [],
     "Tyler, The Creator": [],
-    "Benson Boone": [],
+    "Benson Boone": [
+        "Warner Bros",
+        "Night Street"
+    ],
     "Shaboozey": [],
-    "Bad Bunny": [],
+    "Bad Bunny": [
+        "Hear This Music",
+        "Rimas"
+    ],
     "Gracie Abrams": [],
     "Tate McRae": [],
     "Post Malone": [],
-    "Alex Warren": [
-        "Atlantic Records"
-    ],
+    "Alex Warren": [],
     "Zach Bryan": [],
     "Ed Sheeran": [],
     "Tracy Chapman": [],
@@ -40,25 +49,20 @@ var data = {
     "Fleetwood Mac": [],
     "Sleep Token": [],
     "Miley Cyrus": [],
-    "Djo": [],
+    "Djo": [
+        "AWAL"
+    ],
     "Lola Young": [],
     "Metallica": [],
     "The Marias": [],
     "Linkin Park": [],
     "Nirvana": [],
     "Myles Smith": [],
-    "Black Country, New Road": [
-        "Ninja Tune",
-        "Speedy Wunderground"
-    ],
+    "Black Country, New Road": [],
     "Neton Vega": [],
     "Zach Top": [],
     "xikers": [],
-    "Noah Kahan": [
-        "Republic",
-        "Universal",
-        "Mercury"
-    ],
+    "Noah Kahan": [],
     "Radiohead": [],
     "Tito Double P": [],
     "Chris Brown": [],
@@ -84,14 +88,8 @@ var data = {
     "Pink Floyd": [],
     "Eminem": [],
     "Lil Tecca": [],
-    "Creedence Clearwater Revival": [
-        "Fantasy"
-    ],
-    "Mac Miller": [
-        "Rostrum",
-        "REMember",
-        "Warner Bros"
-    ],
+    "Creedence Clearwater Revival": [],
+    "Mac Miller": [],
     "Jessie Murph": [],
     "Queen": [],
     "Fuerza Regida": [],
@@ -99,11 +97,19 @@ var data = {
     "Gigi Perez": [],
     "Alice In Chains": [],
     "Megan Moroney": [],
-    "Red Hot Chili Peppers": [],
+    "Red Hot Chili Peppers": [
+        "Capitol",
+        "EMI",
+        "Enigma",
+        "Warner Bros"
+    ],
     "Tommy Richman": [],
     "Jason Aldean": [],
     "Stray Kids": [],
-    "Dua Lipa": [],
+    "Dua Lipa": [
+        "Warner Bros",
+        "Radical22"
+    ],
     "Blake Shelton": [],
     "Creed": [],
     "PARTYNEXTDOOR": [],
@@ -114,4 +120,4 @@ var data = {
     "Lana Del Rey": [],
     "Journey": [],
     "Lainey Wilson": []
-};var lastUpdated = "04/20";
+};var lastUpdated = "04/21";
