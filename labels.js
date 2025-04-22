@@ -1,11 +1,6 @@
 var data = {
     "Morgan Wallen": [],
-    "Kendrick Lamar": [
-        "Interscope",
-        "Top Dawg",
-        "Aftermath",
-        "PGLang"
-    ],
+    "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
     "Ethel Cain": [],
     "SZA": [],
@@ -13,7 +8,9 @@ var data = {
     "Drake": [],
     "Ariana Grande": [],
     "Billie Eilish": [],
-    "Teddy Swims": [],
+    "Teddy Swims": [
+        "Warner Bros"
+    ],
     "Lady Gaga": [],
     "The Weeknd": [],
     "Taylor Swift": [],
@@ -26,21 +23,22 @@ var data = {
     "Jelly Roll": [],
     "Luke Combs": [],
     "Tyler, The Creator": [],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
-    ],
+    "Benson Boone": [],
     "Shaboozey": [],
-    "Bad Bunny": [
-        "Hear This Music",
-        "Rimas"
+    "Bad Bunny": [],
+    "Gracie Abrams": [
+        "Interscope"
     ],
-    "Gracie Abrams": [],
     "Tate McRae": [],
     "Post Malone": [],
     "Alex Warren": [],
     "Zach Bryan": [],
-    "Ed Sheeran": [],
+    "Ed Sheeran": [
+        "Asylum",
+        "Atlantic",
+        "Elektra",
+        "Gingerbread Man"
+    ],
     "Tracy Chapman": [],
     "Bailey Zimmerman": [],
     "Playboi Carti": [],
@@ -49,9 +47,7 @@ var data = {
     "Fleetwood Mac": [],
     "Sleep Token": [],
     "Miley Cyrus": [],
-    "Djo": [
-        "AWAL"
-    ],
+    "Djo": [],
     "Lola Young": [],
     "Metallica": [],
     "The Marias": [],
@@ -72,7 +68,9 @@ var data = {
     "Brandon Lake": [],
     "GloRilla": [],
     "Frank Ocean": [],
-    "Riley Green": [],
+    "Riley Green": [
+        "Nashville Harbor"
+    ],
     "Travis Scott": [],
     "Coldplay": [],
     "Selena Gomez": [],
@@ -88,36 +86,48 @@ var data = {
     "Pink Floyd": [],
     "Eminem": [],
     "Lil Tecca": [],
-    "Creedence Clearwater Revival": [],
+    "Creedence Clearwater Revival": [
+        "Fantasy"
+    ],
     "Mac Miller": [],
     "Jessie Murph": [],
     "Queen": [],
     "Fuerza Regida": [],
     "Nate Smith": [],
     "Gigi Perez": [],
-    "Alice In Chains": [],
-    "Megan Moroney": [],
-    "Red Hot Chili Peppers": [
-        "Capitol",
+    "Alice In Chains": [
+        "Columbia",
+        "Virgin",
         "EMI",
-        "Enigma",
-        "Warner Bros"
+        "Capitol",
+        "BMG"
     ],
+    "Megan Moroney": [],
+    "Red Hot Chili Peppers": [],
     "Tommy Richman": [],
     "Jason Aldean": [],
     "Stray Kids": [],
-    "Dua Lipa": [
-        "Warner Bros",
-        "Radical22"
-    ],
+    "Dua Lipa": [],
     "Blake Shelton": [],
     "Creed": [],
     "PARTYNEXTDOOR": [],
     "Led Zeppelin": [],
-    "J. Cole": [],
+    "J. Cole": [
+        "Dreamville",
+        "Roc Nation",
+        "Interscope",
+        "Columbia",
+        "ByStorm"
+    ],
     "JENNIE": [],
     "Dasha": [],
     "Lana Del Rey": [],
-    "Journey": [],
+    "Journey": [
+        "Columbia",
+        "Frontiers",
+        "Sanctuary",
+        "Nomota",
+        "BMG"
+    ],
     "Lainey Wilson": []
-};var lastUpdated = "04/21";
+};var lastUpdated = "04/22";
