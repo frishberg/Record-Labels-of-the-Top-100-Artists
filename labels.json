@@ -11,14 +11,17 @@
     "Post Malone": [],
     "Billie Eilish": [],
     "Gracie Abrams": [],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
+    "Benson Boone": [],
+    "The Weeknd": [
+        "XO",
+        "Republic"
     ],
-    "The Weeknd": [],
     "Taylor Swift": [],
     "Luke Combs": [],
-    "Doechii": [],
+    "Doechii": [
+        "Top Dawg",
+        "Capitol"
+    ],
     "Bruno Mars": [],
     "Shaboozey": [],
     "Ariana Grande": [],
@@ -29,10 +32,11 @@
     "Alex Warren": [],
     "Tyler, The Creator": [],
     "Fleetwood Mac": [],
-    "Tate McRae": [
-        "RCA"
+    "Tate McRae": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Bronco"
     ],
-    "Zach Bryan": [],
     "Ed Sheeran": [],
     "Bailey Zimmerman": [
         "Warner Bros",
@@ -40,13 +44,17 @@
     ],
     "Hozier": [],
     "Chris Stapleton": [],
-    "Lola Young": [
-        "Island"
-    ],
+    "Lola Young": [],
     "Myles Smith": [],
     "The Marias": [],
     "Charli xcx": [],
-    "Miley Cyrus": [],
+    "Miley Cyrus": [
+        "Walt Disney",
+        "Hollywood",
+        "RCA",
+        "Smiley Miley",
+        "Columbia"
+    ],
     "Playboi Carti": [],
     "Neton Vega": [],
     "Metallica": [],
@@ -58,16 +66,20 @@
     "Chris Brown": [],
     "Tito Double P": [],
     "Rage Against The Machine": [],
-    "AC/DC": [],
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
+    ],
     "Wallows": [],
     "Lana Del Rey": [],
     "GloRilla": [],
     "Riley Green": [],
-    "Forrest Frank": [
-        "River House",
-        "Warner Bros",
-        "10K Projects"
-    ],
+    "Forrest Frank": [],
     "Noah Kahan": [],
     "Frank Ocean": [],
     "Brandon Lake": [],
@@ -76,9 +88,18 @@
     "Radiohead": [],
     "Grateful Dead": [],
     "Gorillaz": [],
-    "Laufey": [],
+    "Laufey": [
+        "AWAL"
+    ],
     "Sleep Token": [],
-    "Michael Jackson": [],
+    "Michael Jackson": [
+        "Steeltown",
+        "Motown",
+        "Epic",
+        "Legacy",
+        "Sony",
+        "MJJ Productions"
+    ],
     "Jessie Murph": [],
     "Talking Heads": [],
     "The Smashing Pumpkins": [],
@@ -92,7 +113,10 @@
     "Travis Scott": [],
     "Future": [],
     "Megan Moroney": [],
-    "Creed": [],
+    "Creed": [
+        "Blue Collar",
+        "Wind-up"
+    ],
     "Jason Aldean": [],
     "Lil Tecca": [],
     "Gigi Perez": [],
@@ -100,7 +124,9 @@
     "Fuerza Regida": [],
     "HARDY": [],
     "Ethel Cain": [],
-    "Cody Johnson": [],
+    "Cody Johnson": [
+        "Warner Bros"
+    ],
     "Gunna": [],
     "Eagles": [],
     "Tommy Richman": [],
