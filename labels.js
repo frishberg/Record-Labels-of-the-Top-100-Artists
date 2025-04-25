@@ -12,16 +12,13 @@ var data = {
     "Billie Eilish": [],
     "Gracie Abrams": [],
     "Benson Boone": [],
-    "The Weeknd": [
-        "XO",
-        "Republic"
+    "The Weeknd": [],
+    "Taylor Swift": [
+        "Republic",
+        "Big Machine"
     ],
-    "Taylor Swift": [],
     "Luke Combs": [],
-    "Doechii": [
-        "Top Dawg",
-        "Capitol"
-    ],
+    "Doechii": [],
     "Bruno Mars": [],
     "Shaboozey": [],
     "Ariana Grande": [],
@@ -33,28 +30,18 @@ var data = {
     "Tyler, The Creator": [],
     "Fleetwood Mac": [],
     "Tate McRae": [],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Bronco"
-    ],
+    "Zach Bryan": [],
     "Ed Sheeran": [],
-    "Bailey Zimmerman": [
-        "Warner Bros",
-        "Elektra"
-    ],
+    "Bailey Zimmerman": [],
     "Hozier": [],
     "Chris Stapleton": [],
     "Lola Young": [],
-    "Myles Smith": [],
+    "Myles Smith": [
+        "Sony Music UK"
+    ],
     "The Marias": [],
     "Charli xcx": [],
-    "Miley Cyrus": [
-        "Walt Disney",
-        "Hollywood",
-        "RCA",
-        "Smiley Miley",
-        "Columbia"
-    ],
+    "Miley Cyrus": [],
     "Playboi Carti": [],
     "Neton Vega": [],
     "Metallica": [],
@@ -66,15 +53,7 @@ var data = {
     "Chris Brown": [],
     "Tito Double P": [],
     "Rage Against The Machine": [],
-    "AC/DC": [
-        "Albert",
-        "Atlantic",
-        "ATCO",
-        "East West",
-        "Elektra",
-        "Epic",
-        "Columbia"
-    ],
+    "AC/DC": [],
     "Wallows": [],
     "Lana Del Rey": [],
     "GloRilla": [],
@@ -88,23 +67,14 @@ var data = {
     "Radiohead": [],
     "Grateful Dead": [],
     "Gorillaz": [],
-    "Laufey": [
-        "AWAL"
-    ],
+    "Laufey": [],
     "Sleep Token": [],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
-    ],
+    "Michael Jackson": [],
     "Jessie Murph": [],
     "Talking Heads": [],
     "The Smashing Pumpkins": [],
     "Ella Langley": [],
-    "Vince Guaraldi": [],
+    "Vince Guaraldi Trio": [],
     "ROSE": [],
     "Elton John": [],
     "Jon Pardi": [],
@@ -113,10 +83,7 @@ var data = {
     "Travis Scott": [],
     "Future": [],
     "Megan Moroney": [],
-    "Creed": [
-        "Blue Collar",
-        "Wind-up"
-    ],
+    "Creed": [],
     "Jason Aldean": [],
     "Lil Tecca": [],
     "Gigi Perez": [],
@@ -124,11 +91,14 @@ var data = {
     "Fuerza Regida": [],
     "HARDY": [],
     "Ethel Cain": [],
-    "Cody Johnson": [
-        "Warner Bros"
-    ],
+    "Cody Johnson": [],
     "Gunna": [],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Tommy Richman": [],
     "Lil Baby": [],
     "Creedence Clearwater Revival": [],
@@ -139,4 +109,4 @@ var data = {
     "J. Cole": [],
     "Blake Shelton": [],
     "Young Thug": []
-};var lastUpdated = "04/24";
+};var lastUpdated = "04/25";
