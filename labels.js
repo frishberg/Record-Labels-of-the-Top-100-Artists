@@ -1,5 +1,10 @@
 var data = {
-    "Morgan Wallen": [],
+    "Morgan Wallen": [
+        "Panacea",
+        "Big Loud",
+        "Republic",
+        "Mercury"
+    ],
     "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
     "SZA": [],
@@ -13,10 +18,7 @@ var data = {
     "Gracie Abrams": [],
     "Benson Boone": [],
     "The Weeknd": [],
-    "Taylor Swift": [
-        "Republic",
-        "Big Machine"
-    ],
+    "Taylor Swift": [],
     "Luke Combs": [],
     "Doechii": [],
     "Bruno Mars": [],
@@ -36,9 +38,7 @@ var data = {
     "Hozier": [],
     "Chris Stapleton": [],
     "Lola Young": [],
-    "Myles Smith": [
-        "Sony Music UK"
-    ],
+    "Myles Smith": [],
     "The Marias": [],
     "Charli xcx": [],
     "Miley Cyrus": [],
@@ -69,7 +69,14 @@ var data = {
     "Gorillaz": [],
     "Laufey": [],
     "Sleep Token": [],
-    "Michael Jackson": [],
+    "Michael Jackson": [
+        "Steeltown",
+        "Motown",
+        "Epic",
+        "Legacy",
+        "Sony",
+        "MJJ Productions"
+    ],
     "Jessie Murph": [],
     "Talking Heads": [],
     "The Smashing Pumpkins": [],
@@ -77,14 +84,21 @@ var data = {
     "Vince Guaraldi Trio": [],
     "ROSE": [],
     "Elton John": [],
-    "Jon Pardi": [],
+    "Jon Pardi": [
+        "Capitol Nashville"
+    ],
     "Nate Smith": [],
     "Coldplay": [],
     "Travis Scott": [],
     "Future": [],
-    "Megan Moroney": [],
+    "Megan Moroney": [
+        "Arista Nashville",
+        "Columbia"
+    ],
     "Creed": [],
-    "Jason Aldean": [],
+    "Jason Aldean": [
+        "Broken Bow"
+    ],
     "Lil Tecca": [],
     "Gigi Perez": [],
     "Dasha": [],
@@ -92,13 +106,11 @@ var data = {
     "HARDY": [],
     "Ethel Cain": [],
     "Cody Johnson": [],
-    "Gunna": [],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
+    "Gunna": [
+        "YSL",
+        "300"
     ],
+    "Eagles": [],
     "Tommy Richman": [],
     "Lil Baby": [],
     "Creedence Clearwater Revival": [],
@@ -109,4 +121,4 @@ var data = {
     "J. Cole": [],
     "Blake Shelton": [],
     "Young Thug": []
-};var lastUpdated = "04/25";
+};var lastUpdated = "04/26";
