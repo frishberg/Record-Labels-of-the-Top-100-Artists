@@ -1,10 +1,5 @@
 var data = {
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
+    "Morgan Wallen": [],
     "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
     "SZA": [],
@@ -46,7 +41,10 @@ var data = {
     "Neton Vega": [],
     "Metallica": [],
     "Leon Thomas": [],
-    "Nirvana": [],
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
+    ],
     "Linkin Park": [],
     "Queen": [],
     "Zach Top": [],
@@ -55,7 +53,12 @@ var data = {
     "Rage Against The Machine": [],
     "AC/DC": [],
     "Wallows": [],
-    "Lana Del Rey": [],
+    "Lana Del Rey": [
+        "5 Points",
+        "Stranger",
+        "Polydor",
+        "Interscope"
+    ],
     "GloRilla": [],
     "Riley Green": [],
     "Forrest Frank": [],
@@ -64,7 +67,15 @@ var data = {
     "Brandon Lake": [],
     "Kane Brown": [],
     "Lord Huron": [],
-    "Radiohead": [],
+    "Radiohead": [
+        "EMI",
+        "XL",
+        "Ticker Tape Ltd.",
+        "Hostess",
+        "TBD",
+        "Parlophone",
+        "Capitol"
+    ],
     "Grateful Dead": [],
     "Gorillaz": [],
     "Laufey": [],
@@ -84,32 +95,29 @@ var data = {
     "Vince Guaraldi Trio": [],
     "ROSE": [],
     "Elton John": [],
-    "Jon Pardi": [
-        "Capitol Nashville"
-    ],
+    "Jon Pardi": [],
     "Nate Smith": [],
     "Coldplay": [],
     "Travis Scott": [],
     "Future": [],
-    "Megan Moroney": [
-        "Arista Nashville",
-        "Columbia"
-    ],
+    "Megan Moroney": [],
     "Creed": [],
-    "Jason Aldean": [
-        "Broken Bow"
+    "Jason Aldean": [],
+    "Lil Tecca": [
+        "Galactic",
+        "Republic"
     ],
-    "Lil Tecca": [],
     "Gigi Perez": [],
     "Dasha": [],
     "Fuerza Regida": [],
-    "HARDY": [],
+    "HARDY": [
+        "Big Loud",
+        "Big Loud Rock",
+        "Tree Vibez"
+    ],
     "Ethel Cain": [],
     "Cody Johnson": [],
-    "Gunna": [
-        "YSL",
-        "300"
-    ],
+    "Gunna": [],
     "Eagles": [],
     "Tommy Richman": [],
     "Lil Baby": [],
@@ -121,4 +129,4 @@ var data = {
     "J. Cole": [],
     "Blake Shelton": [],
     "Young Thug": []
-};var lastUpdated = "04/26";
+};var lastUpdated = "04/27";
