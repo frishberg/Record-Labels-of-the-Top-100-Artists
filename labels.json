@@ -1,7 +1,15 @@
 {
-    "Morgan Wallen": [],
+    "Morgan Wallen": [
+        "Panacea",
+        "Big Loud",
+        "Republic",
+        "Mercury"
+    ],
     "Kendrick Lamar": [],
-    "Sabrina Carpenter": [],
+    "Sabrina Carpenter": [
+        "Hollywood",
+        "Island"
+    ],
     "SZA": [],
     "Chappell Roan": [],
     "Lady Gaga": [],
@@ -19,7 +27,10 @@
     "Bruno Mars": [],
     "Shaboozey": [],
     "Ariana Grande": [],
-    "Ken Carson": [],
+    "Ken Carson": [
+        "Opium",
+        "Interscope"
+    ],
     "BigXthaPlug": [],
     "Bon Iver": [],
     "Bad Bunny": [],
@@ -32,20 +43,32 @@
     "Bailey Zimmerman": [],
     "Hozier": [],
     "Chris Stapleton": [],
-    "Lola Young": [],
+    "Lola Young": [
+        "Island"
+    ],
     "Myles Smith": [],
     "The Marias": [],
     "Charli xcx": [],
     "Miley Cyrus": [],
-    "Playboi Carti": [],
+    "Playboi Carti": [
+        "Awful",
+        "AWGE",
+        "Interscope",
+        "Opium"
+    ],
     "Neton Vega": [],
     "Metallica": [],
-    "Leon Thomas": [],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
+    "Leon Thomas": [
+        "Columbia",
+        "Rostrum",
+        "EZMNY",
+        "Motown"
     ],
-    "Linkin Park": [],
+    "Nirvana": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "Queen": [],
     "Zach Top": [],
     "Chris Brown": [],
@@ -53,12 +76,7 @@
     "Rage Against The Machine": [],
     "AC/DC": [],
     "Wallows": [],
-    "Lana Del Rey": [
-        "5 Points",
-        "Stranger",
-        "Polydor",
-        "Interscope"
-    ],
+    "Lana Del Rey": [],
     "GloRilla": [],
     "Riley Green": [],
     "Forrest Frank": [],
@@ -67,33 +85,23 @@
     "Brandon Lake": [],
     "Kane Brown": [],
     "Lord Huron": [],
-    "Radiohead": [
-        "EMI",
-        "XL",
-        "Ticker Tape Ltd.",
-        "Hostess",
-        "TBD",
-        "Parlophone",
-        "Capitol"
-    ],
+    "Radiohead": [],
     "Grateful Dead": [],
     "Gorillaz": [],
     "Laufey": [],
     "Sleep Token": [],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
-    ],
+    "Michael Jackson": [],
     "Jessie Murph": [],
     "Talking Heads": [],
     "The Smashing Pumpkins": [],
     "Ella Langley": [],
     "Vince Guaraldi Trio": [],
-    "ROSE": [],
+    "ROSE": [
+        "YG",
+        "Interscope",
+        "The Black Label",
+        "Atlantic"
+    ],
     "Elton John": [],
     "Jon Pardi": [],
     "Nate Smith": [],
@@ -103,18 +111,11 @@
     "Megan Moroney": [],
     "Creed": [],
     "Jason Aldean": [],
-    "Lil Tecca": [
-        "Galactic",
-        "Republic"
-    ],
+    "Lil Tecca": [],
     "Gigi Perez": [],
     "Dasha": [],
     "Fuerza Regida": [],
-    "HARDY": [
-        "Big Loud",
-        "Big Loud Rock",
-        "Tree Vibez"
-    ],
+    "HARDY": [],
     "Ethel Cain": [],
     "Cody Johnson": [],
     "Gunna": [],
