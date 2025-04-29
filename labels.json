@@ -1,15 +1,7 @@
 {
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
+    "Morgan Wallen": [],
     "Kendrick Lamar": [],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
-    ],
+    "Sabrina Carpenter": [],
     "SZA": [],
     "Chappell Roan": [],
     "Lady Gaga": [],
@@ -27,10 +19,7 @@
     "Bruno Mars": [],
     "Shaboozey": [],
     "Ariana Grande": [],
-    "Ken Carson": [
-        "Opium",
-        "Interscope"
-    ],
+    "Ken Carson": [],
     "BigXthaPlug": [],
     "Bon Iver": [],
     "Bad Bunny": [],
@@ -43,46 +32,51 @@
     "Bailey Zimmerman": [],
     "Hozier": [],
     "Chris Stapleton": [],
-    "Lola Young": [
-        "Island"
-    ],
+    "Lola Young": [],
     "Myles Smith": [],
     "The Marias": [],
     "Charli xcx": [],
     "Miley Cyrus": [],
-    "Playboi Carti": [
-        "Awful",
-        "AWGE",
-        "Interscope",
-        "Opium"
-    ],
+    "Playboi Carti": [],
     "Neton Vega": [],
     "Metallica": [],
-    "Leon Thomas": [
-        "Columbia",
-        "Rostrum",
-        "EZMNY",
-        "Motown"
-    ],
+    "Leon Thomas": [],
     "Nirvana": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Linkin Park": [],
     "Queen": [],
     "Zach Top": [],
     "Chris Brown": [],
     "Tito Double P": [],
-    "Rage Against The Machine": [],
-    "AC/DC": [],
+    "Rage Against The Machine": [
+        "Epic",
+        "Revelation"
+    ],
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
+    ],
     "Wallows": [],
-    "Lana Del Rey": [],
+    "Lana Del Rey": [
+        "5 Points",
+        "Stranger",
+        "Polydor",
+        "Interscope"
+    ],
     "GloRilla": [],
     "Riley Green": [],
     "Forrest Frank": [],
     "Noah Kahan": [],
     "Frank Ocean": [],
-    "Brandon Lake": [],
+    "Brandon Lake": [
+        "Bethel Music",
+        "Tribl",
+        "Provident"
+    ],
     "Kane Brown": [],
     "Lord Huron": [],
     "Radiohead": [],
@@ -91,17 +85,18 @@
     "Laufey": [],
     "Sleep Token": [],
     "Michael Jackson": [],
-    "Jessie Murph": [],
-    "Talking Heads": [],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
+    "Talking Heads": [
+        "Sire",
+        "Warner Bros"
+    ],
     "The Smashing Pumpkins": [],
     "Ella Langley": [],
     "Vince Guaraldi Trio": [],
-    "ROSE": [
-        "YG",
-        "Interscope",
-        "The Black Label",
-        "Atlantic"
-    ],
+    "ROSE": [],
     "Elton John": [],
     "Jon Pardi": [],
     "Nate Smith": [],
