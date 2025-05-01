@@ -4,7 +4,11 @@
     "Sabrina Carpenter": [],
     "SZA": [],
     "Doechii": [],
-    "Chappell Roan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
     "Lady Gaga": [],
     "Teddy Swims": [],
     "Billie Eilish": [],
@@ -34,11 +38,16 @@
     "Metallica": [],
     "Nirvana": [],
     "Bailey Zimmerman": [],
-    "Lola Young": [],
+    "Lola Young": [
+        "Island"
+    ],
     "Myles Smith": [],
     "Jessie Murph": [],
     "Forrest Frank": [],
-    "Linkin Park": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "Radiohead": [],
     "Zach Top": [],
     "Noah Kahan": [],
@@ -68,9 +77,28 @@
     "Rihanna": [],
     "Nate Smith": [],
     "Bon Iver": [],
-    "Elton John": [],
+    "Elton John": [
+        "Philips",
+        "Congress",
+        "DJM",
+        "Uni",
+        "Paramount",
+        "MCA",
+        "Geffen",
+        "Rocket",
+        "Island",
+        "Mercury",
+        "Island Def Jam",
+        "Interscope",
+        "Virgin EMI",
+        "EMI"
+    ],
     "Alice In Chains": [],
-    "Stray Kids": [],
+    "Stray Kids": [
+        "JYP",
+        "Epic Japan",
+        "Republic"
+    ],
     "The Beatles": [],
     "Creedence Clearwater Revival": [],
     "Megan Moroney": [],
@@ -79,7 +107,10 @@
     "Travis Scott": [],
     "Creed": [],
     "Eminem": [],
-    "sombr": [],
+    "sombr": [
+        "SMB",
+        "Warner Bros"
+    ],
     "Bob Marley And The Wailers": [],
     "Red Hot Chili Peppers": [],
     "Sam Barber": [],
@@ -98,5 +129,9 @@
     "Blake Shelton": [],
     "Olivia Rodrigo": [],
     "Future": [],
-    "Adele": []
+    "Adele": [
+        "XL",
+        "Columbia",
+        "Melted Stone"
+    ]
 }

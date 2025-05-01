@@ -4,7 +4,11 @@ var data = {
     "Sabrina Carpenter": [],
     "SZA": [],
     "Doechii": [],
-    "Chappell Roan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
     "Lady Gaga": [],
     "Teddy Swims": [],
     "Billie Eilish": [],
@@ -34,11 +38,16 @@ var data = {
     "Metallica": [],
     "Nirvana": [],
     "Bailey Zimmerman": [],
-    "Lola Young": [],
+    "Lola Young": [
+        "Island"
+    ],
     "Myles Smith": [],
     "Jessie Murph": [],
     "Forrest Frank": [],
-    "Linkin Park": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "Radiohead": [],
     "Zach Top": [],
     "Noah Kahan": [],
@@ -68,9 +77,28 @@ var data = {
     "Rihanna": [],
     "Nate Smith": [],
     "Bon Iver": [],
-    "Elton John": [],
+    "Elton John": [
+        "Philips",
+        "Congress",
+        "DJM",
+        "Uni",
+        "Paramount",
+        "MCA",
+        "Geffen",
+        "Rocket",
+        "Island",
+        "Mercury",
+        "Island Def Jam",
+        "Interscope",
+        "Virgin EMI",
+        "EMI"
+    ],
     "Alice In Chains": [],
-    "Stray Kids": [],
+    "Stray Kids": [
+        "JYP",
+        "Epic Japan",
+        "Republic"
+    ],
     "The Beatles": [],
     "Creedence Clearwater Revival": [],
     "Megan Moroney": [],
@@ -79,7 +107,10 @@ var data = {
     "Travis Scott": [],
     "Creed": [],
     "Eminem": [],
-    "sombr": [],
+    "sombr": [
+        "SMB",
+        "Warner Bros"
+    ],
     "Bob Marley And The Wailers": [],
     "Red Hot Chili Peppers": [],
     "Sam Barber": [],
@@ -98,5 +129,9 @@ var data = {
     "Blake Shelton": [],
     "Olivia Rodrigo": [],
     "Future": [],
-    "Adele": []
-};var lastUpdated = "04/30";
+    "Adele": [
+        "XL",
+        "Columbia",
+        "Melted Stone"
+    ]
+};var lastUpdated = "05/01";
