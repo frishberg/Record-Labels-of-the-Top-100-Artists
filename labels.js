@@ -4,13 +4,14 @@ var data = {
     "Sabrina Carpenter": [],
     "SZA": [],
     "Doechii": [],
-    "Chappell Roan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
     "Lady Gaga": [],
     "Teddy Swims": [],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "Taylor Swift": [],
     "Drake": [],
     "The Weeknd": [],
@@ -18,7 +19,13 @@ var data = {
     "Jelly Roll": [],
     "Benson Boone": [],
     "Luke Combs": [],
-    "Tyler, The Creator": [],
+    "Tyler, The Creator": [
+        "Columbia",
+        "Odd Future",
+        "Sony",
+        "RED",
+        "XL"
+    ],
     "Bruno Mars": [],
     "Shaboozey": [],
     "Alex Warren": [],
@@ -32,7 +39,9 @@ var data = {
     "Brandon Lake": [],
     "Ed Sheeran": [],
     "Hozier": [],
-    "Chris Stapleton": [],
+    "Chris Stapleton": [
+        "Mercury Nashville"
+    ],
     "The Marias": [],
     "Metallica": [],
     "Nirvana": [],
@@ -44,22 +53,34 @@ var data = {
     "Linkin Park": [],
     "Radiohead": [],
     "Zach Top": [],
-    "Noah Kahan": [],
-    "Charli xcx": [
-        "Vroom Vroom",
-        "Warner Bros",
-        "Asylum",
-        "Atlantic",
-        "Iamsound"
+    "Noah Kahan": [
+        "Republic",
+        "Universal",
+        "Mercury"
     ],
+    "Charli xcx": [],
     "Michael Jackson": [],
     "Miley Cyrus": [],
-    "AC/DC": [],
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
+    ],
     "Leon Thomas": [],
     "Childish Gambino": [],
     "Tito Double P": [],
     "Lana Del Rey": [],
-    "CeCe Winans": [],
+    "CeCe Winans": [
+        "Sparrow",
+        "PMG/Atlantic",
+        "PureSprings Gospel (aka WellSpring Gospel)",
+        "Atlantic",
+        "PureSprings Gospel"
+    ],
     "Kane Brown": [],
     "Chris Brown": [],
     "Playboi Carti": [],
@@ -70,41 +91,33 @@ var data = {
     "Queen": [],
     "Deftones": [],
     "Ella Langley": [],
-    "Coldplay": [],
-    "Sleep Token": [
-        "Spinefarm",
-        "Basick",
-        "RCA"
+    "Coldplay": [
+        "Fierce Panda",
+        "Parlophone",
+        "Nettwerk",
+        "Capitol",
+        "Atlantic"
     ],
+    "Sleep Token": [],
     "Jason Aldean": [],
     "Eagles": [],
-    "Rihanna": [],
+    "Rihanna": [
+        "Roc Nation",
+        "Def Jam",
+        "SRP",
+        "Westbury Road"
+    ],
     "Nate Smith": [],
     "Bon Iver": [],
     "Elton John": [],
     "Alice In Chains": [],
     "Stray Kids": [],
-    "The Beatles": [
-        "Polydor",
-        "Parlophone",
-        "Tollie",
-        "Vee-Jay",
-        "Capitol",
-        "Swan",
-        "United Artists",
-        "Atco",
-        "Apple"
-    ],
+    "The Beatles": [],
     "Creedence Clearwater Revival": [],
     "Megan Moroney": [],
     "Pink Floyd": [],
     "ROSE": [],
-    "Travis Scott": [
-        "Grand Hustle",
-        "Epic",
-        "Very GOOD Beats",
-        "Cactus Jack"
-    ],
+    "Travis Scott": [],
     "Creed": [],
     "Eminem": [],
     "sombr": [],
@@ -123,14 +136,15 @@ var data = {
     "Luke Bryan": [],
     "Arctic Monkeys": [],
     "Tyler Childers": [],
-    "Blake Shelton": [],
-    "Olivia Rodrigo": [
-        "Geffen"
+    "Blake Shelton": [
+        "Giant",
+        "Warner Bros",
+        "Reprise Nashville",
+        "Ten Point",
+        "BBR",
+        "Wheelhouse"
     ],
+    "Olivia Rodrigo": [],
     "Future": [],
-    "Adele": [
-        "XL",
-        "Columbia",
-        "Melted Stone"
-    ]
-};var lastUpdated = "05/03";
+    "Adele": []
+};var lastUpdated = "05/04";
