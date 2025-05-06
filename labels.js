@@ -14,20 +14,24 @@ var data = {
     "Post Malone": [],
     "Jelly Roll": [],
     "Benson Boone": [],
-    "Luke Combs": [],
+    "Luke Combs": [
+        "River House Artists",
+        "Sony Music Nashville"
+    ],
     "Tyler, The Creator": [],
     "Bruno Mars": [],
     "Shaboozey": [],
     "Alex Warren": [],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Bronco"
+    ],
     "Tate McRae": [],
     "Gracie Abrams": [],
     "Bad Bunny": [],
     "BigXthaPlug": [],
     "Fleetwood Mac": [],
-    "Ariana Grande": [
-        "Republic"
-    ],
+    "Ariana Grande": [],
     "Brandon Lake": [],
     "Ed Sheeran": [],
     "Hozier": [],
@@ -36,9 +40,7 @@ var data = {
     "Metallica": [],
     "Nirvana": [],
     "Bailey Zimmerman": [],
-    "Lola Young": [
-        "Island"
-    ],
+    "Lola Young": [],
     "Myles Smith": [],
     "Jessie Murph": [],
     "Forrest Frank": [],
@@ -47,14 +49,7 @@ var data = {
     "Zach Top": [],
     "Noah Kahan": [],
     "Charli xcx": [],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
-    ],
+    "Michael Jackson": [],
     "Miley Cyrus": [],
     "AC/DC": [],
     "Leon Thomas": [],
@@ -64,7 +59,12 @@ var data = {
     "CeCe Winans": [],
     "Kane Brown": [],
     "Chris Brown": [],
-    "Playboi Carti": [],
+    "Playboi Carti": [
+        "Awful",
+        "AWGE",
+        "Interscope",
+        "Opium"
+    ],
     "Riley Green": [],
     "GloRilla": [],
     "Frank Ocean": [],
@@ -73,9 +73,18 @@ var data = {
     "Deftones": [],
     "Ella Langley": [],
     "Coldplay": [],
-    "Sleep Token": [],
+    "Sleep Token": [
+        "Spinefarm",
+        "Basick",
+        "RCA"
+    ],
     "Jason Aldean": [],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Rihanna": [],
     "Nate Smith": [],
     "Bon Iver": [],
@@ -85,31 +94,20 @@ var data = {
     "The Beatles": [],
     "Creedence Clearwater Revival": [],
     "Megan Moroney": [],
-    "Pink Floyd": [
-        "EMI",
-        "Columbia",
-        "Tower",
-        "Harvest",
-        "Capitol",
-        "Sony Music",
-        "Parlophone"
-    ],
+    "Pink Floyd": [],
     "ROSE": [],
     "Travis Scott": [],
     "Creed": [],
     "Eminem": [],
     "sombr": [],
     "Bob Marley And The Wailers": [],
-    "Red Hot Chili Peppers": [
-        "Capitol",
-        "EMI",
-        "Enigma",
-        "Warner Bros"
-    ],
+    "Red Hot Chili Peppers": [],
     "Sam Barber": [],
     "Mac Miller": [],
     "J. Cole": [],
-    "Jon Pardi": [],
+    "Jon Pardi": [
+        "Capitol Nashville"
+    ],
     "Gigi Perez": [],
     "Tommy Richman": [],
     "Lil Tecca": [],
@@ -123,4 +121,4 @@ var data = {
     "Olivia Rodrigo": [],
     "Future": [],
     "Adele": []
-};var lastUpdated = "05/05";
+};var lastUpdated = "05/06";
