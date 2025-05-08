@@ -2,7 +2,10 @@ var data = {
     "Imprint/Promotion Label:": [],
     "Morgan Wallen": [],
     "Kendrick Lamar": [],
-    "SZA": [],
+    "SZA": [
+        "TDE",
+        "RCA"
+    ],
     "Sabrina Carpenter": [],
     "Chappell Roan": [],
     "Benson Boone": [],
@@ -36,8 +39,15 @@ var data = {
     "Sleep Token": [],
     "Myles Smith": [],
     "Ariana Grande": [],
-    "Brandon Lake": [],
-    "Bailey Zimmerman": [],
+    "Brandon Lake": [
+        "Bethel Music",
+        "Tribl",
+        "Provident"
+    ],
+    "Bailey Zimmerman": [
+        "Warner Bros",
+        "Elektra"
+    ],
     "Lola Young": [],
     "The Marias": [],
     "Metallica": [],
@@ -45,33 +55,26 @@ var data = {
     "Charli xcx": [],
     "Linkin Park": [],
     "Forrest Frank": [],
-    "Zach Top": [],
+    "Zach Top": [
+        "Leo33"
+    ],
     "Miley Cyrus": [],
     "Michael Jackson": [],
     "Lorde": [],
     "Frank Ocean": [],
     "Leon Thomas": [],
-    "Radiohead": [
-        "EMI",
-        "XL",
-        "Ticker Tape Ltd.",
-        "Hostess",
-        "TBD",
-        "Parlophone",
-        "Capitol"
-    ],
+    "Radiohead": [],
     "Noah Kahan": [],
     "Riley Green": [],
     "AC/DC": [],
-    "Chris Brown": [
-        "CBE",
-        "Jive",
-        "RCA"
-    ],
+    "Chris Brown": [],
     "Playboi Carti": [],
     "Kane Brown": [],
     "Goose": [],
-    "Ella Langley": [],
+    "Ella Langley": [
+        "Sony Nashville",
+        "Columbia"
+    ],
     "GloRilla": [],
     "Neton Vega": [],
     "Tito Double P": [],
@@ -93,14 +96,23 @@ var data = {
     "Creedence Clearwater Revival": [],
     "Deftones": [],
     "Creed": [],
-    "Eminem": [],
+    "Eminem": [
+        "Shady",
+        "Aftermath",
+        "Interscope",
+        "Web",
+        "Polydor"
+    ],
     "ROSE": [],
     "Coco Jones": [],
     "Red Hot Chili Peppers": [],
     "Lil Baby": [],
     "Gigi Perez": [],
     "Journey": [],
-    "Lil Tecca": [],
+    "Lil Tecca": [
+        "Galactic",
+        "Republic"
+    ],
     "Blake Shelton": [],
     "Thomas Rhett": [],
     "Dasha": [],
@@ -111,4 +123,4 @@ var data = {
     "Lana Del Rey": [],
     "Bon Iver": [],
     "Samantha Fish": []
-};var lastUpdated = "05/07";
+};var lastUpdated = "05/08";
