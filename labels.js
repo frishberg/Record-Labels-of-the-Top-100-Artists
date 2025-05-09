@@ -2,10 +2,7 @@ var data = {
     "Imprint/Promotion Label:": [],
     "Morgan Wallen": [],
     "Kendrick Lamar": [],
-    "SZA": [
-        "TDE",
-        "RCA"
-    ],
+    "SZA": [],
     "Sabrina Carpenter": [],
     "Chappell Roan": [],
     "Benson Boone": [],
@@ -24,7 +21,13 @@ var data = {
     "Post Malone": [],
     "Alex Warren": [],
     "Zach Bryan": [],
-    "Tyler, The Creator": [],
+    "Tyler, The Creator": [
+        "Columbia",
+        "Odd Future",
+        "Sony",
+        "RED",
+        "XL"
+    ],
     "d4vd": [],
     "BigXthaPlug": [],
     "Tate McRae": [],
@@ -36,18 +39,15 @@ var data = {
     "Chris Stapleton": [],
     "Jessie Murph": [],
     "Fleetwood Mac": [],
-    "Sleep Token": [],
+    "Sleep Token": [
+        "Spinefarm",
+        "Basick",
+        "RCA"
+    ],
     "Myles Smith": [],
     "Ariana Grande": [],
-    "Brandon Lake": [
-        "Bethel Music",
-        "Tribl",
-        "Provident"
-    ],
-    "Bailey Zimmerman": [
-        "Warner Bros",
-        "Elektra"
-    ],
+    "Brandon Lake": [],
+    "Bailey Zimmerman": [],
     "Lola Young": [],
     "The Marias": [],
     "Metallica": [],
@@ -55,9 +55,7 @@ var data = {
     "Charli xcx": [],
     "Linkin Park": [],
     "Forrest Frank": [],
-    "Zach Top": [
-        "Leo33"
-    ],
+    "Zach Top": [],
     "Miley Cyrus": [],
     "Michael Jackson": [],
     "Lorde": [],
@@ -69,12 +67,12 @@ var data = {
     "AC/DC": [],
     "Chris Brown": [],
     "Playboi Carti": [],
-    "Kane Brown": [],
-    "Goose": [],
-    "Ella Langley": [
-        "Sony Nashville",
-        "Columbia"
+    "Kane Brown": [
+        "Zone 4",
+        "RCA"
     ],
+    "Goose": [],
+    "Ella Langley": [],
     "GloRilla": [],
     "Neton Vega": [],
     "Tito Double P": [],
@@ -84,9 +82,22 @@ var data = {
     "Rihanna": [],
     "Jason Aldean": [],
     "Nate Smith": [],
-    "Future": [],
+    "Future": [
+        "Freebandz",
+        "Epic",
+        "A1 (formerly)",
+        "A1"
+    ],
     "sombr": [],
-    "Queen": [],
+    "Queen": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+    ],
     "Eagles": [],
     "Megan Moroney": [],
     "Travis Scott": [],
@@ -96,31 +107,28 @@ var data = {
     "Creedence Clearwater Revival": [],
     "Deftones": [],
     "Creed": [],
-    "Eminem": [
-        "Shady",
-        "Aftermath",
-        "Interscope",
-        "Web",
-        "Polydor"
-    ],
+    "Eminem": [],
     "ROSE": [],
     "Coco Jones": [],
     "Red Hot Chili Peppers": [],
     "Lil Baby": [],
     "Gigi Perez": [],
     "Journey": [],
-    "Lil Tecca": [
-        "Galactic",
-        "Republic"
-    ],
+    "Lil Tecca": [],
     "Blake Shelton": [],
     "Thomas Rhett": [],
     "Dasha": [],
     "Stray Kids": [],
     "Fuerza Regida": [],
-    "J. Cole": [],
+    "J. Cole": [
+        "Dreamville",
+        "Roc Nation",
+        "Interscope",
+        "Columbia",
+        "ByStorm"
+    ],
     "Lil Wayne": [],
     "Lana Del Rey": [],
     "Bon Iver": [],
     "Samantha Fish": []
-};var lastUpdated = "05/08";
+};var lastUpdated = "05/09";
