@@ -4,7 +4,11 @@ var data = {
     "Kendrick Lamar": [],
     "SZA": [],
     "Sabrina Carpenter": [],
-    "Chappell Roan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
     "Benson Boone": [],
     "Billie Eilish": [],
     "Teddy Swims": [],
@@ -16,18 +20,23 @@ var data = {
     "Doechii": [],
     "Luke Combs": [],
     "Taylor Swift": [],
-    "Grateful Dead": [],
-    "Bruno Mars": [],
+    "Grateful Dead": [
+        "Warner Bros",
+        "Grateful Dead",
+        "Arista",
+        "Rhino",
+        "Sunflower",
+        "United Artists"
+    ],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Post Malone": [],
     "Alex Warren": [],
     "Zach Bryan": [],
-    "Tyler, The Creator": [
-        "Columbia",
-        "Odd Future",
-        "Sony",
-        "RED",
-        "XL"
-    ],
+    "Tyler, The Creator": [],
     "d4vd": [],
     "BigXthaPlug": [],
     "Tate McRae": [],
@@ -39,11 +48,7 @@ var data = {
     "Chris Stapleton": [],
     "Jessie Murph": [],
     "Fleetwood Mac": [],
-    "Sleep Token": [
-        "Spinefarm",
-        "Basick",
-        "RCA"
-    ],
+    "Sleep Token": [],
     "Myles Smith": [],
     "Ariana Grande": [],
     "Brandon Lake": [],
@@ -53,8 +58,15 @@ var data = {
     "Metallica": [],
     "Nirvana": [],
     "Charli xcx": [],
-    "Linkin Park": [],
-    "Forrest Frank": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
+    "Forrest Frank": [
+        "River House",
+        "Warner Bros",
+        "10K Projects"
+    ],
     "Zach Top": [],
     "Miley Cyrus": [],
     "Michael Jackson": [],
@@ -67,10 +79,7 @@ var data = {
     "AC/DC": [],
     "Chris Brown": [],
     "Playboi Carti": [],
-    "Kane Brown": [
-        "Zone 4",
-        "RCA"
-    ],
+    "Kane Brown": [],
     "Goose": [],
     "Ella Langley": [],
     "GloRilla": [],
@@ -82,22 +91,9 @@ var data = {
     "Rihanna": [],
     "Jason Aldean": [],
     "Nate Smith": [],
-    "Future": [
-        "Freebandz",
-        "Epic",
-        "A1 (formerly)",
-        "A1"
-    ],
+    "Future": [],
     "sombr": [],
-    "Queen": [
-        "EMI",
-        "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
-    ],
+    "Queen": [],
     "Eagles": [],
     "Megan Moroney": [],
     "Travis Scott": [],
@@ -120,15 +116,12 @@ var data = {
     "Dasha": [],
     "Stray Kids": [],
     "Fuerza Regida": [],
-    "J. Cole": [
-        "Dreamville",
-        "Roc Nation",
-        "Interscope",
-        "Columbia",
-        "ByStorm"
-    ],
+    "J. Cole": [],
     "Lil Wayne": [],
     "Lana Del Rey": [],
-    "Bon Iver": [],
+    "Bon Iver": [
+        "Jagjaguwar",
+        "4AD"
+    ],
     "Samantha Fish": []
-};var lastUpdated = "05/09";
+};var lastUpdated = "05/10";
