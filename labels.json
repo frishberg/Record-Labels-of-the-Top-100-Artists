@@ -4,11 +4,7 @@
     "Kendrick Lamar": [],
     "SZA": [],
     "Sabrina Carpenter": [],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement"
-    ],
+    "Chappell Roan": [],
     "Benson Boone": [],
     "Billie Eilish": [],
     "Teddy Swims": [],
@@ -19,28 +15,25 @@
     "The Weeknd": [],
     "Doechii": [],
     "Luke Combs": [],
-    "Taylor Swift": [],
-    "Grateful Dead": [
-        "Warner Bros",
-        "Grateful Dead",
-        "Arista",
-        "Rhino",
-        "Sunflower",
-        "United Artists"
+    "Taylor Swift": [
+        "Republic",
+        "Big Machine"
     ],
-    "Bruno Mars": [
-        "Universal Motown",
-        "Atlantic",
-        "Elektra"
-    ],
+    "Grateful Dead": [],
+    "Bruno Mars": [],
     "Post Malone": [],
     "Alex Warren": [],
     "Zach Bryan": [],
     "Tyler, The Creator": [],
     "d4vd": [],
-    "BigXthaPlug": [],
+    "BigXthaPlug": [
+        "UnitedMasters"
+    ],
     "Tate McRae": [],
-    "Bad Bunny": [],
+    "Bad Bunny": [
+        "Hear This Music",
+        "Rimas"
+    ],
     "Tucker Wetmore": [],
     "Gracie Abrams": [],
     "Ed Sheeran": [],
@@ -50,7 +43,9 @@
     "Fleetwood Mac": [],
     "Sleep Token": [],
     "Myles Smith": [],
-    "Ariana Grande": [],
+    "Ariana Grande": [
+        "Republic"
+    ],
     "Brandon Lake": [],
     "Bailey Zimmerman": [],
     "Lola Young": [],
@@ -58,17 +53,16 @@
     "Metallica": [],
     "Nirvana": [],
     "Charli xcx": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
-    "Forrest Frank": [
-        "River House",
-        "Warner Bros",
-        "10K Projects"
-    ],
+    "Linkin Park": [],
+    "Forrest Frank": [],
     "Zach Top": [],
-    "Miley Cyrus": [],
+    "Miley Cyrus": [
+        "Walt Disney",
+        "Hollywood",
+        "RCA",
+        "Smiley Miley",
+        "Columbia"
+    ],
     "Michael Jackson": [],
     "Lorde": [],
     "Frank Ocean": [],
@@ -119,9 +113,6 @@
     "J. Cole": [],
     "Lil Wayne": [],
     "Lana Del Rey": [],
-    "Bon Iver": [
-        "Jagjaguwar",
-        "4AD"
-    ],
+    "Bon Iver": [],
     "Samantha Fish": []
 }
