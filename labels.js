@@ -9,16 +9,19 @@ var data = {
     "Billie Eilish": [],
     "Teddy Swims": [],
     "Lady Gaga": [],
-    "Jelly Roll": [],
+    "Jelly Roll": [
+        "Slumerican",
+        "Bad Apple Inc.",
+        "War Dog",
+        "Wyte Music",
+        "BBR"
+    ],
     "Shaboozey": [],
     "Drake": [],
     "The Weeknd": [],
     "Doechii": [],
     "Luke Combs": [],
-    "Taylor Swift": [
-        "Republic",
-        "Big Machine"
-    ],
+    "Taylor Swift": [],
     "Grateful Dead": [],
     "Bruno Mars": [],
     "Post Malone": [],
@@ -26,16 +29,13 @@ var data = {
     "Zach Bryan": [],
     "Tyler, The Creator": [],
     "d4vd": [],
-    "BigXthaPlug": [
-        "UnitedMasters"
-    ],
+    "BigXthaPlug": [],
     "Tate McRae": [],
-    "Bad Bunny": [
-        "Hear This Music",
-        "Rimas"
-    ],
+    "Bad Bunny": [],
     "Tucker Wetmore": [],
-    "Gracie Abrams": [],
+    "Gracie Abrams": [
+        "Interscope"
+    ],
     "Ed Sheeran": [],
     "Hozier": [],
     "Chris Stapleton": [],
@@ -43,9 +43,7 @@ var data = {
     "Fleetwood Mac": [],
     "Sleep Token": [],
     "Myles Smith": [],
-    "Ariana Grande": [
-        "Republic"
-    ],
+    "Ariana Grande": [],
     "Brandon Lake": [],
     "Bailey Zimmerman": [],
     "Lola Young": [],
@@ -56,13 +54,7 @@ var data = {
     "Linkin Park": [],
     "Forrest Frank": [],
     "Zach Top": [],
-    "Miley Cyrus": [
-        "Walt Disney",
-        "Hollywood",
-        "RCA",
-        "Smiley Miley",
-        "Columbia"
-    ],
+    "Miley Cyrus": [],
     "Michael Jackson": [],
     "Lorde": [],
     "Frank Ocean": [],
@@ -92,7 +84,10 @@ var data = {
     "Megan Moroney": [],
     "Travis Scott": [],
     "Alice In Chains": [],
-    "Tommy Richman": [],
+    "Tommy Richman": [
+        "ISO Supremacy",
+        "Pulse"
+    ],
     "Pink Floyd": [],
     "Creedence Clearwater Revival": [],
     "Deftones": [],
@@ -112,7 +107,12 @@ var data = {
     "Fuerza Regida": [],
     "J. Cole": [],
     "Lil Wayne": [],
-    "Lana Del Rey": [],
+    "Lana Del Rey": [
+        "5 Points",
+        "Stranger",
+        "Polydor",
+        "Interscope"
+    ],
     "Bon Iver": [],
     "Samantha Fish": []
-};var lastUpdated = "05/11";
+};var lastUpdated = "05/12";
