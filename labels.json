@@ -9,21 +9,29 @@
     "Billie Eilish": [],
     "Teddy Swims": [],
     "Lady Gaga": [],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
+    "Jelly Roll": [],
     "Shaboozey": [],
     "Drake": [],
     "The Weeknd": [],
     "Doechii": [],
-    "Luke Combs": [],
+    "Luke Combs": [
+        "River House Artists",
+        "Sony Music Nashville"
+    ],
     "Taylor Swift": [],
-    "Grateful Dead": [],
-    "Bruno Mars": [],
+    "Grateful Dead": [
+        "Warner Bros",
+        "Grateful Dead",
+        "Arista",
+        "Rhino",
+        "Sunflower",
+        "United Artists"
+    ],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Post Malone": [],
     "Alex Warren": [],
     "Zach Bryan": [],
@@ -33,9 +41,7 @@
     "Tate McRae": [],
     "Bad Bunny": [],
     "Tucker Wetmore": [],
-    "Gracie Abrams": [
-        "Interscope"
-    ],
+    "Gracie Abrams": [],
     "Ed Sheeran": [],
     "Hozier": [],
     "Chris Stapleton": [],
@@ -84,12 +90,11 @@
     "Megan Moroney": [],
     "Travis Scott": [],
     "Alice In Chains": [],
-    "Tommy Richman": [
-        "ISO Supremacy",
-        "Pulse"
-    ],
+    "Tommy Richman": [],
     "Pink Floyd": [],
-    "Creedence Clearwater Revival": [],
+    "Creedence Clearwater Revival": [
+        "Fantasy"
+    ],
     "Deftones": [],
     "Creed": [],
     "Eminem": [],
@@ -107,12 +112,7 @@
     "Fuerza Regida": [],
     "J. Cole": [],
     "Lil Wayne": [],
-    "Lana Del Rey": [
-        "5 Points",
-        "Stranger",
-        "Polydor",
-        "Interscope"
-    ],
+    "Lana Del Rey": [],
     "Bon Iver": [],
     "Samantha Fish": []
 }
