@@ -7,35 +7,30 @@ var data = {
     "Sabrina Carpenter": [],
     "Benson Boone": [],
     "Chappell Roan": [],
-    "Lady Gaga": [
-        "Def Jam",
-        "Cherrytree",
-        "KonLive",
-        "Streamline",
-        "Interscope"
-    ],
+    "Lady Gaga": [],
     "Drake": [],
     "Teddy Swims": [],
     "Billie Eilish": [],
     "Luke Combs": [],
     "Pink Floyd": [],
     "Shaboozey": [],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
+    "Jelly Roll": [],
     "The Weeknd": [],
-    "Post Malone": [],
+    "Post Malone": [
+        "Republic",
+        "Mercury",
+        "Posty"
+    ],
     "Doechii": [],
     "Taylor Swift": [],
     "Alex Warren": [],
     "Eric Church": [],
     "Bruno Mars": [],
     "Tyler, The Creator": [],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Bronco"
+    ],
     "Ed Sheeran": [],
     "BigXthaPlug": [],
     "Fleetwood Mac": [],
@@ -47,10 +42,7 @@ var data = {
     "Gracie Abrams": [],
     "Metallica": [],
     "Ghost": [],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Jessie Murph": [],
     "Ariana Grande": [],
     "Lola Young": [],
     "Charli xcx": [],
@@ -59,16 +51,19 @@ var data = {
     "Linkin Park": [],
     "Radiohead": [],
     "Frank Ocean": [],
-    "Sleep Token": [
-        "Spinefarm",
-        "Basick",
-        "RCA"
-    ],
+    "Sleep Token": [],
     "Riley Green": [],
     "Brandon Lake": [],
     "Leon Thomas": [],
     "Forrest Frank": [],
-    "Michael Jackson": [],
+    "Michael Jackson": [
+        "Steeltown",
+        "Motown",
+        "Epic",
+        "Legacy",
+        "Sony",
+        "MJJ Productions"
+    ],
     "Key Glock": [],
     "Miley Cyrus": [],
     "Kane Brown": [],
@@ -82,22 +77,9 @@ var data = {
     "GloRilla": [],
     "Coldplay": [],
     "The Marias": [],
-    "AC/DC": [
-        "Albert",
-        "Atlantic",
-        "ATCO",
-        "East West",
-        "Elektra",
-        "Epic",
-        "Columbia"
-    ],
+    "AC/DC": [],
     "Neton Vega": [],
-    "Playboi Carti": [
-        "Awful",
-        "AWGE",
-        "Interscope",
-        "Opium"
-    ],
+    "Playboi Carti": [],
     "Lorde": [],
     "Tito Double P": [],
     "Rihanna": [],
@@ -131,4 +113,4 @@ var data = {
     "Lynyrd Skynyrd": [],
     "Summer Walker": [],
     "Arctic Monkeys": []
-};var lastUpdated = "05/14";
+};var lastUpdated = "05/15";
