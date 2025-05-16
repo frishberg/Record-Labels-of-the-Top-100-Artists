@@ -2,12 +2,23 @@
     "Morgan Wallen": [],
     "Bad Bunny": [],
     "Fuerza Regida": [],
-    "Kendrick Lamar": [],
+    "Kendrick Lamar": [
+        "Interscope",
+        "Top Dawg",
+        "Aftermath",
+        "PGLang"
+    ],
     "SZA": [],
     "Sabrina Carpenter": [],
     "Benson Boone": [],
     "Chappell Roan": [],
-    "Lady Gaga": [],
+    "Lady Gaga": [
+        "Def Jam",
+        "Cherrytree",
+        "KonLive",
+        "Streamline",
+        "Interscope"
+    ],
     "Drake": [],
     "Teddy Swims": [],
     "Billie Eilish": [],
@@ -16,21 +27,20 @@
     "Shaboozey": [],
     "Jelly Roll": [],
     "The Weeknd": [],
-    "Post Malone": [
-        "Republic",
-        "Mercury",
-        "Posty"
-    ],
+    "Post Malone": [],
     "Doechii": [],
     "Taylor Swift": [],
     "Alex Warren": [],
     "Eric Church": [],
     "Bruno Mars": [],
-    "Tyler, The Creator": [],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Bronco"
+    "Tyler, The Creator": [
+        "Columbia",
+        "Odd Future",
+        "Sony",
+        "RED",
+        "XL"
     ],
+    "Zach Bryan": [],
     "Ed Sheeran": [],
     "BigXthaPlug": [],
     "Fleetwood Mac": [],
@@ -41,14 +51,33 @@
     "Myles Smith": [],
     "Gracie Abrams": [],
     "Metallica": [],
-    "Ghost": [],
-    "Jessie Murph": [],
+    "Ghost": [
+        "Iron Pegasus",
+        "Rise Above",
+        "Metal Blade",
+        "Trooper Ent.",
+        "Seven Four Ent.",
+        "Loma Vista"
+    ],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
     "Ariana Grande": [],
     "Lola Young": [],
-    "Charli xcx": [],
+    "Charli xcx": [
+        "Vroom Vroom",
+        "Warner Bros",
+        "Asylum",
+        "Atlantic",
+        "Iamsound"
+    ],
     "Zach Top": [],
     "Nirvana": [],
-    "Linkin Park": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "Radiohead": [],
     "Frank Ocean": [],
     "Sleep Token": [],
@@ -56,15 +85,12 @@
     "Brandon Lake": [],
     "Leon Thomas": [],
     "Forrest Frank": [],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
+    "Michael Jackson": [],
+    "Key Glock": [
+        "Paper Route Empire",
+        "Empire",
+        "Republic"
     ],
-    "Key Glock": [],
     "Miley Cyrus": [],
     "Kane Brown": [],
     "Ella Langley": [],
@@ -77,7 +103,15 @@
     "GloRilla": [],
     "Coldplay": [],
     "The Marias": [],
-    "AC/DC": [],
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
+    ],
     "Neton Vega": [],
     "Playboi Carti": [],
     "Lorde": [],
