@@ -2,23 +2,12 @@
     "Morgan Wallen": [],
     "Bad Bunny": [],
     "Fuerza Regida": [],
-    "Kendrick Lamar": [
-        "Interscope",
-        "Top Dawg",
-        "Aftermath",
-        "PGLang"
-    ],
+    "Kendrick Lamar": [],
     "SZA": [],
     "Sabrina Carpenter": [],
     "Benson Boone": [],
     "Chappell Roan": [],
-    "Lady Gaga": [
-        "Def Jam",
-        "Cherrytree",
-        "KonLive",
-        "Streamline",
-        "Interscope"
-    ],
+    "Lady Gaga": [],
     "Drake": [],
     "Teddy Swims": [],
     "Billie Eilish": [],
@@ -33,13 +22,7 @@
     "Alex Warren": [],
     "Eric Church": [],
     "Bruno Mars": [],
-    "Tyler, The Creator": [
-        "Columbia",
-        "Odd Future",
-        "Sony",
-        "RED",
-        "XL"
-    ],
+    "Tyler, The Creator": [],
     "Zach Bryan": [],
     "Ed Sheeran": [],
     "BigXthaPlug": [],
@@ -51,33 +34,14 @@
     "Myles Smith": [],
     "Gracie Abrams": [],
     "Metallica": [],
-    "Ghost": [
-        "Iron Pegasus",
-        "Rise Above",
-        "Metal Blade",
-        "Trooper Ent.",
-        "Seven Four Ent.",
-        "Loma Vista"
-    ],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Ghost": [],
+    "Jessie Murph": [],
     "Ariana Grande": [],
     "Lola Young": [],
-    "Charli xcx": [
-        "Vroom Vroom",
-        "Warner Bros",
-        "Asylum",
-        "Atlantic",
-        "Iamsound"
-    ],
+    "Charli xcx": [],
     "Zach Top": [],
     "Nirvana": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Linkin Park": [],
     "Radiohead": [],
     "Frank Ocean": [],
     "Sleep Token": [],
@@ -86,11 +50,7 @@
     "Leon Thomas": [],
     "Forrest Frank": [],
     "Michael Jackson": [],
-    "Key Glock": [
-        "Paper Route Empire",
-        "Empire",
-        "Republic"
-    ],
+    "Key Glock": [],
     "Miley Cyrus": [],
     "Kane Brown": [],
     "Ella Langley": [],
@@ -99,36 +59,51 @@
     "Josh Groban": [],
     "sombr": [],
     "Noah Kahan": [],
-    "Car Seat Headrest": [],
+    "Car Seat Headrest": [
+        "Matador"
+    ],
     "GloRilla": [],
     "Coldplay": [],
     "The Marias": [],
-    "AC/DC": [
-        "Albert",
-        "Atlantic",
-        "ATCO",
-        "East West",
-        "Elektra",
-        "Epic",
-        "Columbia"
-    ],
+    "AC/DC": [],
     "Neton Vega": [],
     "Playboi Carti": [],
     "Lorde": [],
     "Tito Double P": [],
     "Rihanna": [],
-    "Mariah The Scientist": [],
+    "Mariah The Scientist": [
+        "Epic (current)",
+        "One Umbrella",
+        "RCA",
+        "Epic"
+    ],
     "Eagles": [],
     "Megan Moroney": [],
     "Jason Aldean": [],
     "Queen": [],
     "Propagandhi": [],
     "Creedence Clearwater Revival": [],
-    "Red Hot Chili Peppers": [],
+    "Red Hot Chili Peppers": [
+        "Capitol",
+        "EMI",
+        "Enigma",
+        "Warner Bros"
+    ],
     "Creed": [],
     "Tommy Richman": [],
-    "Future": [],
-    "Journey": [],
+    "Future": [
+        "Freebandz",
+        "Epic",
+        "A1 (formerly)",
+        "A1"
+    ],
+    "Journey": [
+        "Columbia",
+        "Frontiers",
+        "Sanctuary",
+        "Nomota",
+        "BMG"
+    ],
     "PUP": [],
     "ROSE": [],
     "Deftones": [],
@@ -136,12 +111,22 @@
     "Thomas Rhett": [],
     "Lil Tecca": [],
     "Mac Miller": [],
-    "Blake Shelton": [],
+    "Blake Shelton": [
+        "Giant",
+        "Warner Bros",
+        "Reprise Nashville",
+        "Ten Point",
+        "BBR",
+        "Wheelhouse"
+    ],
     "Alice In Chains": [],
     "Don Toliver": [],
     "J. Cole": [],
     "HARDY": [],
-    "Dasha": [],
+    "Dasha": [
+        "Disruptor",
+        "Warner Bros"
+    ],
     "Eminem": [],
     "Gigi Perez": [],
     "Lynyrd Skynyrd": [],
