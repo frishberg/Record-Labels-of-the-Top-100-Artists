@@ -10,13 +10,20 @@
     "Lady Gaga": [],
     "Drake": [],
     "Teddy Swims": [],
-    "Billie Eilish": [],
+    "Billie Eilish": [
+        "Darkroom",
+        "Interscope"
+    ],
     "Luke Combs": [],
     "Pink Floyd": [],
     "Shaboozey": [],
     "Jelly Roll": [],
     "The Weeknd": [],
-    "Post Malone": [],
+    "Post Malone": [
+        "Republic",
+        "Mercury",
+        "Posty"
+    ],
     "Doechii": [],
     "Taylor Swift": [],
     "Alex Warren": [],
@@ -32,7 +39,9 @@
     "Bailey Zimmerman": [],
     "Chris Stapleton": [],
     "Myles Smith": [],
-    "Gracie Abrams": [],
+    "Gracie Abrams": [
+        "Interscope"
+    ],
     "Metallica": [],
     "Ghost": [],
     "Jessie Murph": [],
@@ -43,14 +52,26 @@
     "Nirvana": [],
     "Linkin Park": [],
     "Radiohead": [],
-    "Frank Ocean": [],
+    "Frank Ocean": [
+        "Blonded",
+        "Def Jam",
+        "RedZone"
+    ],
     "Sleep Token": [],
     "Riley Green": [],
-    "Brandon Lake": [],
+    "Brandon Lake": [
+        "Bethel Music",
+        "Tribl",
+        "Provident"
+    ],
     "Leon Thomas": [],
     "Forrest Frank": [],
     "Michael Jackson": [],
-    "Key Glock": [],
+    "Key Glock": [
+        "Paper Route Empire",
+        "Empire",
+        "Republic"
+    ],
     "Miley Cyrus": [],
     "Kane Brown": [],
     "Ella Langley": [],
@@ -59,10 +80,11 @@
     "Josh Groban": [],
     "sombr": [],
     "Noah Kahan": [],
-    "Car Seat Headrest": [
-        "Matador"
+    "Car Seat Headrest": [],
+    "GloRilla": [
+        "Collective",
+        "Interscope"
     ],
-    "GloRilla": [],
     "Coldplay": [],
     "The Marias": [],
     "AC/DC": [],
@@ -71,39 +93,26 @@
     "Lorde": [],
     "Tito Double P": [],
     "Rihanna": [],
-    "Mariah The Scientist": [
-        "Epic (current)",
-        "One Umbrella",
-        "RCA",
-        "Epic"
-    ],
+    "Mariah The Scientist": [],
     "Eagles": [],
     "Megan Moroney": [],
     "Jason Aldean": [],
-    "Queen": [],
+    "Queen": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+    ],
     "Propagandhi": [],
     "Creedence Clearwater Revival": [],
-    "Red Hot Chili Peppers": [
-        "Capitol",
-        "EMI",
-        "Enigma",
-        "Warner Bros"
-    ],
+    "Red Hot Chili Peppers": [],
     "Creed": [],
     "Tommy Richman": [],
-    "Future": [
-        "Freebandz",
-        "Epic",
-        "A1 (formerly)",
-        "A1"
-    ],
-    "Journey": [
-        "Columbia",
-        "Frontiers",
-        "Sanctuary",
-        "Nomota",
-        "BMG"
-    ],
+    "Future": [],
+    "Journey": [],
     "PUP": [],
     "ROSE": [],
     "Deftones": [],
@@ -111,22 +120,12 @@
     "Thomas Rhett": [],
     "Lil Tecca": [],
     "Mac Miller": [],
-    "Blake Shelton": [
-        "Giant",
-        "Warner Bros",
-        "Reprise Nashville",
-        "Ten Point",
-        "BBR",
-        "Wheelhouse"
-    ],
+    "Blake Shelton": [],
     "Alice In Chains": [],
     "Don Toliver": [],
     "J. Cole": [],
     "HARDY": [],
-    "Dasha": [
-        "Disruptor",
-        "Warner Bros"
-    ],
+    "Dasha": [],
     "Eminem": [],
     "Gigi Perez": [],
     "Lynyrd Skynyrd": [],
