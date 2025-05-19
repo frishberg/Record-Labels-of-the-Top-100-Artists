@@ -2,7 +2,12 @@ var data = {
     "Morgan Wallen": [],
     "Bad Bunny": [],
     "Fuerza Regida": [],
-    "Kendrick Lamar": [],
+    "Kendrick Lamar": [
+        "Interscope",
+        "Top Dawg",
+        "Aftermath",
+        "PGLang"
+    ],
     "SZA": [],
     "Sabrina Carpenter": [],
     "Benson Boone": [],
@@ -10,20 +15,13 @@ var data = {
     "Lady Gaga": [],
     "Drake": [],
     "Teddy Swims": [],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "Luke Combs": [],
     "Pink Floyd": [],
     "Shaboozey": [],
     "Jelly Roll": [],
     "The Weeknd": [],
-    "Post Malone": [
-        "Republic",
-        "Mercury",
-        "Posty"
-    ],
+    "Post Malone": [],
     "Doechii": [],
     "Taylor Swift": [],
     "Alex Warren": [],
@@ -39,9 +37,7 @@ var data = {
     "Bailey Zimmerman": [],
     "Chris Stapleton": [],
     "Myles Smith": [],
-    "Gracie Abrams": [
-        "Interscope"
-    ],
+    "Gracie Abrams": [],
     "Metallica": [],
     "Ghost": [],
     "Jessie Murph": [],
@@ -52,26 +48,18 @@ var data = {
     "Nirvana": [],
     "Linkin Park": [],
     "Radiohead": [],
-    "Frank Ocean": [
-        "Blonded",
-        "Def Jam",
-        "RedZone"
-    ],
+    "Frank Ocean": [],
     "Sleep Token": [],
     "Riley Green": [],
-    "Brandon Lake": [
-        "Bethel Music",
-        "Tribl",
-        "Provident"
-    ],
+    "Brandon Lake": [],
     "Leon Thomas": [],
-    "Forrest Frank": [],
-    "Michael Jackson": [],
-    "Key Glock": [
-        "Paper Route Empire",
-        "Empire",
-        "Republic"
+    "Forrest Frank": [
+        "River House",
+        "Warner Bros",
+        "10K Projects"
     ],
+    "Michael Jackson": [],
+    "Key Glock": [],
     "Miley Cyrus": [],
     "Kane Brown": [],
     "Ella Langley": [],
@@ -81,10 +69,7 @@ var data = {
     "sombr": [],
     "Noah Kahan": [],
     "Car Seat Headrest": [],
-    "GloRilla": [
-        "Collective",
-        "Interscope"
-    ],
+    "GloRilla": [],
     "Coldplay": [],
     "The Marias": [],
     "AC/DC": [],
@@ -97,15 +82,7 @@ var data = {
     "Eagles": [],
     "Megan Moroney": [],
     "Jason Aldean": [],
-    "Queen": [
-        "EMI",
-        "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
-    ],
+    "Queen": [],
     "Propagandhi": [],
     "Creedence Clearwater Revival": [],
     "Red Hot Chili Peppers": [],
@@ -115,7 +92,11 @@ var data = {
     "Journey": [],
     "PUP": [],
     "ROSE": [],
-    "Deftones": [],
+    "Deftones": [
+        "Maverick",
+        "Warner Bros",
+        "Reprise"
+    ],
     "Kelly Clarkson": [],
     "Thomas Rhett": [],
     "Lil Tecca": [],
@@ -131,4 +112,4 @@ var data = {
     "Lynyrd Skynyrd": [],
     "Summer Walker": [],
     "Arctic Monkeys": []
-};var lastUpdated = "05/18";
+};var lastUpdated = "05/19";
