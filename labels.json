@@ -2,12 +2,7 @@
     "Morgan Wallen": [],
     "Bad Bunny": [],
     "Fuerza Regida": [],
-    "Kendrick Lamar": [
-        "Interscope",
-        "Top Dawg",
-        "Aftermath",
-        "PGLang"
-    ],
+    "Kendrick Lamar": [],
     "SZA": [],
     "Sabrina Carpenter": [],
     "Benson Boone": [],
@@ -75,7 +70,11 @@
     "AC/DC": [],
     "Neton Vega": [],
     "Playboi Carti": [],
-    "Lorde": [],
+    "Lorde": [
+        "UMG",
+        "Lava",
+        "Republic"
+    ],
     "Tito Double P": [],
     "Rihanna": [],
     "Mariah The Scientist": [],
@@ -92,11 +91,7 @@
     "Journey": [],
     "PUP": [],
     "ROSE": [],
-    "Deftones": [
-        "Maverick",
-        "Warner Bros",
-        "Reprise"
-    ],
+    "Deftones": [],
     "Kelly Clarkson": [],
     "Thomas Rhett": [],
     "Lil Tecca": [],
