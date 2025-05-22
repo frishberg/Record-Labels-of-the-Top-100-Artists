@@ -1,62 +1,42 @@
 {
     "Imprint/Promotion Label:": [],
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
-    "Kendrick Lamar": [
-        "Interscope",
-        "Top Dawg",
-        "Aftermath",
-        "PGLang"
-    ],
+    "Morgan Wallen": [],
+    "Kendrick Lamar": [],
     "Kali Uchis": [],
     "The Weeknd": [],
     "SZA": [],
     "Sabrina Carpenter": [],
     "Benson Boone": [],
-    "Drake": [
-        "OVO Sound",
-        "Republic",
-        "Young Money",
-        "Cash Money",
-        "Aspire"
-    ],
+    "Drake": [],
     "Teddy Swims": [],
-    "Chappell Roan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
     "Lady Gaga": [],
     "Billie Eilish": [],
-    "Luke Combs": [],
+    "Luke Combs": [
+        "River House Artists",
+        "Sony Music Nashville"
+    ],
     "Shaboozey": [],
     "Jelly Roll": [],
     "Fuerza Regida": [],
     "Post Malone": [],
-    "P1Harmony": [],
-    "Alex Warren": [
-        "Atlantic Records"
+    "P1Harmony": [
+        "FNC",
+        "CAA"
     ],
+    "Alex Warren": [],
     "Taylor Swift": [],
-    "Doechii": [
-        "Top Dawg",
-        "Capitol"
-    ],
-    "Forrest Frank": [
-        "River House",
-        "Warner Bros",
-        "10K Projects"
-    ],
-    "Bad Bunny": [
-        "Hear This Music",
-        "Rimas"
-    ],
+    "Doechii": [],
+    "Forrest Frank": [],
+    "Bad Bunny": [],
     "Bruno Mars": [],
     "Zach Bryan": [],
     "Blake Shelton": [],
-    "Chris Stapleton": [
-        "Mercury Nashville"
-    ],
+    "Chris Stapleton": [],
     "BigXthaPlug": [],
     "Fleetwood Mac": [],
     "Ed Sheeran": [],
@@ -68,14 +48,19 @@
     "Myles Smith": [],
     "Gracie Abrams": [],
     "Bailey Zimmerman": [],
-    "Lola Young": [
-        "Island"
-    ],
+    "Lola Young": [],
     "Miley Cyrus": [],
     "Ella Langley": [],
-    "Ariana Grande": [],
-    "Nirvana": [],
-    "Riley Green": [],
+    "Ariana Grande": [
+        "Republic"
+    ],
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
+    ],
+    "Riley Green": [
+        "Nashville Harbor"
+    ],
     "Linkin Park": [],
     "Radiohead": [],
     "Michael Jackson": [],
@@ -83,15 +68,7 @@
     "Frank Ocean": [],
     "Megan Moroney": [],
     "Leon Thomas": [],
-    "Pink Floyd": [
-        "EMI",
-        "Columbia",
-        "Tower",
-        "Harvest",
-        "Capitol",
-        "Sony Music",
-        "Parlophone"
-    ],
+    "Pink Floyd": [],
     "PARTYNEXTDOOR": [],
     "Kane Brown": [],
     "sombr": [],
@@ -113,17 +90,7 @@
     "The Beatles": [],
     "Rihanna": [],
     "Lainey Wilson": [],
-    "Arcade Fire": [
-        "Sonovox",
-        "Columbia",
-        "Merge",
-        "DFA",
-        "Rough Trade",
-        "City Slang",
-        "Spunk",
-        "Mercury",
-        "Virgin EMI"
-    ],
+    "Arcade Fire": [],
     "Mariah The Scientist": [],
     "Tucker Wetmore": [],
     "Neton Vega": [],
@@ -136,10 +103,7 @@
     "Alice In Chains": [],
     "Journey": [],
     "Red Hot Chili Peppers": [],
-    "Creed": [
-        "Blue Collar",
-        "Wind-up"
-    ],
+    "Creed": [],
     "Lil Tecca": [],
     "Creedence Clearwater Revival": [],
     "3 Doors Down": [],
