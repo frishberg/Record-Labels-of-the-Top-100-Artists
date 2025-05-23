@@ -7,27 +7,26 @@ var data = {
     "SZA": [],
     "Sabrina Carpenter": [],
     "Benson Boone": [],
-    "Drake": [],
-    "Teddy Swims": [],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement"
+    "Drake": [
+        "OVO Sound",
+        "Republic",
+        "Young Money",
+        "Cash Money",
+        "Aspire"
     ],
+    "Teddy Swims": [],
+    "Chappell Roan": [],
     "Lady Gaga": [],
     "Billie Eilish": [],
-    "Luke Combs": [
-        "River House Artists",
-        "Sony Music Nashville"
+    "Luke Combs": [],
+    "Shaboozey": [
+        "Republic",
+        "Empire"
     ],
-    "Shaboozey": [],
     "Jelly Roll": [],
     "Fuerza Regida": [],
     "Post Malone": [],
-    "P1Harmony": [
-        "FNC",
-        "CAA"
-    ],
+    "P1Harmony": [],
     "Alex Warren": [],
     "Taylor Swift": [],
     "Doechii": [],
@@ -51,16 +50,9 @@ var data = {
     "Lola Young": [],
     "Miley Cyrus": [],
     "Ella Langley": [],
-    "Ariana Grande": [
-        "Republic"
-    ],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
-    ],
-    "Riley Green": [
-        "Nashville Harbor"
-    ],
+    "Ariana Grande": [],
+    "Nirvana": [],
+    "Riley Green": [],
     "Linkin Park": [],
     "Radiohead": [],
     "Michael Jackson": [],
@@ -84,7 +76,15 @@ var data = {
     "Jason Aldean": [],
     "Eric Church": [],
     "The Marias": [],
-    "Queen": [],
+    "Queen": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+    ],
     "Lorde": [],
     "Coldplay": [],
     "The Beatles": [],
@@ -108,7 +108,11 @@ var data = {
     "Creedence Clearwater Revival": [],
     "3 Doors Down": [],
     "Lana Del Rey": [],
-    "Deftones": [],
+    "Deftones": [
+        "Maverick",
+        "Warner Bros",
+        "Reprise"
+    ],
     "The Head And The Heart": [],
     "J. Cole": [],
     "Halsey": [],
@@ -116,4 +120,4 @@ var data = {
     "PinkPantheress": [],
     "Gigi Perez": [],
     "Arctic Monkeys": []
-};var lastUpdated = "05/22";
+};var lastUpdated = "05/23";
