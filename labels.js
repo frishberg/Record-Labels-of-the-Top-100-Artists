@@ -6,33 +6,33 @@ var data = {
     "The Weeknd": [],
     "SZA": [],
     "Sabrina Carpenter": [],
-    "Benson Boone": [],
-    "Drake": [
-        "OVO Sound",
-        "Republic",
-        "Young Money",
-        "Cash Money",
-        "Aspire"
+    "Benson Boone": [
+        "Warner Bros",
+        "Night Street"
     ],
+    "Drake": [],
     "Teddy Swims": [],
     "Chappell Roan": [],
     "Lady Gaga": [],
     "Billie Eilish": [],
     "Luke Combs": [],
-    "Shaboozey": [
-        "Republic",
-        "Empire"
-    ],
+    "Shaboozey": [],
     "Jelly Roll": [],
     "Fuerza Regida": [],
     "Post Malone": [],
     "P1Harmony": [],
-    "Alex Warren": [],
+    "Alex Warren": [
+        "Atlantic Records"
+    ],
     "Taylor Swift": [],
     "Doechii": [],
     "Forrest Frank": [],
     "Bad Bunny": [],
-    "Bruno Mars": [],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Zach Bryan": [],
     "Blake Shelton": [],
     "Chris Stapleton": [],
@@ -45,11 +45,16 @@ var data = {
     "Hozier": [],
     "Jessie Murph": [],
     "Myles Smith": [],
-    "Gracie Abrams": [],
+    "Gracie Abrams": [
+        "Interscope"
+    ],
     "Bailey Zimmerman": [],
     "Lola Young": [],
     "Miley Cyrus": [],
-    "Ella Langley": [],
+    "Ella Langley": [
+        "Sony Nashville",
+        "Columbia"
+    ],
     "Ariana Grande": [],
     "Nirvana": [],
     "Riley Green": [],
@@ -76,15 +81,7 @@ var data = {
     "Jason Aldean": [],
     "Eric Church": [],
     "The Marias": [],
-    "Queen": [
-        "EMI",
-        "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
-    ],
+    "Queen": [],
     "Lorde": [],
     "Coldplay": [],
     "The Beatles": [],
@@ -92,7 +89,10 @@ var data = {
     "Lainey Wilson": [],
     "Arcade Fire": [],
     "Mariah The Scientist": [],
-    "Tucker Wetmore": [],
+    "Tucker Wetmore": [
+        "Back Blocks",
+        "UMG Nashville"
+    ],
     "Neton Vega": [],
     "Karol G": [],
     "Eagles": [],
@@ -108,11 +108,7 @@ var data = {
     "Creedence Clearwater Revival": [],
     "3 Doors Down": [],
     "Lana Del Rey": [],
-    "Deftones": [
-        "Maverick",
-        "Warner Bros",
-        "Reprise"
-    ],
+    "Deftones": [],
     "The Head And The Heart": [],
     "J. Cole": [],
     "Halsey": [],
@@ -120,4 +116,4 @@ var data = {
     "PinkPantheress": [],
     "Gigi Perez": [],
     "Arctic Monkeys": []
-};var lastUpdated = "05/23";
+};var lastUpdated = "05/24";
