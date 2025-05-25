@@ -6,10 +6,7 @@
     "The Weeknd": [],
     "SZA": [],
     "Sabrina Carpenter": [],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
-    ],
+    "Benson Boone": [],
     "Drake": [],
     "Teddy Swims": [],
     "Chappell Roan": [],
@@ -20,19 +17,19 @@
     "Jelly Roll": [],
     "Fuerza Regida": [],
     "Post Malone": [],
-    "P1Harmony": [],
-    "Alex Warren": [
-        "Atlantic Records"
+    "P1Harmony": [
+        "FNC",
+        "CAA"
     ],
+    "Alex Warren": [],
     "Taylor Swift": [],
     "Doechii": [],
     "Forrest Frank": [],
-    "Bad Bunny": [],
-    "Bruno Mars": [
-        "Universal Motown",
-        "Atlantic",
-        "Elektra"
+    "Bad Bunny": [
+        "Hear This Music",
+        "Rimas"
     ],
+    "Bruno Mars": [],
     "Zach Bryan": [],
     "Blake Shelton": [],
     "Chris Stapleton": [],
@@ -45,16 +42,11 @@
     "Hozier": [],
     "Jessie Murph": [],
     "Myles Smith": [],
-    "Gracie Abrams": [
-        "Interscope"
-    ],
+    "Gracie Abrams": [],
     "Bailey Zimmerman": [],
     "Lola Young": [],
     "Miley Cyrus": [],
-    "Ella Langley": [
-        "Sony Nashville",
-        "Columbia"
-    ],
+    "Ella Langley": [],
     "Ariana Grande": [],
     "Nirvana": [],
     "Riley Green": [],
@@ -62,7 +54,11 @@
     "Radiohead": [],
     "Michael Jackson": [],
     "Zach Top": [],
-    "Frank Ocean": [],
+    "Frank Ocean": [
+        "Blonded",
+        "Def Jam",
+        "RedZone"
+    ],
     "Megan Moroney": [],
     "Leon Thomas": [],
     "Pink Floyd": [],
@@ -89,10 +85,7 @@
     "Lainey Wilson": [],
     "Arcade Fire": [],
     "Mariah The Scientist": [],
-    "Tucker Wetmore": [
-        "Back Blocks",
-        "UMG Nashville"
-    ],
+    "Tucker Wetmore": [],
     "Neton Vega": [],
     "Karol G": [],
     "Eagles": [],
@@ -105,7 +98,9 @@
     "Red Hot Chili Peppers": [],
     "Creed": [],
     "Lil Tecca": [],
-    "Creedence Clearwater Revival": [],
+    "Creedence Clearwater Revival": [
+        "Fantasy"
+    ],
     "3 Doors Down": [],
     "Lana Del Rey": [],
     "Deftones": [],
