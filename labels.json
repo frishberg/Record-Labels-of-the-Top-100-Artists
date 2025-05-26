@@ -10,27 +10,34 @@
     "Drake": [],
     "Teddy Swims": [],
     "Chappell Roan": [],
-    "Lady Gaga": [],
+    "Lady Gaga": [
+        "Def Jam",
+        "Cherrytree",
+        "KonLive",
+        "Streamline",
+        "Interscope"
+    ],
     "Billie Eilish": [],
     "Luke Combs": [],
     "Shaboozey": [],
     "Jelly Roll": [],
     "Fuerza Regida": [],
     "Post Malone": [],
-    "P1Harmony": [
-        "FNC",
-        "CAA"
-    ],
+    "P1Harmony": [],
     "Alex Warren": [],
     "Taylor Swift": [],
     "Doechii": [],
-    "Forrest Frank": [],
-    "Bad Bunny": [
-        "Hear This Music",
-        "Rimas"
+    "Forrest Frank": [
+        "River House",
+        "Warner Bros",
+        "10K Projects"
     ],
+    "Bad Bunny": [],
     "Bruno Mars": [],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Bronco"
+    ],
     "Blake Shelton": [],
     "Chris Stapleton": [],
     "BigXthaPlug": [],
@@ -44,7 +51,9 @@
     "Myles Smith": [],
     "Gracie Abrams": [],
     "Bailey Zimmerman": [],
-    "Lola Young": [],
+    "Lola Young": [
+        "Island"
+    ],
     "Miley Cyrus": [],
     "Ella Langley": [],
     "Ariana Grande": [],
@@ -54,11 +63,7 @@
     "Radiohead": [],
     "Michael Jackson": [],
     "Zach Top": [],
-    "Frank Ocean": [
-        "Blonded",
-        "Def Jam",
-        "RedZone"
-    ],
+    "Frank Ocean": [],
     "Megan Moroney": [],
     "Leon Thomas": [],
     "Pink Floyd": [],
@@ -95,12 +100,15 @@
     "Tommy Richman": [],
     "Alice In Chains": [],
     "Journey": [],
-    "Red Hot Chili Peppers": [],
+    "Red Hot Chili Peppers": [
+        "Capitol",
+        "EMI",
+        "Enigma",
+        "Warner Bros"
+    ],
     "Creed": [],
     "Lil Tecca": [],
-    "Creedence Clearwater Revival": [
-        "Fantasy"
-    ],
+    "Creedence Clearwater Revival": [],
     "3 Doors Down": [],
     "Lana Del Rey": [],
     "Deftones": [],
