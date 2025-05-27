@@ -10,13 +10,7 @@ var data = {
     "Drake": [],
     "Teddy Swims": [],
     "Chappell Roan": [],
-    "Lady Gaga": [
-        "Def Jam",
-        "Cherrytree",
-        "KonLive",
-        "Streamline",
-        "Interscope"
-    ],
+    "Lady Gaga": [],
     "Billie Eilish": [],
     "Luke Combs": [],
     "Shaboozey": [],
@@ -26,18 +20,14 @@ var data = {
     "P1Harmony": [],
     "Alex Warren": [],
     "Taylor Swift": [],
-    "Doechii": [],
-    "Forrest Frank": [
-        "River House",
-        "Warner Bros",
-        "10K Projects"
+    "Doechii": [
+        "Top Dawg",
+        "Capitol"
     ],
+    "Forrest Frank": [],
     "Bad Bunny": [],
     "Bruno Mars": [],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Bronco"
-    ],
+    "Zach Bryan": [],
     "Blake Shelton": [],
     "Chris Stapleton": [],
     "BigXthaPlug": [],
@@ -50,10 +40,11 @@ var data = {
     "Jessie Murph": [],
     "Myles Smith": [],
     "Gracie Abrams": [],
-    "Bailey Zimmerman": [],
-    "Lola Young": [
-        "Island"
+    "Bailey Zimmerman": [
+        "Warner Bros",
+        "Elektra"
     ],
+    "Lola Young": [],
     "Miley Cyrus": [],
     "Ella Langley": [],
     "Ariana Grande": [],
@@ -63,7 +54,11 @@ var data = {
     "Radiohead": [],
     "Michael Jackson": [],
     "Zach Top": [],
-    "Frank Ocean": [],
+    "Frank Ocean": [
+        "Blonded",
+        "Def Jam",
+        "RedZone"
+    ],
     "Megan Moroney": [],
     "Leon Thomas": [],
     "Pink Floyd": [],
@@ -100,12 +95,7 @@ var data = {
     "Tommy Richman": [],
     "Alice In Chains": [],
     "Journey": [],
-    "Red Hot Chili Peppers": [
-        "Capitol",
-        "EMI",
-        "Enigma",
-        "Warner Bros"
-    ],
+    "Red Hot Chili Peppers": [],
     "Creed": [],
     "Lil Tecca": [],
     "Creedence Clearwater Revival": [],
@@ -119,4 +109,4 @@ var data = {
     "PinkPantheress": [],
     "Gigi Perez": [],
     "Arctic Monkeys": []
-};var lastUpdated = "05/26";
+};var lastUpdated = "05/27";
