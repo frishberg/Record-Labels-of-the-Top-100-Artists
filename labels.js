@@ -18,7 +18,9 @@ var data = {
     "Alex Warren": [],
     "Taylor Swift": [],
     "Doechii": [],
-    "Tate McRae": [],
+    "Tate McRae": [
+        "RCA"
+    ],
     "Hozier": [],
     "Post Malone": [],
     "Bruno Mars": [],
@@ -36,7 +38,10 @@ var data = {
     "Gracie Abrams": [],
     "Ed Sheeran": [],
     "Lola Young": [],
-    "Jessie Murph": [],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
     "Forrest Frank": [],
     "Kali Uchis": [],
     "Bailey Zimmerman": [],
@@ -51,7 +56,13 @@ var data = {
     "Leon Thomas": [],
     "sombr": [],
     "Rihanna": [],
-    "Miley Cyrus": [],
+    "Miley Cyrus": [
+        "Walt Disney",
+        "Hollywood",
+        "RCA",
+        "Smiley Miley",
+        "Columbia"
+    ],
     "Megan Moroney": [],
     "Chris Brown": [],
     "Michael Jackson": [],
@@ -65,25 +76,13 @@ var data = {
     "Jamal Roberts": [],
     "P1Harmony": [],
     "Sleep Theory": [],
-    "The Marias": [
-        "Atlantic"
-    ],
-    "Coldplay": [
-        "Fierce Panda",
-        "Parlophone",
-        "Nettwerk",
-        "Capitol",
-        "Atlantic"
-    ],
+    "The Marias": [],
+    "Coldplay": [],
     "MEOVV": [],
     "Eric Church": [],
     "Mac Miller": [],
     "Noah Kahan": [],
-    "Lorde": [
-        "UMG",
-        "Lava",
-        "Republic"
-    ],
+    "Lorde": [],
     "Eagles": [],
     "Mariah The Scientist": [],
     "Queen": [],
@@ -95,14 +94,7 @@ var data = {
     "Alice In Chains": [],
     "Journey": [],
     "ROSE": [],
-    "Ghost": [
-        "Iron Pegasus",
-        "Rise Above",
-        "Metal Blade",
-        "Trooper Ent.",
-        "Seven Four Ent.",
-        "Loma Vista"
-    ],
+    "Ghost": [],
     "Lil Tecca": [],
     "Deftones": [],
     "Creedence Clearwater Revival": [],
@@ -118,4 +110,4 @@ var data = {
     "Lynyrd Skynyrd": [],
     "Travis Scott": [],
     "Dua Lipa": []
-};var lastUpdated = "05/29";
+};var lastUpdated = "05/30";
