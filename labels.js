@@ -1,10 +1,18 @@
 var data = {
-    "Morgan Wallen": [],
+    "Morgan Wallen": [
+        "Panacea",
+        "Big Loud",
+        "Republic",
+        "Mercury"
+    ],
     "Kendrick Lamar": [],
     "Jin": [],
     "SZA": [],
     "Sabrina Carpenter": [],
-    "Billie Eilish": [],
+    "Billie Eilish": [
+        "Darkroom",
+        "Interscope"
+    ],
     "The Weeknd": [],
     "Benson Boone": [],
     "Sleep Token": [],
@@ -18,17 +26,23 @@ var data = {
     "Alex Warren": [],
     "Taylor Swift": [],
     "Doechii": [],
-    "Tate McRae": [
-        "RCA"
-    ],
+    "Tate McRae": [],
     "Hozier": [],
     "Post Malone": [],
     "Bruno Mars": [],
     "Linkin Park": [],
     "Bad Bunny": [],
     "Zach Bryan": [],
-    "Tyler, The Creator": [],
-    "BigXthaPlug": [],
+    "Tyler, The Creator": [
+        "Columbia",
+        "Odd Future",
+        "Sony",
+        "RED",
+        "XL"
+    ],
+    "BigXthaPlug": [
+        "UnitedMasters"
+    ],
     "BOYNEXTDOOR": [],
     "Fuerza Regida": [],
     "Chris Stapleton": [],
@@ -38,10 +52,7 @@ var data = {
     "Gracie Abrams": [],
     "Ed Sheeran": [],
     "Lola Young": [],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Jessie Murph": [],
     "Forrest Frank": [],
     "Kali Uchis": [],
     "Bailey Zimmerman": [],
@@ -56,18 +67,14 @@ var data = {
     "Leon Thomas": [],
     "sombr": [],
     "Rihanna": [],
-    "Miley Cyrus": [
-        "Walt Disney",
-        "Hollywood",
-        "RCA",
-        "Smiley Miley",
-        "Columbia"
-    ],
+    "Miley Cyrus": [],
     "Megan Moroney": [],
     "Chris Brown": [],
     "Michael Jackson": [],
     "Kane Brown": [],
-    "Zach Top": [],
+    "Zach Top": [
+        "Leo33"
+    ],
     "Playboi Carti": [],
     "Frank Ocean": [],
     "Jason Aldean": [],
@@ -75,7 +82,9 @@ var data = {
     "Tito Double P": [],
     "Jamal Roberts": [],
     "P1Harmony": [],
-    "Sleep Theory": [],
+    "Sleep Theory": [
+        "Epitaph"
+    ],
     "The Marias": [],
     "Coldplay": [],
     "MEOVV": [],
@@ -94,7 +103,14 @@ var data = {
     "Alice In Chains": [],
     "Journey": [],
     "ROSE": [],
-    "Ghost": [],
+    "Ghost": [
+        "Iron Pegasus",
+        "Rise Above",
+        "Metal Blade",
+        "Trooper Ent.",
+        "Seven Four Ent.",
+        "Loma Vista"
+    ],
     "Lil Tecca": [],
     "Deftones": [],
     "Creedence Clearwater Revival": [],
@@ -108,6 +124,11 @@ var data = {
     "Hudson Westbrook": [],
     "GloRilla": [],
     "Lynyrd Skynyrd": [],
-    "Travis Scott": [],
+    "Travis Scott": [
+        "Grand Hustle",
+        "Epic",
+        "Very GOOD Beats",
+        "Cactus Jack"
+    ],
     "Dua Lipa": []
-};var lastUpdated = "05/30";
+};var lastUpdated = "05/31";
