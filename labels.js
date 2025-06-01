@@ -1,18 +1,10 @@
 var data = {
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
+    "Morgan Wallen": [],
     "Kendrick Lamar": [],
     "Jin": [],
     "SZA": [],
     "Sabrina Carpenter": [],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "The Weeknd": [],
     "Benson Boone": [],
     "Sleep Token": [],
@@ -30,19 +22,14 @@ var data = {
     "Hozier": [],
     "Post Malone": [],
     "Bruno Mars": [],
-    "Linkin Park": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "Bad Bunny": [],
     "Zach Bryan": [],
-    "Tyler, The Creator": [
-        "Columbia",
-        "Odd Future",
-        "Sony",
-        "RED",
-        "XL"
-    ],
-    "BigXthaPlug": [
-        "UnitedMasters"
-    ],
+    "Tyler, The Creator": [],
+    "BigXthaPlug": [],
     "BOYNEXTDOOR": [],
     "Fuerza Regida": [],
     "Chris Stapleton": [],
@@ -55,9 +42,20 @@ var data = {
     "Jessie Murph": [],
     "Forrest Frank": [],
     "Kali Uchis": [],
-    "Bailey Zimmerman": [],
+    "Bailey Zimmerman": [
+        "Warner Bros",
+        "Elektra"
+    ],
     "Ariana Grande": [],
-    "Radiohead": [],
+    "Radiohead": [
+        "EMI",
+        "XL",
+        "Ticker Tape Ltd.",
+        "Hostess",
+        "TBD",
+        "Parlophone",
+        "Capitol"
+    ],
     "Nirvana": [],
     "Brandon Lake": [],
     "Riley Green": [],
@@ -72,9 +70,7 @@ var data = {
     "Chris Brown": [],
     "Michael Jackson": [],
     "Kane Brown": [],
-    "Zach Top": [
-        "Leo33"
-    ],
+    "Zach Top": [],
     "Playboi Carti": [],
     "Frank Ocean": [],
     "Jason Aldean": [],
@@ -82,9 +78,7 @@ var data = {
     "Tito Double P": [],
     "Jamal Roberts": [],
     "P1Harmony": [],
-    "Sleep Theory": [
-        "Epitaph"
-    ],
+    "Sleep Theory": [],
     "The Marias": [],
     "Coldplay": [],
     "MEOVV": [],
@@ -99,18 +93,19 @@ var data = {
     "Tucker Wetmore": [],
     "Lana Del Rey": [],
     "Thomas Rhett": [],
-    "AC/DC": [],
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
+    ],
     "Alice In Chains": [],
     "Journey": [],
     "ROSE": [],
-    "Ghost": [
-        "Iron Pegasus",
-        "Rise Above",
-        "Metal Blade",
-        "Trooper Ent.",
-        "Seven Four Ent.",
-        "Loma Vista"
-    ],
+    "Ghost": [],
     "Lil Tecca": [],
     "Deftones": [],
     "Creedence Clearwater Revival": [],
@@ -124,11 +119,6 @@ var data = {
     "Hudson Westbrook": [],
     "GloRilla": [],
     "Lynyrd Skynyrd": [],
-    "Travis Scott": [
-        "Grand Hustle",
-        "Epic",
-        "Very GOOD Beats",
-        "Cactus Jack"
-    ],
+    "Travis Scott": [],
     "Dua Lipa": []
-};var lastUpdated = "05/31";
+};var lastUpdated = "06/01";
