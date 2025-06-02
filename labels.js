@@ -9,7 +9,11 @@ var data = {
     "Benson Boone": [],
     "Sleep Token": [],
     "Jelly Roll": [],
-    "Chappell Roan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
     "Teddy Swims": [],
     "Luke Combs": [],
     "Drake": [],
@@ -22,10 +26,7 @@ var data = {
     "Hozier": [],
     "Post Malone": [],
     "Bruno Mars": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Linkin Park": [],
     "Bad Bunny": [],
     "Zach Bryan": [],
     "Tyler, The Creator": [],
@@ -33,7 +34,9 @@ var data = {
     "BOYNEXTDOOR": [],
     "Fuerza Regida": [],
     "Chris Stapleton": [],
-    "Myles Smith": [],
+    "Myles Smith": [
+        "Sony Music UK"
+    ],
     "Fleetwood Mac": [],
     "Metallica": [],
     "Gracie Abrams": [],
@@ -42,20 +45,11 @@ var data = {
     "Jessie Murph": [],
     "Forrest Frank": [],
     "Kali Uchis": [],
-    "Bailey Zimmerman": [
-        "Warner Bros",
-        "Elektra"
+    "Bailey Zimmerman": [],
+    "Ariana Grande": [
+        "Republic"
     ],
-    "Ariana Grande": [],
-    "Radiohead": [
-        "EMI",
-        "XL",
-        "Ticker Tape Ltd.",
-        "Hostess",
-        "TBD",
-        "Parlophone",
-        "Capitol"
-    ],
+    "Radiohead": [],
     "Nirvana": [],
     "Brandon Lake": [],
     "Riley Green": [],
@@ -93,15 +87,7 @@ var data = {
     "Tucker Wetmore": [],
     "Lana Del Rey": [],
     "Thomas Rhett": [],
-    "AC/DC": [
-        "Albert",
-        "Atlantic",
-        "ATCO",
-        "East West",
-        "Elektra",
-        "Epic",
-        "Columbia"
-    ],
+    "AC/DC": [],
     "Alice In Chains": [],
     "Journey": [],
     "ROSE": [],
@@ -121,4 +107,4 @@ var data = {
     "Lynyrd Skynyrd": [],
     "Travis Scott": [],
     "Dua Lipa": []
-};var lastUpdated = "06/01";
+};var lastUpdated = "06/02";
