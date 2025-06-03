@@ -9,11 +9,7 @@
     "Benson Boone": [],
     "Sleep Token": [],
     "Jelly Roll": [],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement"
-    ],
+    "Chappell Roan": [],
     "Teddy Swims": [],
     "Luke Combs": [],
     "Drake": [],
@@ -30,13 +26,13 @@
     "Bad Bunny": [],
     "Zach Bryan": [],
     "Tyler, The Creator": [],
-    "BigXthaPlug": [],
+    "BigXthaPlug": [
+        "UnitedMasters"
+    ],
     "BOYNEXTDOOR": [],
     "Fuerza Regida": [],
     "Chris Stapleton": [],
-    "Myles Smith": [
-        "Sony Music UK"
-    ],
+    "Myles Smith": [],
     "Fleetwood Mac": [],
     "Metallica": [],
     "Gracie Abrams": [],
@@ -46,11 +42,12 @@
     "Forrest Frank": [],
     "Kali Uchis": [],
     "Bailey Zimmerman": [],
-    "Ariana Grande": [
-        "Republic"
-    ],
+    "Ariana Grande": [],
     "Radiohead": [],
-    "Nirvana": [],
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
+    ],
     "Brandon Lake": [],
     "Riley Green": [],
     "Ella Langley": [],
@@ -60,7 +57,10 @@
     "sombr": [],
     "Rihanna": [],
     "Miley Cyrus": [],
-    "Megan Moroney": [],
+    "Megan Moroney": [
+        "Arista Nashville",
+        "Columbia"
+    ],
     "Chris Brown": [],
     "Michael Jackson": [],
     "Kane Brown": [],
@@ -98,7 +98,13 @@
     "Tommy Richman": [],
     "Lainey Wilson": [],
     "Neton Vega": [],
-    "J. Cole": [],
+    "J. Cole": [
+        "Dreamville",
+        "Roc Nation",
+        "Interscope",
+        "Columbia",
+        "ByStorm"
+    ],
     "PARTYNEXTDOOR": [],
     "Arctic Monkeys": [],
     "Lil Wayne": [],
