@@ -5,19 +5,10 @@
     "Benson Boone": [],
     "Sabrina Carpenter": [],
     "The Weeknd": [],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "Alex Warren": [],
     "Playboi Carti": [],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
+    "Jelly Roll": [],
     "Luke Combs": [],
     "Chappell Roan": [],
     "Teddy Swims": [],
@@ -34,10 +25,7 @@
     "Sleep Token": [],
     "Chris Stapleton": [],
     "Fleetwood Mac": [],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Bronco"
-    ],
+    "Zach Bryan": [],
     "Bruno Mars": [],
     "Metallica": [],
     "Hozier": [],
@@ -46,8 +34,14 @@
     "Myles Smith": [],
     "Radiohead": [],
     "BAEKHYUN": [],
-    "Nirvana": [],
-    "Jessie Murph": [],
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
+    ],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
     "Linkin Park": [],
     "Fuerza Regida": [],
     "Ariana Grande": [],
@@ -57,13 +51,21 @@
     "Jin": [],
     "sombr": [],
     "Green Day": [],
-    "Riley Green": [],
+    "Riley Green": [
+        "Nashville Harbor"
+    ],
     "Ella Langley": [],
     "Lainey Wilson": [],
     "Michael Jackson": [],
     "Forrest Frank": [],
     "Leon Thomas": [],
-    "Charli xcx": [],
+    "Charli xcx": [
+        "Vroom Vroom",
+        "Warner Bros",
+        "Asylum",
+        "Atlantic",
+        "Iamsound"
+    ],
     "AC/DC": [],
     "Megan Moroney": [],
     "Miley Cyrus": [],
@@ -75,9 +77,7 @@
     "mgk": [],
     "Brandon Lake": [],
     "Eagles": [],
-    "Zach Top": [
-        "Leo33"
-    ],
+    "Zach Top": [],
     "Mac Miller": [],
     "Lana Del Rey": [],
     "The Marias": [],
@@ -93,12 +93,7 @@
     "Blake Shelton": [],
     "Alice In Chains": [],
     "Mariah The Scientist": [],
-    "Red Hot Chili Peppers": [
-        "Capitol",
-        "EMI",
-        "Enigma",
-        "Warner Bros"
-    ],
+    "Red Hot Chili Peppers": [],
     "Thomas Rhett": [],
     "Eric Church": [],
     "Kane Brown": [],
@@ -106,16 +101,27 @@
     "Tucker Wetmore": [],
     "Kali Uchis": [],
     "The Beatles": [],
-    "P1Harmony": [],
+    "P1Harmony": [
+        "FNC",
+        "CAA"
+    ],
     "Stray Kids": [],
-    "Bruce Sprinsteen": [],
+    "Bruce Sprinsteen": [
+        "Columbia"
+    ],
     "Journey": [],
     "Tommy Richman": [],
     "Tito Double P": [],
-    "Lil Tecca": [],
+    "Lil Tecca": [
+        "Galactic",
+        "Republic"
+    ],
     "J. Cole": [],
     "Lynyrd Skynyrd": [],
     "Arctic Monkeys": [],
-    "Ravyn Lenae": [],
+    "Ravyn Lenae": [
+        "Atlantic",
+        "Three Twenty Three"
+    ],
     "Sublime": []
 }
