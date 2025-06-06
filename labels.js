@@ -7,14 +7,25 @@ var data = {
     "The Weeknd": [],
     "Billie Eilish": [],
     "Alex Warren": [],
-    "Playboi Carti": [],
+    "Playboi Carti": [
+        "Awful",
+        "AWGE",
+        "Interscope",
+        "Opium"
+    ],
     "Jelly Roll": [],
     "Luke Combs": [],
     "Chappell Roan": [],
     "Teddy Swims": [],
     "Taylor Swift": [],
     "Drake": [],
-    "Lady Gaga": [],
+    "Lady Gaga": [
+        "Def Jam",
+        "Cherrytree",
+        "KonLive",
+        "Streamline",
+        "Interscope"
+    ],
     "Shaboozey": [],
     "Joe Jonas": [],
     "Tyler, The Creator": [],
@@ -34,14 +45,8 @@ var data = {
     "Myles Smith": [],
     "Radiohead": [],
     "BAEKHYUN": [],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
-    ],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Nirvana": [],
+    "Jessie Murph": [],
     "Linkin Park": [],
     "Fuerza Regida": [],
     "Ariana Grande": [],
@@ -51,21 +56,13 @@ var data = {
     "Jin": [],
     "sombr": [],
     "Green Day": [],
-    "Riley Green": [
-        "Nashville Harbor"
-    ],
+    "Riley Green": [],
     "Ella Langley": [],
     "Lainey Wilson": [],
     "Michael Jackson": [],
     "Forrest Frank": [],
     "Leon Thomas": [],
-    "Charli xcx": [
-        "Vroom Vroom",
-        "Warner Bros",
-        "Asylum",
-        "Atlantic",
-        "Iamsound"
-    ],
+    "Charli xcx": [],
     "AC/DC": [],
     "Megan Moroney": [],
     "Miley Cyrus": [],
@@ -101,10 +98,7 @@ var data = {
     "Tucker Wetmore": [],
     "Kali Uchis": [],
     "The Beatles": [],
-    "P1Harmony": [
-        "FNC",
-        "CAA"
-    ],
+    "P1Harmony": [],
     "Stray Kids": [],
     "Bruce Sprinsteen": [
         "Columbia"
@@ -112,16 +106,10 @@ var data = {
     "Journey": [],
     "Tommy Richman": [],
     "Tito Double P": [],
-    "Lil Tecca": [
-        "Galactic",
-        "Republic"
-    ],
+    "Lil Tecca": [],
     "J. Cole": [],
     "Lynyrd Skynyrd": [],
     "Arctic Monkeys": [],
-    "Ravyn Lenae": [
-        "Atlantic",
-        "Three Twenty Three"
-    ],
+    "Ravyn Lenae": [],
     "Sublime": []
-};var lastUpdated = "06/05";
+};var lastUpdated = "06/06";
