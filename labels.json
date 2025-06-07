@@ -1,31 +1,27 @@
 {
-    "Morgan Wallen": [],
+    "Morgan Wallen": [
+        "Panacea",
+        "Big Loud",
+        "Republic",
+        "Mercury"
+    ],
     "Kendrick Lamar": [],
     "SZA": [],
     "Benson Boone": [],
     "Sabrina Carpenter": [],
     "The Weeknd": [],
     "Billie Eilish": [],
-    "Alex Warren": [],
-    "Playboi Carti": [
-        "Awful",
-        "AWGE",
-        "Interscope",
-        "Opium"
+    "Alex Warren": [
+        "Atlantic Records"
     ],
+    "Playboi Carti": [],
     "Jelly Roll": [],
     "Luke Combs": [],
     "Chappell Roan": [],
     "Teddy Swims": [],
     "Taylor Swift": [],
     "Drake": [],
-    "Lady Gaga": [
-        "Def Jam",
-        "Cherrytree",
-        "KonLive",
-        "Streamline",
-        "Interscope"
-    ],
+    "Lady Gaga": [],
     "Shaboozey": [],
     "Joe Jonas": [],
     "Tyler, The Creator": [],
@@ -98,18 +94,26 @@
     "Tucker Wetmore": [],
     "Kali Uchis": [],
     "The Beatles": [],
-    "P1Harmony": [],
-    "Stray Kids": [],
-    "Bruce Sprinsteen": [
-        "Columbia"
+    "P1Harmony": [
+        "FNC",
+        "CAA"
     ],
+    "Stray Kids": [],
+    "Bruce Sprinsteen": [],
     "Journey": [],
-    "Tommy Richman": [],
+    "Tommy Richman": [
+        "ISO Supremacy",
+        "Pulse"
+    ],
     "Tito Double P": [],
     "Lil Tecca": [],
     "J. Cole": [],
     "Lynyrd Skynyrd": [],
     "Arctic Monkeys": [],
     "Ravyn Lenae": [],
-    "Sublime": []
+    "Sublime": [
+        "MCA",
+        "Skunk",
+        "Gasoline Alley"
+    ]
 }
