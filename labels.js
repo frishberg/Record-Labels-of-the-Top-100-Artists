@@ -1,19 +1,12 @@
 var data = {
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
+    "Morgan Wallen": [],
     "Kendrick Lamar": [],
     "SZA": [],
     "Benson Boone": [],
     "Sabrina Carpenter": [],
     "The Weeknd": [],
     "Billie Eilish": [],
-    "Alex Warren": [
-        "Atlantic Records"
-    ],
+    "Alex Warren": [],
     "Playboi Carti": [],
     "Jelly Roll": [],
     "Luke Combs": [],
@@ -21,12 +14,22 @@ var data = {
     "Teddy Swims": [],
     "Taylor Swift": [],
     "Drake": [],
-    "Lady Gaga": [],
+    "Lady Gaga": [
+        "Def Jam",
+        "Cherrytree",
+        "KonLive",
+        "Streamline",
+        "Interscope"
+    ],
     "Shaboozey": [],
     "Joe Jonas": [],
     "Tyler, The Creator": [],
     "Tate McRae": [],
-    "Post Malone": [],
+    "Post Malone": [
+        "Republic",
+        "Mercury",
+        "Posty"
+    ],
     "Doechii": [],
     "Bad Bunny": [],
     "Sleep Token": [],
@@ -52,7 +55,9 @@ var data = {
     "Jin": [],
     "sombr": [],
     "Green Day": [],
-    "Riley Green": [],
+    "Riley Green": [
+        "Nashville Harbor"
+    ],
     "Ella Langley": [],
     "Lainey Wilson": [],
     "Michael Jackson": [],
@@ -71,7 +76,11 @@ var data = {
     "Brandon Lake": [],
     "Eagles": [],
     "Zach Top": [],
-    "Mac Miller": [],
+    "Mac Miller": [
+        "Rostrum",
+        "REMember",
+        "Warner Bros"
+    ],
     "Lana Del Rey": [],
     "The Marias": [],
     "BOYNEXTDOOR": [],
@@ -94,26 +103,18 @@ var data = {
     "Tucker Wetmore": [],
     "Kali Uchis": [],
     "The Beatles": [],
-    "P1Harmony": [
-        "FNC",
-        "CAA"
-    ],
+    "P1Harmony": [],
     "Stray Kids": [],
-    "Bruce Sprinsteen": [],
-    "Journey": [],
-    "Tommy Richman": [
-        "ISO Supremacy",
-        "Pulse"
+    "Bruce Sprinsteen": [
+        "Columbia"
     ],
+    "Journey": [],
+    "Tommy Richman": [],
     "Tito Double P": [],
     "Lil Tecca": [],
     "J. Cole": [],
     "Lynyrd Skynyrd": [],
     "Arctic Monkeys": [],
     "Ravyn Lenae": [],
-    "Sublime": [
-        "MCA",
-        "Skunk",
-        "Gasoline Alley"
-    ]
-};var lastUpdated = "06/07";
+    "Sublime": []
+};var lastUpdated = "06/08";
