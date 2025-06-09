@@ -5,7 +5,10 @@ var data = {
     "Benson Boone": [],
     "Sabrina Carpenter": [],
     "The Weeknd": [],
-    "Billie Eilish": [],
+    "Billie Eilish": [
+        "Darkroom",
+        "Interscope"
+    ],
     "Alex Warren": [],
     "Playboi Carti": [],
     "Jelly Roll": [],
@@ -14,27 +17,29 @@ var data = {
     "Teddy Swims": [],
     "Taylor Swift": [],
     "Drake": [],
-    "Lady Gaga": [
-        "Def Jam",
-        "Cherrytree",
-        "KonLive",
-        "Streamline",
-        "Interscope"
-    ],
+    "Lady Gaga": [],
     "Shaboozey": [],
     "Joe Jonas": [],
     "Tyler, The Creator": [],
-    "Tate McRae": [],
-    "Post Malone": [
-        "Republic",
-        "Mercury",
-        "Posty"
+    "Tate McRae": [
+        "RCA"
     ],
+    "Post Malone": [],
     "Doechii": [],
-    "Bad Bunny": [],
+    "Bad Bunny": [
+        "Hear This Music",
+        "Rimas"
+    ],
     "Sleep Token": [],
     "Chris Stapleton": [],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "Zach Bryan": [],
     "Bruno Mars": [],
     "Metallica": [],
@@ -55,9 +60,7 @@ var data = {
     "Jin": [],
     "sombr": [],
     "Green Day": [],
-    "Riley Green": [
-        "Nashville Harbor"
-    ],
+    "Riley Green": [],
     "Ella Langley": [],
     "Lainey Wilson": [],
     "Michael Jackson": [],
@@ -76,11 +79,7 @@ var data = {
     "Brandon Lake": [],
     "Eagles": [],
     "Zach Top": [],
-    "Mac Miller": [
-        "Rostrum",
-        "REMember",
-        "Warner Bros"
-    ],
+    "Mac Miller": [],
     "Lana Del Rey": [],
     "The Marias": [],
     "BOYNEXTDOOR": [],
@@ -89,7 +88,9 @@ var data = {
     "Deftones": [],
     "Lorde": [],
     "System Of A Down": [],
-    "Creedence Clearwater Revival": [],
+    "Creedence Clearwater Revival": [
+        "Fantasy"
+    ],
     "Queen": [],
     "Karol G": [],
     "Blake Shelton": [],
@@ -102,13 +103,31 @@ var data = {
     "Coldplay": [],
     "Tucker Wetmore": [],
     "Kali Uchis": [],
-    "The Beatles": [],
+    "The Beatles": [
+        "Polydor",
+        "Parlophone",
+        "Tollie",
+        "Vee-Jay",
+        "Capitol",
+        "Swan",
+        "Odeon",
+        "MGM",
+        "Atco",
+        "United Artists",
+        "Apple"
+    ],
     "P1Harmony": [],
     "Stray Kids": [],
     "Bruce Sprinsteen": [
         "Columbia"
     ],
-    "Journey": [],
+    "Journey": [
+        "Columbia",
+        "Frontiers",
+        "Sanctuary",
+        "Nomota",
+        "BMG"
+    ],
     "Tommy Richman": [],
     "Tito Double P": [],
     "Lil Tecca": [],
@@ -117,4 +136,4 @@ var data = {
     "Arctic Monkeys": [],
     "Ravyn Lenae": [],
     "Sublime": []
-};var lastUpdated = "06/08";
+};var lastUpdated = "06/09";
