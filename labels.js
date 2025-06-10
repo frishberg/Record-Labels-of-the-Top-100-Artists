@@ -1,14 +1,16 @@
 var data = {
-    "Morgan Wallen": [],
+    "Morgan Wallen": [
+        "Panacea",
+        "Big Loud",
+        "Republic",
+        "Mercury"
+    ],
     "Kendrick Lamar": [],
     "SZA": [],
     "Benson Boone": [],
     "Sabrina Carpenter": [],
     "The Weeknd": [],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "Alex Warren": [],
     "Playboi Carti": [],
     "Jelly Roll": [],
@@ -21,25 +23,16 @@ var data = {
     "Shaboozey": [],
     "Joe Jonas": [],
     "Tyler, The Creator": [],
-    "Tate McRae": [
-        "RCA"
-    ],
+    "Tate McRae": [],
     "Post Malone": [],
-    "Doechii": [],
-    "Bad Bunny": [
-        "Hear This Music",
-        "Rimas"
+    "Doechii": [
+        "Top Dawg",
+        "Capitol"
     ],
+    "Bad Bunny": [],
     "Sleep Token": [],
     "Chris Stapleton": [],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Zach Bryan": [],
     "Bruno Mars": [],
     "Metallica": [],
@@ -56,18 +49,30 @@ var data = {
     "Ariana Grande": [],
     "Lola Young": [],
     "Bailey Zimmerman": [],
-    "Gracie Abrams": [],
+    "Gracie Abrams": [
+        "Interscope"
+    ],
     "Jin": [],
     "sombr": [],
     "Green Day": [],
-    "Riley Green": [],
+    "Riley Green": [
+        "Nashville Harbor"
+    ],
     "Ella Langley": [],
     "Lainey Wilson": [],
     "Michael Jackson": [],
     "Forrest Frank": [],
     "Leon Thomas": [],
     "Charli xcx": [],
-    "AC/DC": [],
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
+    ],
     "Megan Moroney": [],
     "Miley Cyrus": [],
     "Jason Aldean": [],
@@ -88,14 +93,17 @@ var data = {
     "Deftones": [],
     "Lorde": [],
     "System Of A Down": [],
-    "Creedence Clearwater Revival": [
-        "Fantasy"
-    ],
+    "Creedence Clearwater Revival": [],
     "Queen": [],
     "Karol G": [],
     "Blake Shelton": [],
     "Alice In Chains": [],
-    "Mariah The Scientist": [],
+    "Mariah The Scientist": [
+        "Epic (current)",
+        "One Umbrella",
+        "RCA",
+        "Epic"
+    ],
     "Red Hot Chili Peppers": [],
     "Thomas Rhett": [],
     "Eric Church": [],
@@ -103,31 +111,11 @@ var data = {
     "Coldplay": [],
     "Tucker Wetmore": [],
     "Kali Uchis": [],
-    "The Beatles": [
-        "Polydor",
-        "Parlophone",
-        "Tollie",
-        "Vee-Jay",
-        "Capitol",
-        "Swan",
-        "Odeon",
-        "MGM",
-        "Atco",
-        "United Artists",
-        "Apple"
-    ],
+    "The Beatles": [],
     "P1Harmony": [],
     "Stray Kids": [],
-    "Bruce Sprinsteen": [
-        "Columbia"
-    ],
-    "Journey": [
-        "Columbia",
-        "Frontiers",
-        "Sanctuary",
-        "Nomota",
-        "BMG"
-    ],
+    "Bruce Sprinsteen": [],
+    "Journey": [],
     "Tommy Richman": [],
     "Tito Double P": [],
     "Lil Tecca": [],
@@ -136,4 +124,4 @@ var data = {
     "Arctic Monkeys": [],
     "Ravyn Lenae": [],
     "Sublime": []
-};var lastUpdated = "06/09";
+};var lastUpdated = "06/10";
