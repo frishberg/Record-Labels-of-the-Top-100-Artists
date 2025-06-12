@@ -5,24 +5,19 @@ var data = {
     "SEVENTEEN": [],
     "Miley Cyrus": [],
     "SZA": [],
-    "Billie Eilish": [],
+    "Billie Eilish": [
+        "Darkroom",
+        "Interscope"
+    ],
     "Benson Boone": [],
     "Sabrina Carpenter": [],
     "Alex Warren": [],
     "The Weeknd": [],
     "Tate McRae": [],
     "Luke Combs": [],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
+    "Jelly Roll": [],
     "Chappell Roan": [],
-    "Teddy Swims": [
-        "Warner Bros"
-    ],
+    "Teddy Swims": [],
     "Shaboozey": [],
     "Lady Gaga": [],
     "Drake": [],
@@ -43,11 +38,7 @@ var data = {
     "Radiohead": [],
     "Fuerza Regida": [],
     "sombr": [],
-    "Forrest Frank": [
-        "River House",
-        "Warner Bros",
-        "10K Projects"
-    ],
+    "Forrest Frank": [],
     "Sleep Token": [],
     "Bailey Zimmerman": [],
     "Nirvana": [],
@@ -59,18 +50,8 @@ var data = {
     "Ella Langley": [],
     "Megan Moroney": [],
     "Leon Thomas": [],
-    "Lil Tecca": [
-        "Galactic",
-        "Republic"
-    ],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
-    ],
+    "Lil Tecca": [],
+    "Michael Jackson": [],
     "Sufjan Stevens": [],
     "Brandon Lake": [],
     "Chris Brown": [],
@@ -85,18 +66,12 @@ var data = {
     "Frank Ocean": [],
     "Zach Top": [],
     "AC/DC": [],
-    "The Marias": [
-        "Atlantic"
-    ],
+    "The Marias": [],
     "Eagles": [],
     "Playboi Carti": [],
     "Creedence Clearwater Revival": [],
     "Thomas Rhett": [],
-    "Karol G": [
-        "Universal Latino",
-        "Bichota",
-        "Interscope"
-    ],
+    "Karol G": [],
     "Pink Floyd": [],
     "Mac Miller": [],
     "Tucker Wetmore": [],
@@ -106,12 +81,7 @@ var data = {
     "Red Hot Chili Peppers": [],
     "Deftones": [],
     "Eric Church": [],
-    "Lana Del Rey": [
-        "5 Points",
-        "Stranger",
-        "Polydor",
-        "Interscope"
-    ],
+    "Lana Del Rey": [],
     "Noah Kahan": [],
     "Ravyn Lenae": [],
     "Dua Lipa": [],
@@ -129,10 +99,7 @@ var data = {
     "Lynyrd Skynyrd": [],
     "Russell Dickerson": [],
     "Lil Wayne": [],
-    "Tommy Richman": [
-        "ISO Supremacy",
-        "Pulse"
-    ],
+    "Tommy Richman": [],
     "Neton Vega": [],
     "Arctic Monkeys": []
-};var lastUpdated = "06/11";
+};var lastUpdated = "06/12";
