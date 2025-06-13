@@ -2,13 +2,14 @@ var data = {
     "Morgan Wallen": [],
     "Taylor Swift": [],
     "Kendrick Lamar": [],
-    "SEVENTEEN": [],
+    "SEVENTEEN": [
+        "Pledis",
+        "Geffen",
+        "Universal"
+    ],
     "Miley Cyrus": [],
     "SZA": [],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "Benson Boone": [],
     "Sabrina Carpenter": [],
     "Alex Warren": [],
@@ -49,7 +50,12 @@ var data = {
     "Linkin Park": [],
     "Ella Langley": [],
     "Megan Moroney": [],
-    "Leon Thomas": [],
+    "Leon Thomas": [
+        "Columbia",
+        "Rostrum",
+        "EZMNY",
+        "Motown"
+    ],
     "Lil Tecca": [],
     "Michael Jackson": [],
     "Sufjan Stevens": [],
@@ -87,7 +93,13 @@ var data = {
     "Dua Lipa": [],
     "Alice In Chains": [],
     "Tyler Childers": [],
-    "Journey": [],
+    "Journey": [
+        "Columbia",
+        "Frontiers",
+        "Sanctuary",
+        "Nomota",
+        "BMG"
+    ],
     "Sam Hunt": [],
     "Eminem": [],
     "ROSE": [],
@@ -102,4 +114,4 @@ var data = {
     "Tommy Richman": [],
     "Neton Vega": [],
     "Arctic Monkeys": []
-};var lastUpdated = "06/12";
+};var lastUpdated = "06/13";
