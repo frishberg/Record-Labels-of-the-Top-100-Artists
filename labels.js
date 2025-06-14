@@ -2,17 +2,18 @@ var data = {
     "Morgan Wallen": [],
     "Taylor Swift": [],
     "Kendrick Lamar": [],
-    "SEVENTEEN": [
-        "Pledis",
-        "Geffen",
-        "Universal"
-    ],
+    "SEVENTEEN": [],
     "Miley Cyrus": [],
     "SZA": [],
     "Billie Eilish": [],
     "Benson Boone": [],
-    "Sabrina Carpenter": [],
-    "Alex Warren": [],
+    "Sabrina Carpenter": [
+        "Hollywood",
+        "Island"
+    ],
+    "Alex Warren": [
+        "Atlantic Records"
+    ],
     "The Weeknd": [],
     "Tate McRae": [],
     "Luke Combs": [],
@@ -50,12 +51,7 @@ var data = {
     "Linkin Park": [],
     "Ella Langley": [],
     "Megan Moroney": [],
-    "Leon Thomas": [
-        "Columbia",
-        "Rostrum",
-        "EZMNY",
-        "Motown"
-    ],
+    "Leon Thomas": [],
     "Lil Tecca": [],
     "Michael Jackson": [],
     "Sufjan Stevens": [],
@@ -64,7 +60,10 @@ var data = {
     "Coldplay": [],
     "Garbage": [],
     "Lorde": [],
-    "Kane Brown": [],
+    "Kane Brown": [
+        "Zone 4",
+        "RCA"
+    ],
     "Aesop Rock": [],
     "Charli xcx": [],
     "Lainey Wilson": [],
@@ -93,13 +92,7 @@ var data = {
     "Dua Lipa": [],
     "Alice In Chains": [],
     "Tyler Childers": [],
-    "Journey": [
-        "Columbia",
-        "Frontiers",
-        "Sanctuary",
-        "Nomota",
-        "BMG"
-    ],
+    "Journey": [],
     "Sam Hunt": [],
     "Eminem": [],
     "ROSE": [],
@@ -114,4 +107,4 @@ var data = {
     "Tommy Richman": [],
     "Neton Vega": [],
     "Arctic Monkeys": []
-};var lastUpdated = "06/13";
+};var lastUpdated = "06/14";
