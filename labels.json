@@ -1,27 +1,39 @@
 {
     "Morgan Wallen": [],
     "Taylor Swift": [],
-    "Kendrick Lamar": [],
+    "Kendrick Lamar": [
+        "Interscope",
+        "Top Dawg",
+        "Aftermath",
+        "PGLang"
+    ],
     "SEVENTEEN": [],
     "Miley Cyrus": [],
     "SZA": [],
     "Billie Eilish": [],
     "Benson Boone": [],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
-    ],
-    "Alex Warren": [
-        "Atlantic Records"
-    ],
+    "Sabrina Carpenter": [],
+    "Alex Warren": [],
     "The Weeknd": [],
     "Tate McRae": [],
     "Luke Combs": [],
-    "Jelly Roll": [],
+    "Jelly Roll": [
+        "Slumerican",
+        "Bad Apple Inc.",
+        "War Dog",
+        "Wyte Music",
+        "BBR"
+    ],
     "Chappell Roan": [],
     "Teddy Swims": [],
     "Shaboozey": [],
-    "Lady Gaga": [],
+    "Lady Gaga": [
+        "Def Jam",
+        "Cherrytree",
+        "KonLive",
+        "Streamline",
+        "Interscope"
+    ],
     "Drake": [],
     "Post Malone": [],
     "Fleetwood Mac": [],
@@ -46,7 +58,9 @@
     "Nirvana": [],
     "Lola Young": [],
     "Riley Green": [],
-    "Ariana Grande": [],
+    "Ariana Grande": [
+        "Republic"
+    ],
     "Gracie Abrams": [],
     "Linkin Park": [],
     "Ella Langley": [],
@@ -60,12 +74,15 @@
     "Coldplay": [],
     "Garbage": [],
     "Lorde": [],
-    "Kane Brown": [
-        "Zone 4",
-        "RCA"
-    ],
+    "Kane Brown": [],
     "Aesop Rock": [],
-    "Charli xcx": [],
+    "Charli xcx": [
+        "Vroom Vroom",
+        "Warner Bros",
+        "Asylum",
+        "Atlantic",
+        "Iamsound"
+    ],
     "Lainey Wilson": [],
     "Jason Aldean": [],
     "Frank Ocean": [],
@@ -76,7 +93,11 @@
     "Playboi Carti": [],
     "Creedence Clearwater Revival": [],
     "Thomas Rhett": [],
-    "Karol G": [],
+    "Karol G": [
+        "Universal Latino",
+        "Bichota",
+        "Interscope"
+    ],
     "Pink Floyd": [],
     "Mac Miller": [],
     "Tucker Wetmore": [],
@@ -87,7 +108,11 @@
     "Deftones": [],
     "Eric Church": [],
     "Lana Del Rey": [],
-    "Noah Kahan": [],
+    "Noah Kahan": [
+        "Republic",
+        "Universal",
+        "Mercury"
+    ],
     "Ravyn Lenae": [],
     "Dua Lipa": [],
     "Alice In Chains": [],
@@ -97,8 +122,20 @@
     "Eminem": [],
     "ROSE": [],
     "Rihanna": [],
-    "Green Day": [],
-    "Blake Shelton": [],
+    "Green Day": [
+        "Lookout",
+        "Reprise",
+        "Epitaph",
+        "Warner Bros"
+    ],
+    "Blake Shelton": [
+        "Giant",
+        "Warner Bros",
+        "Reprise Nashville",
+        "Ten Point",
+        "BBR",
+        "Wheelhouse"
+    ],
     "J. Cole": [],
     "Djo": [],
     "Lynyrd Skynyrd": [],
