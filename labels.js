@@ -1,12 +1,7 @@
 var data = {
     "Morgan Wallen": [],
     "Taylor Swift": [],
-    "Kendrick Lamar": [
-        "Interscope",
-        "Top Dawg",
-        "Aftermath",
-        "PGLang"
-    ],
+    "Kendrick Lamar": [],
     "SEVENTEEN": [],
     "Miley Cyrus": [],
     "SZA": [],
@@ -17,15 +12,11 @@ var data = {
     "The Weeknd": [],
     "Tate McRae": [],
     "Luke Combs": [],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
+    "Jelly Roll": [],
     "Chappell Roan": [],
-    "Teddy Swims": [],
+    "Teddy Swims": [
+        "Warner Bros"
+    ],
     "Shaboozey": [],
     "Lady Gaga": [
         "Def Jam",
@@ -46,8 +37,16 @@ var data = {
     "Tyler, The Creator": [],
     "Zach Bryan": [],
     "Hozier": [],
-    "Ed Sheeran": [],
-    "Jessie Murph": [],
+    "Ed Sheeran": [
+        "Asylum",
+        "Atlantic",
+        "Elektra",
+        "Gingerbread Man"
+    ],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
     "Myles Smith": [],
     "Radiohead": [],
     "Fuerza Regida": [],
@@ -57,10 +56,10 @@ var data = {
     "Bailey Zimmerman": [],
     "Nirvana": [],
     "Lola Young": [],
-    "Riley Green": [],
-    "Ariana Grande": [
-        "Republic"
+    "Riley Green": [
+        "Nashville Harbor"
     ],
+    "Ariana Grande": [],
     "Gracie Abrams": [],
     "Linkin Park": [],
     "Ella Langley": [],
@@ -76,16 +75,14 @@ var data = {
     "Lorde": [],
     "Kane Brown": [],
     "Aesop Rock": [],
-    "Charli xcx": [
-        "Vroom Vroom",
-        "Warner Bros",
-        "Asylum",
-        "Atlantic",
-        "Iamsound"
-    ],
+    "Charli xcx": [],
     "Lainey Wilson": [],
     "Jason Aldean": [],
-    "Frank Ocean": [],
+    "Frank Ocean": [
+        "Blonded",
+        "Def Jam",
+        "RedZone"
+    ],
     "Zach Top": [],
     "AC/DC": [],
     "The Marias": [],
@@ -93,11 +90,7 @@ var data = {
     "Playboi Carti": [],
     "Creedence Clearwater Revival": [],
     "Thomas Rhett": [],
-    "Karol G": [
-        "Universal Latino",
-        "Bichota",
-        "Interscope"
-    ],
+    "Karol G": [],
     "Pink Floyd": [],
     "Mac Miller": [],
     "Tucker Wetmore": [],
@@ -108,11 +101,7 @@ var data = {
     "Deftones": [],
     "Eric Church": [],
     "Lana Del Rey": [],
-    "Noah Kahan": [
-        "Republic",
-        "Universal",
-        "Mercury"
-    ],
+    "Noah Kahan": [],
     "Ravyn Lenae": [],
     "Dua Lipa": [],
     "Alice In Chains": [],
@@ -122,26 +111,16 @@ var data = {
     "Eminem": [],
     "ROSE": [],
     "Rihanna": [],
-    "Green Day": [
-        "Lookout",
-        "Reprise",
-        "Epitaph",
-        "Warner Bros"
-    ],
-    "Blake Shelton": [
-        "Giant",
-        "Warner Bros",
-        "Reprise Nashville",
-        "Ten Point",
-        "BBR",
-        "Wheelhouse"
-    ],
+    "Green Day": [],
+    "Blake Shelton": [],
     "J. Cole": [],
-    "Djo": [],
+    "Djo": [
+        "AWAL"
+    ],
     "Lynyrd Skynyrd": [],
     "Russell Dickerson": [],
     "Lil Wayne": [],
     "Tommy Richman": [],
     "Neton Vega": [],
     "Arctic Monkeys": []
-};var lastUpdated = "06/15";
+};var lastUpdated = "06/16";
