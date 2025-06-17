@@ -14,17 +14,9 @@
     "Luke Combs": [],
     "Jelly Roll": [],
     "Chappell Roan": [],
-    "Teddy Swims": [
-        "Warner Bros"
-    ],
+    "Teddy Swims": [],
     "Shaboozey": [],
-    "Lady Gaga": [
-        "Def Jam",
-        "Cherrytree",
-        "KonLive",
-        "Streamline",
-        "Interscope"
-    ],
+    "Lady Gaga": [],
     "Drake": [],
     "Post Malone": [],
     "Fleetwood Mac": [],
@@ -37,37 +29,44 @@
     "Tyler, The Creator": [],
     "Zach Bryan": [],
     "Hozier": [],
-    "Ed Sheeran": [
-        "Asylum",
-        "Atlantic",
-        "Elektra",
-        "Gingerbread Man"
-    ],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Ed Sheeran": [],
+    "Jessie Murph": [],
     "Myles Smith": [],
     "Radiohead": [],
-    "Fuerza Regida": [],
+    "Fuerza Regida": [
+        "Lumbre",
+        "Cinq",
+        "Rancho Humilde",
+        "Street Mob",
+        "Sony Latin"
+    ],
     "sombr": [],
-    "Forrest Frank": [],
+    "Forrest Frank": [
+        "River House",
+        "Warner Bros",
+        "10K Projects"
+    ],
     "Sleep Token": [],
     "Bailey Zimmerman": [],
     "Nirvana": [],
     "Lola Young": [],
-    "Riley Green": [
-        "Nashville Harbor"
-    ],
+    "Riley Green": [],
     "Ariana Grande": [],
     "Gracie Abrams": [],
     "Linkin Park": [],
-    "Ella Langley": [],
+    "Ella Langley": [
+        "Sony Nashville",
+        "Columbia"
+    ],
     "Megan Moroney": [],
     "Leon Thomas": [],
     "Lil Tecca": [],
     "Michael Jackson": [],
-    "Sufjan Stevens": [],
+    "Sufjan Stevens": [
+        "Asthmatic Kitty",
+        "Sounds Familyre",
+        "Orchard"
+    ],
     "Brandon Lake": [],
     "Chris Brown": [],
     "Coldplay": [],
@@ -78,15 +77,16 @@
     "Charli xcx": [],
     "Lainey Wilson": [],
     "Jason Aldean": [],
-    "Frank Ocean": [
-        "Blonded",
-        "Def Jam",
-        "RedZone"
-    ],
+    "Frank Ocean": [],
     "Zach Top": [],
     "AC/DC": [],
     "The Marias": [],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Playboi Carti": [],
     "Creedence Clearwater Revival": [],
     "Thomas Rhett": [],
@@ -106,7 +106,13 @@
     "Dua Lipa": [],
     "Alice In Chains": [],
     "Tyler Childers": [],
-    "Journey": [],
+    "Journey": [
+        "Columbia",
+        "Frontiers",
+        "Sanctuary",
+        "Nomota",
+        "BMG"
+    ],
     "Sam Hunt": [],
     "Eminem": [],
     "ROSE": [],
@@ -114,13 +120,19 @@
     "Green Day": [],
     "Blake Shelton": [],
     "J. Cole": [],
-    "Djo": [
-        "AWAL"
-    ],
+    "Djo": [],
     "Lynyrd Skynyrd": [],
     "Russell Dickerson": [],
-    "Lil Wayne": [],
+    "Lil Wayne": [
+        "Universal",
+        "Young Money",
+        "Republic",
+        "Cash Money"
+    ],
     "Tommy Richman": [],
     "Neton Vega": [],
-    "Arctic Monkeys": []
+    "Arctic Monkeys": [
+        "Domino",
+        "Warner Bros"
+    ]
 }
