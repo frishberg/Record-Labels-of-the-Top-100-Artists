@@ -4,11 +4,7 @@ var data = {
     "Lil Wayne": [],
     "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
-    "My Chemical Romance": [
-        "Eyeball",
-        "Reprise",
-        "Warner Bros"
-    ],
+    "My Chemical Romance": [],
     "SZA": [],
     "The Weeknd": [],
     "Taylor Swift": [],
@@ -16,10 +12,7 @@ var data = {
     "Turnstile": [],
     "Addison Rae": [],
     "Alex Warren": [],
-    "Billie Eilish": [
-        "Darkroom",
-        "Interscope"
-    ],
+    "Billie Eilish": [],
     "Luke Combs": [],
     "Jelly Roll": [],
     "Shaboozey": [],
@@ -32,7 +25,10 @@ var data = {
     "Ed Sheeran": [],
     "Fleetwood Mac": [],
     "Post Malone": [],
-    "Jessie Murph": [],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
     "The Doobie Brothers": [],
     "BigXthaPlug": [],
     "Doechii": [],
@@ -55,11 +51,11 @@ var data = {
     "Nirvana": [],
     "Coldplay": [],
     "Ella Langley": [],
-    "Lola Young": [],
-    "Forrest Frank": [],
-    "Gracie Abrams": [
-        "Interscope"
+    "Lola Young": [
+        "Island"
     ],
+    "Forrest Frank": [],
+    "Gracie Abrams": [],
     "Leon Thomas": [],
     "MARINA": [],
     "Linkin Park": [],
@@ -73,18 +69,11 @@ var data = {
     "Rascal Flatts": [],
     "Charli xcx": [],
     "Megan Moroney": [],
-    "Jason Aldean": [],
-    "Oliver Anthony Music": [],
-    "Mariah Carey": [
-        "Columbia",
-        "Crave",
-        "Virgin",
-        "MonarC",
-        "Island",
-        "Def Jam",
-        "Epic",
-        "Gamma"
+    "Jason Aldean": [
+        "Broken Bow"
     ],
+    "Oliver Anthony Music": [],
+    "Mariah Carey": [],
     "Brandon Lake": [],
     "Sly & The Family Stone": [],
     "The Red Clay Strays": [],
@@ -93,13 +82,17 @@ var data = {
     "Eagles": [],
     "Creedence Clearwater Revival": [],
     "Zach Top": [],
-    "AC/DC": [],
-    "Kane Brown": [],
-    "Frank Ocean": [
-        "Blonded",
-        "Def Jam",
-        "RedZone"
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
     ],
+    "Kane Brown": [],
+    "Frank Ocean": [],
     "Pulp": [],
     "Thomas Rhett": [],
     "Playboi Carti": [],
@@ -108,17 +101,30 @@ var data = {
     "Mariah The Scientist": [],
     "Led Zeppelin": [],
     "Mac Miller": [],
-    "Red Hot Chili Peppers": [],
+    "Red Hot Chili Peppers": [
+        "Capitol",
+        "EMI",
+        "Enigma",
+        "Warner Bros"
+    ],
     "Russell Dickerson": [],
     "The Marias": [],
     "Stray Kids": [],
     "Sam Hunt": [],
     "Rihanna": [],
-    "Pink Floyd": [],
+    "Pink Floyd": [
+        "EMI",
+        "Columbia",
+        "Tower",
+        "Harvest",
+        "Capitol",
+        "Sony Music",
+        "Parlophone"
+    ],
     "Lana Del Rey": [],
     "Karol G": [],
     "Max McNown": [],
     "Journey": [],
     "Noah Kahan": [],
     "CAAMP": []
-};var lastUpdated = "06/18";
+};var lastUpdated = "06/19";
