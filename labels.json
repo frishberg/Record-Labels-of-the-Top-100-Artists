@@ -1,10 +1,5 @@
 {
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
+    "Morgan Wallen": [],
     "ENHYPEN": [],
     "Lil Wayne": [],
     "Kendrick Lamar": [],
@@ -12,15 +7,13 @@
     "My Chemical Romance": [],
     "SZA": [],
     "The Weeknd": [],
-    "Taylor Swift": [
-        "Republic",
-        "Big Machine"
+    "Taylor Swift": [],
+    "Benson Boone": [],
+    "Turnstile": [
+        "Roadrunner",
+        "Reaper",
+        "Pop Wig"
     ],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
-    ],
-    "Turnstile": [],
     "Addison Rae": [],
     "Alex Warren": [],
     "Billie Eilish": [],
@@ -36,12 +29,21 @@
     "Ed Sheeran": [],
     "Fleetwood Mac": [],
     "Post Malone": [],
-    "Jessie Murph": [],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
     "The Doobie Brothers": [],
     "BigXthaPlug": [],
     "Doechii": [],
     "The Beach Boys": [],
-    "Metallica": [],
+    "Metallica": [
+        "Megaforce",
+        "Elektra",
+        "Vertigo",
+        "Warner Bros",
+        "Blackened"
+    ],
     "Chris Stapleton": [],
     "Zach Bryan": [],
     "Bad Bunny": [],
@@ -53,15 +55,7 @@
     "Fuerza Regida": [],
     "Bailey Zimmerman": [],
     "Volbeat": [],
-    "Radiohead": [
-        "EMI",
-        "XL",
-        "Ticker Tape Ltd.",
-        "Hostess",
-        "TBD",
-        "Parlophone",
-        "Capitol"
-    ],
+    "Radiohead": [],
     "sombr": [],
     "Riley Green": [],
     "Nirvana": [],
@@ -78,10 +72,7 @@
     "Ariana Grande": [],
     "Cynthia Erivo": [],
     "Sleep Token": [],
-    "Lil Tecca": [
-        "Galactic",
-        "Republic"
-    ],
+    "Lil Tecca": [],
     "Chris Brown": [],
     "Rascal Flatts": [],
     "Charli xcx": [],
@@ -89,27 +80,29 @@
     "Jason Aldean": [],
     "Oliver Anthony Music": [],
     "Mariah Carey": [],
-    "Brandon Lake": [
-        "Bethel Music",
-        "Tribl",
-        "Provident"
-    ],
+    "Brandon Lake": [],
     "Sly & The Family Stone": [],
     "The Red Clay Strays": [],
     "Ravyn Lenae": [],
-    "Lainey Wilson": [],
+    "Lainey Wilson": [
+        "Cupit",
+        "Lone Chief",
+        "BBR"
+    ],
     "Eagles": [],
     "Creedence Clearwater Revival": [],
     "Zach Top": [],
     "AC/DC": [],
-    "Kane Brown": [
-        "Zone 4",
-        "RCA"
-    ],
+    "Kane Brown": [],
     "Frank Ocean": [],
     "Pulp": [],
     "Thomas Rhett": [],
-    "Playboi Carti": [],
+    "Playboi Carti": [
+        "Awful",
+        "AWGE",
+        "Interscope",
+        "Opium"
+    ],
     "Tucker Wetmore": [],
     "Dua Lipa": [],
     "Mariah The Scientist": [],
@@ -118,12 +111,25 @@
     "Red Hot Chili Peppers": [],
     "Russell Dickerson": [],
     "The Marias": [],
-    "Stray Kids": [],
+    "Stray Kids": [
+        "JYP",
+        "Epic Japan",
+        "Republic"
+    ],
     "Sam Hunt": [],
-    "Rihanna": [],
+    "Rihanna": [
+        "Roc Nation",
+        "Def Jam",
+        "SRP",
+        "Westbury Road"
+    ],
     "Pink Floyd": [],
     "Lana Del Rey": [],
-    "Karol G": [],
+    "Karol G": [
+        "Universal Latino",
+        "Bichota",
+        "Interscope"
+    ],
     "Max McNown": [],
     "Journey": [],
     "Noah Kahan": [],
