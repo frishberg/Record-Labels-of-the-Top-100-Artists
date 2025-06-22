@@ -6,14 +6,13 @@ var data = {
     "Sabrina Carpenter": [],
     "My Chemical Romance": [],
     "SZA": [],
-    "The Weeknd": [],
+    "The Weeknd": [
+        "XO",
+        "Republic"
+    ],
     "Taylor Swift": [],
     "Benson Boone": [],
-    "Turnstile": [
-        "Roadrunner",
-        "Reaper",
-        "Pop Wig"
-    ],
+    "Turnstile": [],
     "Addison Rae": [],
     "Alex Warren": [],
     "Billie Eilish": [],
@@ -29,33 +28,34 @@ var data = {
     "Ed Sheeran": [],
     "Fleetwood Mac": [],
     "Post Malone": [],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Jessie Murph": [],
     "The Doobie Brothers": [],
     "BigXthaPlug": [],
     "Doechii": [],
     "The Beach Boys": [],
-    "Metallica": [
-        "Megaforce",
-        "Elektra",
-        "Vertigo",
-        "Warner Bros",
-        "Blackened"
-    ],
+    "Metallica": [],
     "Chris Stapleton": [],
     "Zach Bryan": [],
     "Bad Bunny": [],
     "SEVENTEEN": [],
     "Tyler, The Creator": [],
     "Hozier": [],
-    "Myles Smith": [],
+    "Myles Smith": [
+        "Sony Music UK"
+    ],
     "Miley Cyrus": [],
     "Fuerza Regida": [],
     "Bailey Zimmerman": [],
     "Volbeat": [],
-    "Radiohead": [],
+    "Radiohead": [
+        "EMI",
+        "XL",
+        "Ticker Tape Ltd.",
+        "Hostess",
+        "TBD",
+        "Parlophone",
+        "Capitol"
+    ],
     "sombr": [],
     "Riley Green": [],
     "Nirvana": [],
@@ -69,13 +69,21 @@ var data = {
     "Linkin Park": [],
     "Michael Jackson": [],
     "GloRilla": [],
-    "Ariana Grande": [],
+    "Ariana Grande": [
+        "Republic"
+    ],
     "Cynthia Erivo": [],
     "Sleep Token": [],
     "Lil Tecca": [],
     "Chris Brown": [],
     "Rascal Flatts": [],
-    "Charli xcx": [],
+    "Charli xcx": [
+        "Vroom Vroom",
+        "Warner Bros",
+        "Asylum",
+        "Atlantic",
+        "Iamsound"
+    ],
     "Megan Moroney": [],
     "Jason Aldean": [],
     "Oliver Anthony Music": [],
@@ -97,41 +105,28 @@ var data = {
     "Frank Ocean": [],
     "Pulp": [],
     "Thomas Rhett": [],
-    "Playboi Carti": [
-        "Awful",
-        "AWGE",
-        "Interscope",
-        "Opium"
-    ],
+    "Playboi Carti": [],
     "Tucker Wetmore": [],
     "Dua Lipa": [],
     "Mariah The Scientist": [],
-    "Led Zeppelin": [],
+    "Led Zeppelin": [
+        "Atlantic",
+        "Swan Song"
+    ],
     "Mac Miller": [],
     "Red Hot Chili Peppers": [],
     "Russell Dickerson": [],
     "The Marias": [],
-    "Stray Kids": [
-        "JYP",
-        "Epic Japan",
-        "Republic"
+    "Stray Kids": [],
+    "Sam Hunt": [
+        "MCA Nashville"
     ],
-    "Sam Hunt": [],
-    "Rihanna": [
-        "Roc Nation",
-        "Def Jam",
-        "SRP",
-        "Westbury Road"
-    ],
+    "Rihanna": [],
     "Pink Floyd": [],
     "Lana Del Rey": [],
-    "Karol G": [
-        "Universal Latino",
-        "Bichota",
-        "Interscope"
-    ],
+    "Karol G": [],
     "Max McNown": [],
     "Journey": [],
     "Noah Kahan": [],
     "CAAMP": []
-};var lastUpdated = "06/21";
+};var lastUpdated = "06/22";
