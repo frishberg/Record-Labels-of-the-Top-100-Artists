@@ -10,7 +10,10 @@ var data = {
         "XO",
         "Republic"
     ],
-    "Taylor Swift": [],
+    "Taylor Swift": [
+        "Republic",
+        "Big Machine"
+    ],
     "Benson Boone": [],
     "Turnstile": [],
     "Addison Rae": [],
@@ -32,7 +35,15 @@ var data = {
     "The Doobie Brothers": [],
     "BigXthaPlug": [],
     "Doechii": [],
-    "The Beach Boys": [],
+    "The Beach Boys": [
+        "Candix",
+        "Capitol",
+        "Brother",
+        "Reprise",
+        "Caribou",
+        "CBS",
+        "Warner Bros"
+    ],
     "Metallica": [],
     "Chris Stapleton": [],
     "Zach Bryan": [],
@@ -40,50 +51,39 @@ var data = {
     "SEVENTEEN": [],
     "Tyler, The Creator": [],
     "Hozier": [],
-    "Myles Smith": [
-        "Sony Music UK"
-    ],
+    "Myles Smith": [],
     "Miley Cyrus": [],
     "Fuerza Regida": [],
     "Bailey Zimmerman": [],
     "Volbeat": [],
-    "Radiohead": [
-        "EMI",
-        "XL",
-        "Ticker Tape Ltd.",
-        "Hostess",
-        "TBD",
-        "Parlophone",
-        "Capitol"
-    ],
+    "Radiohead": [],
     "sombr": [],
     "Riley Green": [],
     "Nirvana": [],
     "Coldplay": [],
     "Ella Langley": [],
-    "Lola Young": [],
+    "Lola Young": [
+        "Island"
+    ],
     "Forrest Frank": [],
     "Gracie Abrams": [],
-    "Leon Thomas": [],
+    "Leon Thomas": [
+        "Columbia",
+        "Rostrum",
+        "EZMNY",
+        "Motown"
+    ],
     "MARINA": [],
     "Linkin Park": [],
     "Michael Jackson": [],
     "GloRilla": [],
-    "Ariana Grande": [
-        "Republic"
-    ],
+    "Ariana Grande": [],
     "Cynthia Erivo": [],
     "Sleep Token": [],
     "Lil Tecca": [],
     "Chris Brown": [],
     "Rascal Flatts": [],
-    "Charli xcx": [
-        "Vroom Vroom",
-        "Warner Bros",
-        "Asylum",
-        "Atlantic",
-        "Iamsound"
-    ],
+    "Charli xcx": [],
     "Megan Moroney": [],
     "Jason Aldean": [],
     "Oliver Anthony Music": [],
@@ -92,11 +92,7 @@ var data = {
     "Sly & The Family Stone": [],
     "The Red Clay Strays": [],
     "Ravyn Lenae": [],
-    "Lainey Wilson": [
-        "Cupit",
-        "Lone Chief",
-        "BBR"
-    ],
+    "Lainey Wilson": [],
     "Eagles": [],
     "Creedence Clearwater Revival": [],
     "Zach Top": [],
@@ -109,24 +105,25 @@ var data = {
     "Tucker Wetmore": [],
     "Dua Lipa": [],
     "Mariah The Scientist": [],
-    "Led Zeppelin": [
-        "Atlantic",
-        "Swan Song"
-    ],
+    "Led Zeppelin": [],
     "Mac Miller": [],
     "Red Hot Chili Peppers": [],
     "Russell Dickerson": [],
     "The Marias": [],
     "Stray Kids": [],
-    "Sam Hunt": [
-        "MCA Nashville"
-    ],
+    "Sam Hunt": [],
     "Rihanna": [],
     "Pink Floyd": [],
     "Lana Del Rey": [],
-    "Karol G": [],
+    "Karol G": [
+        "Universal Latino",
+        "Bichota",
+        "Interscope"
+    ],
     "Max McNown": [],
     "Journey": [],
     "Noah Kahan": [],
-    "CAAMP": []
-};var lastUpdated = "06/22";
+    "CAAMP": [
+        "Mom + Pop Music"
+    ]
+};var lastUpdated = "06/23";
