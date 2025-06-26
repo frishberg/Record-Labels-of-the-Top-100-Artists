@@ -2,18 +2,15 @@ var data = {
     "Morgan Wallen": [],
     "ATEEZ": [],
     "Kendrick Lamar": [],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
+    "Sabrina Carpenter": [],
+    "SZA": [
+        "TDE",
+        "RCA"
     ],
-    "SZA": [],
     "The Weeknd": [],
     "Benson Boone": [],
     "Alex Warren": [],
-    "Luke Combs": [
-        "River House Artists",
-        "Sony Music Nashville"
-    ],
+    "Luke Combs": [],
     "Metallica": [],
     "Billie Eilish": [],
     "ENHYPEN": [],
@@ -21,33 +18,41 @@ var data = {
     "Shaboozey": [],
     "Brandon Lake": [],
     "Chappell Roan": [],
-    "Drake": [
-        "OVO Sound",
-        "Republic",
-        "Young Money",
-        "Cash Money",
-        "Aspire"
-    ],
+    "Drake": [],
     "Teddy Swims": [],
-    "Jelly Roll": [],
+    "Jelly Roll": [
+        "Slumerican",
+        "Bad Apple Inc.",
+        "War Dog",
+        "Wyte Music",
+        "BBR"
+    ],
     "Tate McRae": [],
     "The Beach Boys": [],
     "Lil Tecca": [],
     "Lady Gaga": [],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Bronco"
+    ],
     "Post Malone": [],
     "Fleetwood Mac": [],
     "GloRilla": [],
     "Ed Sheeran": [],
     "Chris Stapleton": [],
-    "Jessie Murph": [],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
     "Bruno Mars": [],
     "Doechii": [],
     "BigXthaPlug": [],
     "Bad Bunny": [],
     "Hozier": [],
     "Tyler, The Creator": [],
-    "Myles Smith": [],
+    "Myles Smith": [
+        "Sony Music UK"
+    ],
     "Bailey Zimmerman": [],
     "Chris Brown": [],
     "Fuerza Regida": [],
@@ -55,26 +60,16 @@ var data = {
     "Riley Green": [],
     "Nirvana": [],
     "Ella Langley": [],
-    "Coldplay": [
-        "Fierce Panda",
-        "Parlophone",
-        "Nettwerk",
-        "Capitol",
-        "Atlantic"
-    ],
+    "Coldplay": [],
     "Lil Wayne": [],
     "Radiohead": [],
     "Leon Thomas": [],
-    "Kane Brown": [],
-    "King Gizzard And The Lizard Wizard": [],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
+    "Kane Brown": [
+        "Zone 4",
+        "RCA"
     ],
+    "King Gizzard And The Lizard Wizard": [],
+    "Michael Jackson": [],
     "j-hope": [],
     "Gracie Abrams": [],
     "Lola Young": [],
@@ -82,10 +77,7 @@ var data = {
     "Ariana Grande": [],
     "Oliver Anthony Music": [],
     "SEVENTEEN": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Linkin Park": [],
     "Forrest Frank": [],
     "My Chemical Romance": [],
     "Ravyn Lenae": [],
@@ -106,23 +98,26 @@ var data = {
     "Megan Moroney": [],
     "Jason Aldean": [],
     "Mac Miller": [],
-    "The Cure": [],
+    "The Cure": [
+        "Fiction",
+        "Suretone",
+        "Geffen",
+        "Polydor",
+        "Hansa",
+        "A&M",
+        "Elektra",
+        "Asylum",
+        "Sire",
+        "Warner Bros"
+    ],
     "Mariah The Scientist": [],
     "Van Morrison": [],
     "Playboi Carti": [],
     "The Marias": [],
     "Stray Kids": [],
     "Twenty One Pilots": [],
-    "Addison Rae": [
-        "Columbia",
-        "As Long As I'm Dancing"
-    ],
-    "Travis Scott": [
-        "Grand Hustle",
-        "Epic",
-        "Very GOOD Beats",
-        "Cactus Jack"
-    ],
+    "Addison Rae": [],
+    "Travis Scott": [],
     "Tucker Wetmore": [],
     "The Doobie Brothers": [],
     "AC/DC": [],
@@ -135,4 +130,4 @@ var data = {
     "Journey": [],
     "Noah Kahan": [],
     "Lil Baby": []
-};var lastUpdated = "06/25";
+};var lastUpdated = "06/26";
