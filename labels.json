@@ -3,10 +3,7 @@
     "ATEEZ": [],
     "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
-    "SZA": [
-        "TDE",
-        "RCA"
-    ],
+    "SZA": [],
     "The Weeknd": [],
     "Benson Boone": [],
     "Alex Warren": [],
@@ -20,39 +17,25 @@
     "Chappell Roan": [],
     "Drake": [],
     "Teddy Swims": [],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
+    "Jelly Roll": [],
     "Tate McRae": [],
     "The Beach Boys": [],
     "Lil Tecca": [],
     "Lady Gaga": [],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Bronco"
-    ],
+    "Zach Bryan": [],
     "Post Malone": [],
     "Fleetwood Mac": [],
     "GloRilla": [],
     "Ed Sheeran": [],
     "Chris Stapleton": [],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Jessie Murph": [],
     "Bruno Mars": [],
     "Doechii": [],
     "BigXthaPlug": [],
     "Bad Bunny": [],
     "Hozier": [],
     "Tyler, The Creator": [],
-    "Myles Smith": [
-        "Sony Music UK"
-    ],
+    "Myles Smith": [],
     "Bailey Zimmerman": [],
     "Chris Brown": [],
     "Fuerza Regida": [],
@@ -64,10 +47,7 @@
     "Lil Wayne": [],
     "Radiohead": [],
     "Leon Thomas": [],
-    "Kane Brown": [
-        "Zone 4",
-        "RCA"
-    ],
+    "Kane Brown": [],
     "King Gizzard And The Lizard Wizard": [],
     "Michael Jackson": [],
     "j-hope": [],
@@ -98,18 +78,7 @@
     "Megan Moroney": [],
     "Jason Aldean": [],
     "Mac Miller": [],
-    "The Cure": [
-        "Fiction",
-        "Suretone",
-        "Geffen",
-        "Polydor",
-        "Hansa",
-        "A&M",
-        "Elektra",
-        "Asylum",
-        "Sire",
-        "Warner Bros"
-    ],
+    "The Cure": [],
     "Mariah The Scientist": [],
     "Van Morrison": [],
     "Playboi Carti": [],
@@ -119,7 +88,12 @@
     "Addison Rae": [],
     "Travis Scott": [],
     "Tucker Wetmore": [],
-    "The Doobie Brothers": [],
+    "The Doobie Brothers": [
+        "Warner Bros",
+        "Capitol",
+        "Arista",
+        "Sony"
+    ],
     "AC/DC": [],
     "Sam Hunt": [],
     "Pink Floyd": [],
