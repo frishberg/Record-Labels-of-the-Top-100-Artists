@@ -22,7 +22,10 @@ var data = {
     "The Beach Boys": [],
     "Lil Tecca": [],
     "Lady Gaga": [],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Bronco"
+    ],
     "Post Malone": [],
     "Fleetwood Mac": [],
     "GloRilla": [],
@@ -35,7 +38,9 @@ var data = {
     "Bad Bunny": [],
     "Hozier": [],
     "Tyler, The Creator": [],
-    "Myles Smith": [],
+    "Myles Smith": [
+        "Sony Music UK"
+    ],
     "Bailey Zimmerman": [],
     "Chris Brown": [],
     "Fuerza Regida": [],
@@ -65,7 +70,11 @@ var data = {
     "Creedence Clearwater Revival": [],
     "Calum Hood": [],
     "Charli xcx": [],
-    "Lainey Wilson": [],
+    "Lainey Wilson": [
+        "Cupit",
+        "Lone Chief",
+        "BBR"
+    ],
     "Led Zeppelin": [],
     "Turnstile": [],
     "Eagles": [],
@@ -84,19 +93,26 @@ var data = {
     "Playboi Carti": [],
     "The Marias": [],
     "Stray Kids": [],
-    "Twenty One Pilots": [],
+    "Twenty One Pilots": [
+        "Fueled by Ramen",
+        "Elektra",
+        "Atlantic"
+    ],
     "Addison Rae": [],
     "Travis Scott": [],
     "Tucker Wetmore": [],
-    "The Doobie Brothers": [
-        "Warner Bros",
-        "Capitol",
-        "Arista",
-        "Sony"
-    ],
+    "The Doobie Brothers": [],
     "AC/DC": [],
     "Sam Hunt": [],
-    "Pink Floyd": [],
+    "Pink Floyd": [
+        "EMI",
+        "Columbia",
+        "Tower",
+        "Harvest",
+        "Capitol",
+        "Sony Music",
+        "Parlophone"
+    ],
     "Conan Gray": [],
     "Max McNown": [],
     "The Red Clay Strays": [],
@@ -104,4 +120,4 @@ var data = {
     "Journey": [],
     "Noah Kahan": [],
     "Lil Baby": []
-};var lastUpdated = "06/27";
+};var lastUpdated = "06/28";
