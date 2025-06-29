@@ -18,29 +18,33 @@ var data = {
     "Drake": [],
     "Teddy Swims": [],
     "Jelly Roll": [],
-    "Tate McRae": [],
+    "Tate McRae": [
+        "RCA"
+    ],
     "The Beach Boys": [],
     "Lil Tecca": [],
     "Lady Gaga": [],
-    "Zach Bryan": [
-        "Warner Bros",
-        "Belting Bronco"
-    ],
+    "Zach Bryan": [],
     "Post Malone": [],
     "Fleetwood Mac": [],
     "GloRilla": [],
     "Ed Sheeran": [],
     "Chris Stapleton": [],
-    "Jessie Murph": [],
-    "Bruno Mars": [],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Doechii": [],
     "BigXthaPlug": [],
     "Bad Bunny": [],
     "Hozier": [],
     "Tyler, The Creator": [],
-    "Myles Smith": [
-        "Sony Music UK"
-    ],
+    "Myles Smith": [],
     "Bailey Zimmerman": [],
     "Chris Brown": [],
     "Fuerza Regida": [],
@@ -53,7 +57,15 @@ var data = {
     "Radiohead": [],
     "Leon Thomas": [],
     "Kane Brown": [],
-    "King Gizzard And The Lizard Wizard": [],
+    "King Gizzard And The Lizard Wizard": [
+        "Flightless",
+        "Heavenly",
+        "ATO",
+        "Shock",
+        "Castle Face",
+        "KGLW",
+        "p(doom)"
+    ],
     "Michael Jackson": [],
     "j-hope": [],
     "Gracie Abrams": [],
@@ -70,11 +82,7 @@ var data = {
     "Creedence Clearwater Revival": [],
     "Calum Hood": [],
     "Charli xcx": [],
-    "Lainey Wilson": [
-        "Cupit",
-        "Lone Chief",
-        "BBR"
-    ],
+    "Lainey Wilson": [],
     "Led Zeppelin": [],
     "Turnstile": [],
     "Eagles": [],
@@ -92,32 +100,31 @@ var data = {
     "Van Morrison": [],
     "Playboi Carti": [],
     "The Marias": [],
-    "Stray Kids": [],
-    "Twenty One Pilots": [
-        "Fueled by Ramen",
-        "Elektra",
-        "Atlantic"
+    "Stray Kids": [
+        "JYP",
+        "Epic Japan",
+        "Republic"
     ],
-    "Addison Rae": [],
+    "Twenty One Pilots": [],
+    "Addison Rae": [
+        "Columbia",
+        "As Long As I'm Dancing"
+    ],
     "Travis Scott": [],
     "Tucker Wetmore": [],
     "The Doobie Brothers": [],
     "AC/DC": [],
     "Sam Hunt": [],
-    "Pink Floyd": [
-        "EMI",
-        "Columbia",
-        "Tower",
-        "Harvest",
-        "Capitol",
-        "Sony Music",
-        "Parlophone"
-    ],
+    "Pink Floyd": [],
     "Conan Gray": [],
     "Max McNown": [],
     "The Red Clay Strays": [],
     "Tyler Childers": [],
     "Journey": [],
-    "Noah Kahan": [],
+    "Noah Kahan": [
+        "Republic",
+        "Universal",
+        "Mercury"
+    ],
     "Lil Baby": []
-};var lastUpdated = "06/28";
+};var lastUpdated = "06/29";
