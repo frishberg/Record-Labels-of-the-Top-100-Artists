@@ -7,7 +7,10 @@
     "The Weeknd": [],
     "Benson Boone": [],
     "Alex Warren": [],
-    "Luke Combs": [],
+    "Luke Combs": [
+        "River House Artists",
+        "Sony Music Nashville"
+    ],
     "Metallica": [],
     "Billie Eilish": [],
     "ENHYPEN": [],
@@ -18,9 +21,7 @@
     "Drake": [],
     "Teddy Swims": [],
     "Jelly Roll": [],
-    "Tate McRae": [
-        "RCA"
-    ],
+    "Tate McRae": [],
     "The Beach Boys": [],
     "Lil Tecca": [],
     "Lady Gaga": [],
@@ -30,15 +31,8 @@
     "GloRilla": [],
     "Ed Sheeran": [],
     "Chris Stapleton": [],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
-    "Bruno Mars": [
-        "Universal Motown",
-        "Atlantic",
-        "Elektra"
-    ],
+    "Jessie Murph": [],
+    "Bruno Mars": [],
     "Doechii": [],
     "BigXthaPlug": [],
     "Bad Bunny": [],
@@ -57,15 +51,7 @@
     "Radiohead": [],
     "Leon Thomas": [],
     "Kane Brown": [],
-    "King Gizzard And The Lizard Wizard": [
-        "Flightless",
-        "Heavenly",
-        "ATO",
-        "Shock",
-        "Castle Face",
-        "KGLW",
-        "p(doom)"
-    ],
+    "King Gizzard And The Lizard Wizard": [],
     "Michael Jackson": [],
     "j-hope": [],
     "Gracie Abrams": [],
@@ -84,15 +70,34 @@
     "Charli xcx": [],
     "Lainey Wilson": [],
     "Led Zeppelin": [],
-    "Turnstile": [],
+    "Turnstile": [
+        "Roadrunner",
+        "Reaper",
+        "Pop Wig"
+    ],
     "Eagles": [],
     "iTZY": [],
     "Frank Ocean": [],
     "Queen": [],
-    "The Beatles": [],
+    "The Beatles": [
+        "Polydor",
+        "Parlophone",
+        "Tollie",
+        "Vee-Jay",
+        "Capitol",
+        "Swan",
+        "Odeon",
+        "MGM",
+        "Atco",
+        "United Artists",
+        "Apple"
+    ],
     "Red Hot Chili Peppers": [],
     "Thomas Rhett": [],
-    "Megan Moroney": [],
+    "Megan Moroney": [
+        "Arista Nashville",
+        "Columbia"
+    ],
     "Jason Aldean": [],
     "Mac Miller": [],
     "The Cure": [],
@@ -100,31 +105,34 @@
     "Van Morrison": [],
     "Playboi Carti": [],
     "The Marias": [],
-    "Stray Kids": [
-        "JYP",
-        "Epic Japan",
-        "Republic"
-    ],
+    "Stray Kids": [],
     "Twenty One Pilots": [],
-    "Addison Rae": [
-        "Columbia",
-        "As Long As I'm Dancing"
-    ],
+    "Addison Rae": [],
     "Travis Scott": [],
     "Tucker Wetmore": [],
     "The Doobie Brothers": [],
-    "AC/DC": [],
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
+    ],
     "Sam Hunt": [],
     "Pink Floyd": [],
     "Conan Gray": [],
     "Max McNown": [],
     "The Red Clay Strays": [],
     "Tyler Childers": [],
-    "Journey": [],
-    "Noah Kahan": [
-        "Republic",
-        "Universal",
-        "Mercury"
+    "Journey": [
+        "Columbia",
+        "Frontiers",
+        "Sanctuary",
+        "Nomota",
+        "BMG"
     ],
+    "Noah Kahan": [],
     "Lil Baby": []
 }
