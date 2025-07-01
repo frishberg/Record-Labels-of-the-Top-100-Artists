@@ -25,7 +25,10 @@
     "The Beach Boys": [],
     "Lil Tecca": [],
     "Lady Gaga": [],
-    "Zach Bryan": [],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Bronco"
+    ],
     "Post Malone": [],
     "Fleetwood Mac": [],
     "GloRilla": [],
@@ -70,38 +73,26 @@
     "Charli xcx": [],
     "Lainey Wilson": [],
     "Led Zeppelin": [],
-    "Turnstile": [
-        "Roadrunner",
-        "Reaper",
-        "Pop Wig"
-    ],
+    "Turnstile": [],
     "Eagles": [],
     "iTZY": [],
     "Frank Ocean": [],
     "Queen": [],
-    "The Beatles": [
-        "Polydor",
-        "Parlophone",
-        "Tollie",
-        "Vee-Jay",
-        "Capitol",
-        "Swan",
-        "Odeon",
-        "MGM",
-        "Atco",
-        "United Artists",
-        "Apple"
-    ],
+    "The Beatles": [],
     "Red Hot Chili Peppers": [],
-    "Thomas Rhett": [],
-    "Megan Moroney": [
-        "Arista Nashville",
-        "Columbia"
+    "Thomas Rhett": [
+        "Valory/Big Machine"
     ],
+    "Megan Moroney": [],
     "Jason Aldean": [],
     "Mac Miller": [],
     "The Cure": [],
-    "Mariah The Scientist": [],
+    "Mariah The Scientist": [
+        "Epic (current)",
+        "One Umbrella",
+        "RCA",
+        "Epic"
+    ],
     "Van Morrison": [],
     "Playboi Carti": [],
     "The Marias": [],
@@ -111,28 +102,14 @@
     "Travis Scott": [],
     "Tucker Wetmore": [],
     "The Doobie Brothers": [],
-    "AC/DC": [
-        "Albert",
-        "Atlantic",
-        "ATCO",
-        "East West",
-        "Elektra",
-        "Epic",
-        "Columbia"
-    ],
+    "AC/DC": [],
     "Sam Hunt": [],
     "Pink Floyd": [],
     "Conan Gray": [],
     "Max McNown": [],
     "The Red Clay Strays": [],
     "Tyler Childers": [],
-    "Journey": [
-        "Columbia",
-        "Frontiers",
-        "Sanctuary",
-        "Nomota",
-        "BMG"
-    ],
+    "Journey": [],
     "Noah Kahan": [],
     "Lil Baby": []
 }
