@@ -9,25 +9,23 @@ var data = {
     "Alex Warren": [],
     "Billie Eilish": [],
     "Luke Combs": [],
-    "Karol G": [],
+    "Karol G": [
+        "Universal Latino",
+        "Bichota",
+        "Interscope"
+    ],
     "Shaboozey": [],
     "Chappell Roan": [],
     "Jelly Roll": [],
     "Teddy Swims": [],
     "Drake": [],
-    "Tate McRae": [
-        "RCA"
-    ],
+    "Tate McRae": [],
     "Lady Gaga": [],
     "Metallica": [],
     "Cardi B": [],
     "Fleetwood Mac": [],
     "Sons Of Legion": [],
-    "Post Malone": [
-        "Republic",
-        "Mercury",
-        "Posty"
-    ],
+    "Post Malone": [],
     "HAIM": [],
     "ENHYPEN": [],
     "Zach Bryan": [],
@@ -74,23 +72,28 @@ var data = {
     "Lainey Wilson": [],
     "Lil Wayne": [],
     "Eagles": [],
-    "The Marias": [],
+    "The Marias": [
+        "Atlantic"
+    ],
     "Frank Ocean": [],
     "Deftones": [],
     "System Of A Down": [],
     "Sleep Token": [],
     "Mac Miller": [],
     "Jason Aldean": [],
-    "AC/DC": [],
+    "AC/DC": [
+        "Albert",
+        "Atlantic",
+        "ATCO",
+        "East West",
+        "Elektra",
+        "Epic",
+        "Columbia"
+    ],
     "The Red Clay Strays": [],
     "Thomas Rhett": [],
     "Travis Scott": [],
-    "Red Hot Chili Peppers": [
-        "Capitol",
-        "EMI",
-        "Enigma",
-        "Warner Bros"
-    ],
+    "Red Hot Chili Peppers": [],
     "Lana Del Rey": [],
     "Playboi Carti": [],
     "Mariah The Scientist": [],
@@ -103,25 +106,11 @@ var data = {
     "Tyler Childers": [],
     "Lorde": [],
     "Pierce The Veil": [],
-    "Journey": [
-        "Columbia",
-        "Frontiers",
-        "Sanctuary",
-        "Nomota",
-        "BMG"
-    ],
+    "Journey": [],
     "The Beatles": [],
-    "Pink Floyd": [
-        "EMI",
-        "Columbia",
-        "Tower",
-        "Harvest",
-        "Capitol",
-        "Sony Music",
-        "Parlophone"
-    ],
+    "Pink Floyd": [],
     "SEVENTEEN": [],
     "Tucker Wetmore": [],
     "Alice In Chains": [],
     "Lynyrd Skynyrd": []
-};var lastUpdated = "07/02";
+};var lastUpdated = "07/03";
