@@ -9,11 +9,7 @@ var data = {
     "Alex Warren": [],
     "Billie Eilish": [],
     "Luke Combs": [],
-    "Karol G": [
-        "Universal Latino",
-        "Bichota",
-        "Interscope"
-    ],
+    "Karol G": [],
     "Shaboozey": [],
     "Chappell Roan": [],
     "Jelly Roll": [],
@@ -30,7 +26,11 @@ var data = {
     "ENHYPEN": [],
     "Zach Bryan": [],
     "Chris Stapleton": [],
-    "Bruno Mars": [],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Ed Sheeran": [],
     "YUNGBLUD": [],
     "Jessie Murph": [],
@@ -46,13 +46,19 @@ var data = {
     "Nirvana": [],
     "Myles Smith": [],
     "Fuerza Regida": [],
-    "Bailey Zimmerman": [],
+    "Bailey Zimmerman": [
+        "Warner Bros",
+        "Elektra"
+    ],
     "Riley Green": [],
     "Brandon Lake": [],
     "Ella Langley": [],
     "Ariana Grande": [],
     "Michael Jackson": [],
-    "GloRilla": [],
+    "GloRilla": [
+        "Collective",
+        "Interscope"
+    ],
     "Linkin Park": [],
     "Chris Brown": [],
     "Coldplay": [],
@@ -72,25 +78,18 @@ var data = {
     "Lainey Wilson": [],
     "Lil Wayne": [],
     "Eagles": [],
-    "The Marias": [
-        "Atlantic"
-    ],
+    "The Marias": [],
     "Frank Ocean": [],
     "Deftones": [],
     "System Of A Down": [],
     "Sleep Token": [],
     "Mac Miller": [],
     "Jason Aldean": [],
-    "AC/DC": [
-        "Albert",
-        "Atlantic",
-        "ATCO",
-        "East West",
-        "Elektra",
-        "Epic",
-        "Columbia"
+    "AC/DC": [],
+    "The Red Clay Strays": [
+        "RCA",
+        "Thirty Tigers"
     ],
-    "The Red Clay Strays": [],
     "Thomas Rhett": [],
     "Travis Scott": [],
     "Red Hot Chili Peppers": [],
@@ -113,4 +112,4 @@ var data = {
     "Tucker Wetmore": [],
     "Alice In Chains": [],
     "Lynyrd Skynyrd": []
-};var lastUpdated = "07/03";
+};var lastUpdated = "07/04";
