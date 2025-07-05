@@ -26,16 +26,21 @@
     "ENHYPEN": [],
     "Zach Bryan": [],
     "Chris Stapleton": [],
-    "Bruno Mars": [
-        "Universal Motown",
-        "Atlantic",
-        "Elektra"
-    ],
+    "Bruno Mars": [],
     "Ed Sheeran": [],
-    "YUNGBLUD": [],
+    "YUNGBLUD": [
+        "Locomotion",
+        "Interscope",
+        "Geffen",
+        "Polydor"
+    ],
     "Jessie Murph": [],
     "BigXthaPlug": [],
-    "Hozier": [],
+    "Hozier": [
+        "Rubyworks",
+        "Island",
+        "Columbia"
+    ],
     "Bad Bunny": [],
     "Tyler, The Creator": [],
     "sombr": [],
@@ -43,22 +48,19 @@
     "Megan Moroney": [],
     "Radiohead": [],
     "Doechii": [],
-    "Nirvana": [],
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
+    ],
     "Myles Smith": [],
     "Fuerza Regida": [],
-    "Bailey Zimmerman": [
-        "Warner Bros",
-        "Elektra"
-    ],
+    "Bailey Zimmerman": [],
     "Riley Green": [],
     "Brandon Lake": [],
     "Ella Langley": [],
     "Ariana Grande": [],
     "Michael Jackson": [],
-    "GloRilla": [
-        "Collective",
-        "Interscope"
-    ],
+    "GloRilla": [],
     "Linkin Park": [],
     "Chris Brown": [],
     "Coldplay": [],
@@ -68,11 +70,20 @@
     "My Chemical Romance": [],
     "Lola Young": [],
     "Zach Top": [],
-    "Forrest Frank": [],
+    "Forrest Frank": [
+        "River House",
+        "Warner Bros",
+        "10K Projects"
+    ],
     "Ravyn Lenae": [],
     "Miley Cyrus": [],
     "Lil Tecca": [],
-    "Peso Pluma": [],
+    "Peso Pluma": [
+        "El Cartel de Los \u00c1ngeles",
+        "Prajin",
+        "Worms",
+        "Double P"
+    ],
     "Charli xcx": [],
     "Creedence Clearwater Revival": [],
     "Lainey Wilson": [],
@@ -86,10 +97,7 @@
     "Mac Miller": [],
     "Jason Aldean": [],
     "AC/DC": [],
-    "The Red Clay Strays": [
-        "RCA",
-        "Thirty Tigers"
-    ],
+    "The Red Clay Strays": [],
     "Thomas Rhett": [],
     "Travis Scott": [],
     "Red Hot Chili Peppers": [],
@@ -109,7 +117,10 @@
     "The Beatles": [],
     "Pink Floyd": [],
     "SEVENTEEN": [],
-    "Tucker Wetmore": [],
+    "Tucker Wetmore": [
+        "Back Blocks",
+        "UMG Nashville"
+    ],
     "Alice In Chains": [],
     "Lynyrd Skynyrd": []
 }
