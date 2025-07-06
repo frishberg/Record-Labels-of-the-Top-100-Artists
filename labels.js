@@ -4,7 +4,10 @@ var data = {
     "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
     "SZA": [],
-    "Taylor Swift": [],
+    "Taylor Swift": [
+        "Republic",
+        "Big Machine"
+    ],
     "The Weeknd": [],
     "Alex Warren": [],
     "Billie Eilish": [],
@@ -25,26 +28,25 @@ var data = {
     "HAIM": [],
     "ENHYPEN": [],
     "Zach Bryan": [],
-    "Chris Stapleton": [],
+    "Chris Stapleton": [
+        "Mercury Nashville"
+    ],
     "Bruno Mars": [],
     "Ed Sheeran": [],
-    "YUNGBLUD": [
-        "Locomotion",
-        "Interscope",
-        "Geffen",
-        "Polydor"
-    ],
+    "YUNGBLUD": [],
     "Jessie Murph": [],
     "BigXthaPlug": [],
-    "Hozier": [
-        "Rubyworks",
-        "Island",
-        "Columbia"
-    ],
+    "Hozier": [],
     "Bad Bunny": [],
     "Tyler, The Creator": [],
     "sombr": [],
-    "ATEEZ": [],
+    "ATEEZ": [
+        "KQ",
+        "Legacy",
+        "RCA",
+        "Columbia",
+        "Universal Sigma"
+    ],
     "Megan Moroney": [],
     "Radiohead": [],
     "Doechii": [],
@@ -59,7 +61,14 @@ var data = {
     "Brandon Lake": [],
     "Ella Langley": [],
     "Ariana Grande": [],
-    "Michael Jackson": [],
+    "Michael Jackson": [
+        "Steeltown",
+        "Motown",
+        "Epic",
+        "Legacy",
+        "Sony",
+        "MJJ Productions"
+    ],
     "GloRilla": [],
     "Linkin Park": [],
     "Chris Brown": [],
@@ -67,7 +76,11 @@ var data = {
     "The Beach Boys": [],
     "Gracie Abrams": [],
     "Leon Thomas": [],
-    "My Chemical Romance": [],
+    "My Chemical Romance": [
+        "Eyeball",
+        "Reprise",
+        "Warner Bros"
+    ],
     "Lola Young": [],
     "Zach Top": [],
     "Forrest Frank": [
@@ -78,12 +91,7 @@ var data = {
     "Ravyn Lenae": [],
     "Miley Cyrus": [],
     "Lil Tecca": [],
-    "Peso Pluma": [
-        "El Cartel de Los \u00c1ngeles",
-        "Prajin",
-        "Worms",
-        "Double P"
-    ],
+    "Peso Pluma": [],
     "Charli xcx": [],
     "Creedence Clearwater Revival": [],
     "Lainey Wilson": [],
@@ -114,7 +122,19 @@ var data = {
     "Lorde": [],
     "Pierce The Veil": [],
     "Journey": [],
-    "The Beatles": [],
+    "The Beatles": [
+        "Polydor",
+        "Parlophone",
+        "Tollie",
+        "Vee-Jay",
+        "Capitol",
+        "Swan",
+        "Odeon",
+        "MGM",
+        "Atco",
+        "United Artists",
+        "Apple"
+    ],
     "Pink Floyd": [],
     "SEVENTEEN": [],
     "Tucker Wetmore": [
@@ -123,4 +143,4 @@ var data = {
     ],
     "Alice In Chains": [],
     "Lynyrd Skynyrd": []
-};var lastUpdated = "07/05";
+};var lastUpdated = "07/06";
