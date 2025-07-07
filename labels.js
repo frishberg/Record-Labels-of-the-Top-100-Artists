@@ -1,13 +1,15 @@
 var data = {
-    "Morgan Wallen": [],
+    "Morgan Wallen": [
+        "Panacea",
+        "Big Loud",
+        "Republic",
+        "Mercury"
+    ],
     "Benson Boone": [],
     "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
     "SZA": [],
-    "Taylor Swift": [
-        "Republic",
-        "Big Machine"
-    ],
+    "Taylor Swift": [],
     "The Weeknd": [],
     "Alex Warren": [],
     "Billie Eilish": [],
@@ -28,9 +30,7 @@ var data = {
     "HAIM": [],
     "ENHYPEN": [],
     "Zach Bryan": [],
-    "Chris Stapleton": [
-        "Mercury Nashville"
-    ],
+    "Chris Stapleton": [],
     "Bruno Mars": [],
     "Ed Sheeran": [],
     "YUNGBLUD": [],
@@ -40,20 +40,11 @@ var data = {
     "Bad Bunny": [],
     "Tyler, The Creator": [],
     "sombr": [],
-    "ATEEZ": [
-        "KQ",
-        "Legacy",
-        "RCA",
-        "Columbia",
-        "Universal Sigma"
-    ],
+    "ATEEZ": [],
     "Megan Moroney": [],
     "Radiohead": [],
     "Doechii": [],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
-    ],
+    "Nirvana": [],
     "Myles Smith": [],
     "Fuerza Regida": [],
     "Bailey Zimmerman": [],
@@ -61,14 +52,7 @@ var data = {
     "Brandon Lake": [],
     "Ella Langley": [],
     "Ariana Grande": [],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
-    ],
+    "Michael Jackson": [],
     "GloRilla": [],
     "Linkin Park": [],
     "Chris Brown": [],
@@ -76,18 +60,10 @@ var data = {
     "The Beach Boys": [],
     "Gracie Abrams": [],
     "Leon Thomas": [],
-    "My Chemical Romance": [
-        "Eyeball",
-        "Reprise",
-        "Warner Bros"
-    ],
+    "My Chemical Romance": [],
     "Lola Young": [],
     "Zach Top": [],
-    "Forrest Frank": [
-        "River House",
-        "Warner Bros",
-        "10K Projects"
-    ],
+    "Forrest Frank": [],
     "Ravyn Lenae": [],
     "Miley Cyrus": [],
     "Lil Tecca": [],
@@ -122,25 +98,10 @@ var data = {
     "Lorde": [],
     "Pierce The Veil": [],
     "Journey": [],
-    "The Beatles": [
-        "Polydor",
-        "Parlophone",
-        "Tollie",
-        "Vee-Jay",
-        "Capitol",
-        "Swan",
-        "Odeon",
-        "MGM",
-        "Atco",
-        "United Artists",
-        "Apple"
-    ],
+    "The Beatles": [],
     "Pink Floyd": [],
     "SEVENTEEN": [],
-    "Tucker Wetmore": [
-        "Back Blocks",
-        "UMG Nashville"
-    ],
+    "Tucker Wetmore": [],
     "Alice In Chains": [],
     "Lynyrd Skynyrd": []
-};var lastUpdated = "07/06";
+};var lastUpdated = "07/07";
