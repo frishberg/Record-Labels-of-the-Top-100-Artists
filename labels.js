@@ -1,10 +1,5 @@
 var data = {
-    "Morgan Wallen": [
-        "Panacea",
-        "Big Loud",
-        "Republic",
-        "Mercury"
-    ],
+    "Morgan Wallen": [],
     "Benson Boone": [],
     "Kendrick Lamar": [],
     "Sabrina Carpenter": [],
@@ -32,14 +27,22 @@ var data = {
     "Zach Bryan": [],
     "Chris Stapleton": [],
     "Bruno Mars": [],
-    "Ed Sheeran": [],
+    "Ed Sheeran": [
+        "Asylum",
+        "Atlantic",
+        "Elektra",
+        "Gingerbread Man"
+    ],
     "YUNGBLUD": [],
     "Jessie Murph": [],
     "BigXthaPlug": [],
     "Hozier": [],
     "Bad Bunny": [],
     "Tyler, The Creator": [],
-    "sombr": [],
+    "sombr": [
+        "SMB",
+        "Warner Bros"
+    ],
     "ATEEZ": [],
     "Megan Moroney": [],
     "Radiohead": [],
@@ -52,7 +55,14 @@ var data = {
     "Brandon Lake": [],
     "Ella Langley": [],
     "Ariana Grande": [],
-    "Michael Jackson": [],
+    "Michael Jackson": [
+        "Steeltown",
+        "Motown",
+        "Epic",
+        "Legacy",
+        "Sony",
+        "MJJ Productions"
+    ],
     "GloRilla": [],
     "Linkin Park": [],
     "Chris Brown": [],
@@ -69,7 +79,9 @@ var data = {
     "Lil Tecca": [],
     "Peso Pluma": [],
     "Charli xcx": [],
-    "Creedence Clearwater Revival": [],
+    "Creedence Clearwater Revival": [
+        "Fantasy"
+    ],
     "Lainey Wilson": [],
     "Lil Wayne": [],
     "Eagles": [],
@@ -77,7 +89,11 @@ var data = {
     "Frank Ocean": [],
     "Deftones": [],
     "System Of A Down": [],
-    "Sleep Token": [],
+    "Sleep Token": [
+        "Spinefarm",
+        "Basick",
+        "RCA"
+    ],
     "Mac Miller": [],
     "Jason Aldean": [],
     "AC/DC": [],
@@ -88,7 +104,11 @@ var data = {
     "Lana Del Rey": [],
     "Playboi Carti": [],
     "Mariah The Scientist": [],
-    "Turnstile": [],
+    "Turnstile": [
+        "Roadrunner",
+        "Reaper",
+        "Pop Wig"
+    ],
     "Stray Kids": [],
     "Led Zeppelin": [],
     "Addison Rae": [],
@@ -104,4 +124,4 @@ var data = {
     "Tucker Wetmore": [],
     "Alice In Chains": [],
     "Lynyrd Skynyrd": []
-};var lastUpdated = "07/07";
+};var lastUpdated = "07/08";
