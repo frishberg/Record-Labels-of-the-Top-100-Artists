@@ -2,10 +2,7 @@ var data = {
     "Morgan Wallen": [],
     "Lorde": [],
     "Kendrick Lamar": [],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
-    ],
+    "Benson Boone": [],
     "Sabrina Carpenter": [],
     "KATSEYE": [],
     "Playboi Carti": [],
@@ -24,10 +21,15 @@ var data = {
     "Teddy Swims": [],
     "Chappell Roan": [],
     "Drake": [],
-    "Tate McRae": [
-        "RCA"
+    "Tate McRae": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
     ],
-    "Fleetwood Mac": [],
     "Zach Bryan": [],
     "Lady Gaga": [],
     "Barbra Streisand": [],
@@ -46,17 +48,22 @@ var data = {
     "Ella Langley": [],
     "Tyler, The Creator": [],
     "Myles Smith": [],
-    "Karol G": [
-        "Universal Latino",
-        "Bichota",
-        "Interscope"
-    ],
+    "Karol G": [],
     "Radiohead": [],
-    "Fuerza Regida": [],
+    "Fuerza Regida": [
+        "Lumbre",
+        "Cinq",
+        "Rancho Humilde",
+        "Street Mob",
+        "Sony Latin"
+    ],
     "Doechii": [],
     "ENHYPEN": [],
     "Riley Green": [],
-    "Nirvana": [],
+    "Nirvana": [
+        "Sub Pop",
+        "DGC"
+    ],
     "Chris Brown": [],
     "Lynyrd Skynyrd": [],
     "Megan Moroney": [],
@@ -68,31 +75,27 @@ var data = {
     "Michael Jackson": [],
     "Gracie Abrams": [],
     "Ariana Grande": [],
-    "Cardi B": [],
+    "Cardi B": [
+        "Atlantic"
+    ],
     "GloRilla": [],
     "Coldplay": [],
     "Jean-Yves Thibaudet": [],
     "Miley Cyrus": [],
     "Linkin Park": [],
     "ILLIT": [],
-    "Twenty One Pilots": [
-        "Fueled by Ramen",
-        "Elektra",
-        "Atlantic"
-    ],
+    "Twenty One Pilots": [],
     "AC/DC": [],
-    "Toby Keith": [
-        "Mercury Nashville",
-        "Polydor",
-        "A&M",
-        "DreamWorks Nashville",
-        "Show Dog-Universal Music (formerly Show Dog Nashville)",
-        "Show Dog-Universal Music"
-    ],
+    "Toby Keith": [],
     "Lola Young": [],
     "Forrest Frank": [],
     "Sons Of Legion": [],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Charli xcx": [],
     "ROSE": [],
     "Lewis Capaldi": [],
@@ -106,23 +109,12 @@ var data = {
     "My Chemical Romance": [],
     "The Turnpike Troubadours": [],
     "The Marias": [],
-    "ATEEZ": [
-        "KQ",
-        "Legacy",
-        "RCA",
-        "Columbia",
-        "Universal Sigma"
-    ],
+    "ATEEZ": [],
     "The Red Clay Strays": [],
     "Mariah The Scientist": [],
     "Red Hot Chili Peppers": [],
     "Jason Aldean": [],
-    "Travis Scott": [
-        "Grand Hustle",
-        "Epic",
-        "Very GOOD Beats",
-        "Cactus Jack"
-    ],
+    "Travis Scott": [],
     "Lil Tecca": [],
     "Journey": [],
     "Deftones": [],
@@ -131,6 +123,8 @@ var data = {
     "System Of A Down": [],
     "HUNTR/X": [],
     "AUDREY NUNA": [],
-    "REI AMI": [],
+    "REI AMI": [
+        "Visionary Records"
+    ],
     "Led Zeppelin": []
-};var lastUpdated = "07/09";
+};var lastUpdated = "07/10";
