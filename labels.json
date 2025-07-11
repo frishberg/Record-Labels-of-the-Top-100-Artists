@@ -8,10 +8,7 @@
     "Playboi Carti": [],
     "Alex Warren": [],
     "SZA": [],
-    "Shaboozey": [
-        "Republic",
-        "Empire"
-    ],
+    "Shaboozey": [],
     "Luke Combs": [],
     "The Weeknd": [],
     "Russ": [],
@@ -22,14 +19,7 @@
     "Chappell Roan": [],
     "Drake": [],
     "Tate McRae": [],
-    "Fleetwood Mac": [
-        "Blue Horizon",
-        "Reprise",
-        "Sire",
-        "CBS",
-        "Warner Bros",
-        "LMJS Productions"
-    ],
+    "Fleetwood Mac": [],
     "Zach Bryan": [],
     "Lady Gaga": [],
     "Barbra Streisand": [],
@@ -41,7 +31,11 @@
     "Bruno Mars": [],
     "Metallica": [],
     "Bad Bunny": [],
-    "Hozier": [],
+    "Hozier": [
+        "Rubyworks",
+        "Island",
+        "Columbia"
+    ],
     "sombr": [],
     "Jessie Murph": [],
     "Bailey Zimmerman": [],
@@ -50,20 +44,11 @@
     "Myles Smith": [],
     "Karol G": [],
     "Radiohead": [],
-    "Fuerza Regida": [
-        "Lumbre",
-        "Cinq",
-        "Rancho Humilde",
-        "Street Mob",
-        "Sony Latin"
-    ],
+    "Fuerza Regida": [],
     "Doechii": [],
     "ENHYPEN": [],
     "Riley Green": [],
-    "Nirvana": [
-        "Sub Pop",
-        "DGC"
-    ],
+    "Nirvana": [],
     "Chris Brown": [],
     "Lynyrd Skynyrd": [],
     "Megan Moroney": [],
@@ -75,14 +60,15 @@
     "Michael Jackson": [],
     "Gracie Abrams": [],
     "Ariana Grande": [],
-    "Cardi B": [
-        "Atlantic"
-    ],
+    "Cardi B": [],
     "GloRilla": [],
     "Coldplay": [],
     "Jean-Yves Thibaudet": [],
     "Miley Cyrus": [],
-    "Linkin Park": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "ILLIT": [],
     "Twenty One Pilots": [],
     "AC/DC": [],
@@ -90,12 +76,7 @@
     "Lola Young": [],
     "Forrest Frank": [],
     "Sons Of Legion": [],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Charli xcx": [],
     "ROSE": [],
     "Lewis Capaldi": [],
@@ -110,7 +91,10 @@
     "The Turnpike Troubadours": [],
     "The Marias": [],
     "ATEEZ": [],
-    "The Red Clay Strays": [],
+    "The Red Clay Strays": [
+        "RCA",
+        "Thirty Tigers"
+    ],
     "Mariah The Scientist": [],
     "Red Hot Chili Peppers": [],
     "Jason Aldean": [],
@@ -123,8 +107,6 @@
     "System Of A Down": [],
     "HUNTR/X": [],
     "AUDREY NUNA": [],
-    "REI AMI": [
-        "Visionary Records"
-    ],
+    "REI AMI": [],
     "Led Zeppelin": []
 }
