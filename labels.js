@@ -4,7 +4,10 @@ var data = {
     "Kendrick Lamar": [],
     "Benson Boone": [],
     "Sabrina Carpenter": [],
-    "KATSEYE": [],
+    "KATSEYE": [
+        "Hybe UMG",
+        "Geffen"
+    ],
     "Playboi Carti": [],
     "Alex Warren": [],
     "SZA": [],
@@ -24,19 +27,20 @@ var data = {
     "Lady Gaga": [],
     "Barbra Streisand": [],
     "Bruce Sprinsteen": [],
-    "BigXthaPlug": [],
+    "BigXthaPlug": [
+        "UnitedMasters"
+    ],
     "Post Malone": [],
     "Chris Stapleton": [],
     "Ed Sheeran": [],
     "Bruno Mars": [],
     "Metallica": [],
     "Bad Bunny": [],
-    "Hozier": [
-        "Rubyworks",
-        "Island",
-        "Columbia"
+    "Hozier": [],
+    "sombr": [
+        "SMB",
+        "Warner Bros"
     ],
-    "sombr": [],
     "Jessie Murph": [],
     "Bailey Zimmerman": [],
     "Ella Langley": [],
@@ -65,10 +69,7 @@ var data = {
     "Coldplay": [],
     "Jean-Yves Thibaudet": [],
     "Miley Cyrus": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Linkin Park": [],
     "ILLIT": [],
     "Twenty One Pilots": [],
     "AC/DC": [],
@@ -79,7 +80,12 @@ var data = {
     "Eagles": [],
     "Charli xcx": [],
     "ROSE": [],
-    "Lewis Capaldi": [],
+    "Lewis Capaldi": [
+        "EMI",
+        "Vertigo",
+        "Universal",
+        "Capitol"
+    ],
     "Creedence Clearwater Revival": [],
     "EJAE": [],
     "The Beach Boys": [],
@@ -91,10 +97,7 @@ var data = {
     "The Turnpike Troubadours": [],
     "The Marias": [],
     "ATEEZ": [],
-    "The Red Clay Strays": [
-        "RCA",
-        "Thirty Tigers"
-    ],
+    "The Red Clay Strays": [],
     "Mariah The Scientist": [],
     "Red Hot Chili Peppers": [],
     "Jason Aldean": [],
@@ -109,4 +112,4 @@ var data = {
     "AUDREY NUNA": [],
     "REI AMI": [],
     "Led Zeppelin": []
-};var lastUpdated = "07/11";
+};var lastUpdated = "07/12";
