@@ -2,12 +2,15 @@ var data = {
     "Morgan Wallen": [],
     "Lorde": [],
     "Kendrick Lamar": [],
-    "Benson Boone": [],
-    "Sabrina Carpenter": [],
-    "KATSEYE": [
-        "Hybe UMG",
-        "Geffen"
+    "Benson Boone": [
+        "Warner Bros",
+        "Night Street"
     ],
+    "Sabrina Carpenter": [
+        "Hollywood",
+        "Island"
+    ],
+    "KATSEYE": [],
     "Playboi Carti": [],
     "Alex Warren": [],
     "SZA": [],
@@ -17,7 +20,13 @@ var data = {
     "Russ": [],
     "Taylor Swift": [],
     "Billie Eilish": [],
-    "Jelly Roll": [],
+    "Jelly Roll": [
+        "Slumerican",
+        "Bad Apple Inc.",
+        "War Dog",
+        "Wyte Music",
+        "BBR"
+    ],
     "Teddy Swims": [],
     "Chappell Roan": [],
     "Drake": [],
@@ -27,9 +36,7 @@ var data = {
     "Lady Gaga": [],
     "Barbra Streisand": [],
     "Bruce Sprinsteen": [],
-    "BigXthaPlug": [
-        "UnitedMasters"
-    ],
+    "BigXthaPlug": [],
     "Post Malone": [],
     "Chris Stapleton": [],
     "Ed Sheeran": [],
@@ -37,10 +44,7 @@ var data = {
     "Metallica": [],
     "Bad Bunny": [],
     "Hozier": [],
-    "sombr": [
-        "SMB",
-        "Warner Bros"
-    ],
+    "sombr": [],
     "Jessie Murph": [],
     "Bailey Zimmerman": [],
     "Ella Langley": [],
@@ -73,43 +77,57 @@ var data = {
     "ILLIT": [],
     "Twenty One Pilots": [],
     "AC/DC": [],
-    "Toby Keith": [],
+    "Toby Keith": [
+        "Mercury Nashville",
+        "Polydor",
+        "A&M",
+        "DreamWorks Nashville",
+        "Show Dog-Universal Music (formerly Show Dog Nashville)",
+        "Show Dog-Universal Music"
+    ],
     "Lola Young": [],
     "Forrest Frank": [],
     "Sons Of Legion": [],
     "Eagles": [],
     "Charli xcx": [],
     "ROSE": [],
-    "Lewis Capaldi": [
-        "EMI",
-        "Vertigo",
-        "Universal",
-        "Capitol"
-    ],
+    "Lewis Capaldi": [],
     "Creedence Clearwater Revival": [],
     "EJAE": [],
     "The Beach Boys": [],
     "Thomas Rhett": [],
-    "Lil Wayne": [],
+    "Lil Wayne": [
+        "Universal",
+        "Young Money",
+        "Republic",
+        "Cash Money"
+    ],
     "Lainey Wilson": [],
     "Frank Ocean": [],
     "My Chemical Romance": [],
     "The Turnpike Troubadours": [],
-    "The Marias": [],
+    "The Marias": [
+        "Atlantic"
+    ],
     "ATEEZ": [],
     "The Red Clay Strays": [],
     "Mariah The Scientist": [],
     "Red Hot Chili Peppers": [],
     "Jason Aldean": [],
     "Travis Scott": [],
-    "Lil Tecca": [],
+    "Lil Tecca": [
+        "Galactic",
+        "Republic"
+    ],
     "Journey": [],
     "Deftones": [],
     "Russell Dickerson": [],
     "Mac Miller": [],
     "System Of A Down": [],
     "HUNTR/X": [],
-    "AUDREY NUNA": [],
+    "AUDREY NUNA": [
+        "Arista"
+    ],
     "REI AMI": [],
     "Led Zeppelin": []
-};var lastUpdated = "07/12";
+};var lastUpdated = "07/13";
