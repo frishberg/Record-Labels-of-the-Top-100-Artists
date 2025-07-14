@@ -2,34 +2,35 @@ var data = {
     "Morgan Wallen": [],
     "Lorde": [],
     "Kendrick Lamar": [],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
-    ],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
-    ],
+    "Benson Boone": [],
+    "Sabrina Carpenter": [],
     "KATSEYE": [],
     "Playboi Carti": [],
     "Alex Warren": [],
     "SZA": [],
-    "Shaboozey": [],
+    "Shaboozey": [
+        "Republic",
+        "Empire"
+    ],
     "Luke Combs": [],
     "The Weeknd": [],
     "Russ": [],
     "Taylor Swift": [],
     "Billie Eilish": [],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
+    "Jelly Roll": [],
     "Teddy Swims": [],
-    "Chappell Roan": [],
-    "Drake": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
+    "Drake": [
+        "OVO Sound",
+        "Republic",
+        "Young Money",
+        "Cash Money",
+        "Aspire"
+    ],
     "Tate McRae": [],
     "Fleetwood Mac": [],
     "Zach Bryan": [],
@@ -45,12 +46,22 @@ var data = {
     "Bad Bunny": [],
     "Hozier": [],
     "sombr": [],
-    "Jessie Murph": [],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
     "Bailey Zimmerman": [],
-    "Ella Langley": [],
+    "Ella Langley": [
+        "Sony Nashville",
+        "Columbia"
+    ],
     "Tyler, The Creator": [],
     "Myles Smith": [],
-    "Karol G": [],
+    "Karol G": [
+        "Universal Latino",
+        "Bichota",
+        "Interscope"
+    ],
     "Radiohead": [],
     "Fuerza Regida": [],
     "Doechii": [],
@@ -74,19 +85,21 @@ var data = {
     "Jean-Yves Thibaudet": [],
     "Miley Cyrus": [],
     "Linkin Park": [],
-    "ILLIT": [],
+    "ILLIT": [
+        "Belift",
+        "Polydor/Universal",
+        "Polydor",
+        "Universal"
+    ],
     "Twenty One Pilots": [],
     "AC/DC": [],
-    "Toby Keith": [
-        "Mercury Nashville",
-        "Polydor",
-        "A&M",
-        "DreamWorks Nashville",
-        "Show Dog-Universal Music (formerly Show Dog Nashville)",
-        "Show Dog-Universal Music"
-    ],
+    "Toby Keith": [],
     "Lola Young": [],
-    "Forrest Frank": [],
+    "Forrest Frank": [
+        "River House",
+        "Warner Bros",
+        "10K Projects"
+    ],
     "Sons Of Legion": [],
     "Eagles": [],
     "Charli xcx": [],
@@ -96,38 +109,29 @@ var data = {
     "EJAE": [],
     "The Beach Boys": [],
     "Thomas Rhett": [],
-    "Lil Wayne": [
-        "Universal",
-        "Young Money",
-        "Republic",
-        "Cash Money"
-    ],
+    "Lil Wayne": [],
     "Lainey Wilson": [],
     "Frank Ocean": [],
     "My Chemical Romance": [],
-    "The Turnpike Troubadours": [],
-    "The Marias": [
-        "Atlantic"
+    "The Turnpike Troubadours": [
+        "Bossier City Records",
+        "Thirty Tigers"
     ],
+    "The Marias": [],
     "ATEEZ": [],
     "The Red Clay Strays": [],
     "Mariah The Scientist": [],
     "Red Hot Chili Peppers": [],
     "Jason Aldean": [],
     "Travis Scott": [],
-    "Lil Tecca": [
-        "Galactic",
-        "Republic"
-    ],
+    "Lil Tecca": [],
     "Journey": [],
     "Deftones": [],
     "Russell Dickerson": [],
     "Mac Miller": [],
     "System Of A Down": [],
     "HUNTR/X": [],
-    "AUDREY NUNA": [
-        "Arista"
-    ],
+    "AUDREY NUNA": [],
     "REI AMI": [],
     "Led Zeppelin": []
-};var lastUpdated = "07/13";
+};var lastUpdated = "07/14";
