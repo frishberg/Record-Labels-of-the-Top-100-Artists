@@ -8,10 +8,7 @@ var data = {
     "Playboi Carti": [],
     "Alex Warren": [],
     "SZA": [],
-    "Shaboozey": [
-        "Republic",
-        "Empire"
-    ],
+    "Shaboozey": [],
     "Luke Combs": [],
     "The Weeknd": [],
     "Russ": [],
@@ -19,18 +16,8 @@ var data = {
     "Billie Eilish": [],
     "Jelly Roll": [],
     "Teddy Swims": [],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement"
-    ],
-    "Drake": [
-        "OVO Sound",
-        "Republic",
-        "Young Money",
-        "Cash Money",
-        "Aspire"
-    ],
+    "Chappell Roan": [],
+    "Drake": [],
     "Tate McRae": [],
     "Fleetwood Mac": [],
     "Zach Bryan": [],
@@ -41,27 +28,21 @@ var data = {
     "Post Malone": [],
     "Chris Stapleton": [],
     "Ed Sheeran": [],
-    "Bruno Mars": [],
+    "Bruno Mars": [
+        "Universal Motown",
+        "Atlantic",
+        "Elektra"
+    ],
     "Metallica": [],
     "Bad Bunny": [],
     "Hozier": [],
     "sombr": [],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Jessie Murph": [],
     "Bailey Zimmerman": [],
-    "Ella Langley": [
-        "Sony Nashville",
-        "Columbia"
-    ],
+    "Ella Langley": [],
     "Tyler, The Creator": [],
     "Myles Smith": [],
-    "Karol G": [
-        "Universal Latino",
-        "Bichota",
-        "Interscope"
-    ],
+    "Karol G": [],
     "Radiohead": [],
     "Fuerza Regida": [],
     "Doechii": [],
@@ -85,21 +66,12 @@ var data = {
     "Jean-Yves Thibaudet": [],
     "Miley Cyrus": [],
     "Linkin Park": [],
-    "ILLIT": [
-        "Belift",
-        "Polydor/Universal",
-        "Polydor",
-        "Universal"
-    ],
+    "ILLIT": [],
     "Twenty One Pilots": [],
     "AC/DC": [],
     "Toby Keith": [],
     "Lola Young": [],
-    "Forrest Frank": [
-        "River House",
-        "Warner Bros",
-        "10K Projects"
-    ],
+    "Forrest Frank": [],
     "Sons Of Legion": [],
     "Eagles": [],
     "Charli xcx": [],
@@ -113,10 +85,7 @@ var data = {
     "Lainey Wilson": [],
     "Frank Ocean": [],
     "My Chemical Romance": [],
-    "The Turnpike Troubadours": [
-        "Bossier City Records",
-        "Thirty Tigers"
-    ],
+    "The Turnpike Troubadours": [],
     "The Marias": [],
     "ATEEZ": [],
     "The Red Clay Strays": [],
@@ -130,8 +99,8 @@ var data = {
     "Russell Dickerson": [],
     "Mac Miller": [],
     "System Of A Down": [],
-    "HUNTR/X": [],
+    "HUNTR/X: EJAE, Audrey Nuna & REI AMI": [],
     "AUDREY NUNA": [],
     "REI AMI": [],
     "Led Zeppelin": []
-};var lastUpdated = "07/14";
+};var lastUpdated = "07/15";
