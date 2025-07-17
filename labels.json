@@ -1,7 +1,12 @@
 {
     "Morgan Wallen": [],
     "Sabrina Carpenter": [],
-    "Kendrick Lamar": [],
+    "Kendrick Lamar": [
+        "Interscope",
+        "Top Dawg",
+        "Aftermath",
+        "PGLang"
+    ],
     "Drake": [],
     "Benson Boone": [],
     "Taylor Swift": [],
@@ -12,25 +17,12 @@
     "The Weeknd": [],
     "HUNTR/X: EJAE, Audrey Nuna & REI AMI": [],
     "Billie Eilish": [],
-    "Shaboozey": [
-        "Republic",
-        "Empire"
-    ],
+    "Shaboozey": [],
     "Fleetwood Mac": [],
-    "Kesha": [
-        "Kemosabe",
-        "RCA",
-        "Kesha"
-    ],
+    "Kesha": [],
     "KATSEYE": [],
     "Chappell Roan": [],
-    "Jelly Roll": [
-        "Slumerican",
-        "Bad Apple Inc.",
-        "War Dog",
-        "Wyte Music",
-        "BBR"
-    ],
+    "Jelly Roll": [],
     "Tate McRae": [],
     "Teddy Swims": [],
     "Toby Keith": [],
@@ -49,7 +41,10 @@
     "Hozier": [],
     "Nirvana": [],
     "BigXthaPlug": [],
-    "Jessie Murph": [],
+    "Jessie Murph": [
+        "Disruptor",
+        "Columbia"
+    ],
     "ENHYPEN": [],
     "Bailey Zimmerman": [],
     "Ella Langley": [],
@@ -60,26 +55,14 @@
     "Playboi Carti": [],
     "Charli xcx": [],
     "Fuerza Regida": [],
-    "Lynyrd Skynyrd": [
-        "MCA",
-        "Atlantic",
-        "Capricorn",
-        "CMC International",
-        "Sanctuary",
-        "Universal",
-        "Roadrunner/Loud & Proud",
-        "Roadrunner"
-    ],
+    "Lynyrd Skynyrd": [],
     "Ravyn Lenae": [],
     "Ariana Grande": [],
     "Chris Brown": [],
     "Gracie Abrams": [],
     "Riley Green": [],
     "Linkin Park": [],
-    "Megan Moroney": [
-        "Arista Nashville",
-        "Columbia"
-    ],
+    "Megan Moroney": [],
     "Leon Thomas": [],
     "Ozzy Osbourne": [],
     "AC/DC": [],
@@ -93,38 +76,49 @@
     "Vulfpeck": [],
     "Brandon Lake": [],
     "Tom Petty And The Heartbreakers": [],
-    "Lainey Wilson": [],
+    "Lainey Wilson": [
+        "Cupit",
+        "Lone Chief",
+        "BBR"
+    ],
     "Bruce Sprinsteen": [],
     "Led Zeppelin": [],
     "Deftones": [],
     "The Beatles": [],
     "Oasis": [],
-    "Lana Del Rey": [],
+    "Lana Del Rey": [
+        "5 Points",
+        "Stranger",
+        "Polydor",
+        "Interscope"
+    ],
     "My Chemical Romance": [],
     "Queen": [],
-    "Tyler Childers": [],
+    "Tyler Childers": [
+        "Hickman Holler Records",
+        "Thirty Tigers",
+        "RCA"
+    ],
     "The Marias": [],
     "The Beach Boys": [],
     "Stray Kids": [],
     "Cardi B": [],
     "Thomas Rhett": [],
     "Forrest Frank": [],
-    "Katy Perry": [
-        "Red Hill",
-        "Java",
-        "Columbia",
-        "Capitol"
-    ],
+    "Katy Perry": [],
     "Lola Young": [],
     "Mac Miller": [],
     "Pink Floyd": [],
     "Journey": [],
     "Noah Kahan": [],
     "ATEEZ": [],
-    "Barbra Streisand": [
-        "Columbia"
+    "Barbra Streisand": [],
+    "Mariah The Scientist": [
+        "Epic (current)",
+        "One Umbrella",
+        "RCA",
+        "Epic"
     ],
-    "Mariah The Scientist": [],
     "Sleep Token": [],
     "Red Hot Chili Peppers": [],
     "Luke Bryan": [],
