@@ -1,20 +1,21 @@
 {
     "Morgan Wallen": [],
     "Sabrina Carpenter": [],
-    "Kendrick Lamar": [
-        "Interscope",
-        "Top Dawg",
-        "Aftermath",
-        "PGLang"
-    ],
+    "Kendrick Lamar": [],
     "Drake": [],
     "Benson Boone": [],
     "Taylor Swift": [],
     "Zach Bryan": [],
     "Alex Warren": [],
     "SZA": [],
-    "Luke Combs": [],
-    "The Weeknd": [],
+    "Luke Combs": [
+        "River House Artists",
+        "Sony Music Nashville"
+    ],
+    "The Weeknd": [
+        "XO",
+        "Republic"
+    ],
     "HUNTR/X: EJAE, Audrey Nuna & REI AMI": [],
     "Billie Eilish": [],
     "Shaboozey": [],
@@ -40,11 +41,10 @@
     "Lorde": [],
     "Hozier": [],
     "Nirvana": [],
-    "BigXthaPlug": [],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
+    "BigXthaPlug": [
+        "UnitedMasters"
     ],
+    "Jessie Murph": [],
     "ENHYPEN": [],
     "Bailey Zimmerman": [],
     "Ella Langley": [],
@@ -76,29 +76,16 @@
     "Vulfpeck": [],
     "Brandon Lake": [],
     "Tom Petty And The Heartbreakers": [],
-    "Lainey Wilson": [
-        "Cupit",
-        "Lone Chief",
-        "BBR"
-    ],
+    "Lainey Wilson": [],
     "Bruce Sprinsteen": [],
     "Led Zeppelin": [],
     "Deftones": [],
     "The Beatles": [],
     "Oasis": [],
-    "Lana Del Rey": [
-        "5 Points",
-        "Stranger",
-        "Polydor",
-        "Interscope"
-    ],
+    "Lana Del Rey": [],
     "My Chemical Romance": [],
     "Queen": [],
-    "Tyler Childers": [
-        "Hickman Holler Records",
-        "Thirty Tigers",
-        "RCA"
-    ],
+    "Tyler Childers": [],
     "The Marias": [],
     "The Beach Boys": [],
     "Stray Kids": [],
@@ -110,19 +97,23 @@
     "Mac Miller": [],
     "Pink Floyd": [],
     "Journey": [],
-    "Noah Kahan": [],
+    "Noah Kahan": [
+        "Republic",
+        "Universal",
+        "Mercury"
+    ],
     "ATEEZ": [],
     "Barbra Streisand": [],
-    "Mariah The Scientist": [
-        "Epic (current)",
-        "One Umbrella",
-        "RCA",
-        "Epic"
-    ],
+    "Mariah The Scientist": [],
     "Sleep Token": [],
     "Red Hot Chili Peppers": [],
     "Luke Bryan": [],
     "Tucker Wetmore": [],
-    "Lil Wayne": [],
+    "Lil Wayne": [
+        "Universal",
+        "Young Money",
+        "Republic",
+        "Cash Money"
+    ],
     "Jason Aldean": []
 }
