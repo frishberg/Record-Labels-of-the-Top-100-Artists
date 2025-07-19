@@ -3,19 +3,16 @@ var data = {
     "Sabrina Carpenter": [],
     "Kendrick Lamar": [],
     "Drake": [],
-    "Benson Boone": [],
+    "Benson Boone": [
+        "Warner Bros",
+        "Night Street"
+    ],
     "Taylor Swift": [],
     "Zach Bryan": [],
     "Alex Warren": [],
     "SZA": [],
-    "Luke Combs": [
-        "River House Artists",
-        "Sony Music Nashville"
-    ],
-    "The Weeknd": [
-        "XO",
-        "Republic"
-    ],
+    "Luke Combs": [],
+    "The Weeknd": [],
     "HUNTR/X: EJAE, Audrey Nuna & REI AMI": [],
     "Billie Eilish": [],
     "Shaboozey": [],
@@ -41,9 +38,7 @@ var data = {
     "Lorde": [],
     "Hozier": [],
     "Nirvana": [],
-    "BigXthaPlug": [
-        "UnitedMasters"
-    ],
+    "BigXthaPlug": [],
     "Jessie Murph": [],
     "ENHYPEN": [],
     "Bailey Zimmerman": [],
@@ -72,7 +67,13 @@ var data = {
     "Black Sabbath": [],
     "Karol G": [],
     "GloRilla": [],
-    "Coldplay": [],
+    "Coldplay": [
+        "Fierce Panda",
+        "Parlophone",
+        "Nettwerk",
+        "Capitol",
+        "Atlantic"
+    ],
     "Vulfpeck": [],
     "Brandon Lake": [],
     "Tom Petty And The Heartbreakers": [],
@@ -85,7 +86,11 @@ var data = {
     "Lana Del Rey": [],
     "My Chemical Romance": [],
     "Queen": [],
-    "Tyler Childers": [],
+    "Tyler Childers": [
+        "Hickman Holler Records",
+        "Thirty Tigers",
+        "RCA"
+    ],
     "The Marias": [],
     "The Beach Boys": [],
     "Stray Kids": [],
@@ -97,23 +102,17 @@ var data = {
     "Mac Miller": [],
     "Pink Floyd": [],
     "Journey": [],
-    "Noah Kahan": [
-        "Republic",
-        "Universal",
-        "Mercury"
-    ],
+    "Noah Kahan": [],
     "ATEEZ": [],
     "Barbra Streisand": [],
     "Mariah The Scientist": [],
     "Sleep Token": [],
     "Red Hot Chili Peppers": [],
-    "Luke Bryan": [],
-    "Tucker Wetmore": [],
-    "Lil Wayne": [
-        "Universal",
-        "Young Money",
-        "Republic",
-        "Cash Money"
+    "Luke Bryan": [
+        "Capitol Nashville",
+        "Row Crop"
     ],
+    "Tucker Wetmore": [],
+    "Lil Wayne": [],
     "Jason Aldean": []
-};var lastUpdated = "07/18";
+};var lastUpdated = "07/19";
