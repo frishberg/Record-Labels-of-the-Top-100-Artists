@@ -3,10 +3,7 @@ var data = {
     "Sabrina Carpenter": [],
     "Kendrick Lamar": [],
     "Drake": [],
-    "Benson Boone": [
-        "Warner Bros",
-        "Night Street"
-    ],
+    "Benson Boone": [],
     "Taylor Swift": [],
     "Zach Bryan": [],
     "Alex Warren": [],
@@ -31,29 +28,53 @@ var data = {
     "Post Malone": [],
     "Bruno Mars": [],
     "Ed Sheeran": [],
-    "Bad Bunny": [],
+    "Bad Bunny": [
+        "Hear This Music",
+        "Rimas"
+    ],
     "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee": [],
     "sombr": [],
     "Radiohead": [],
-    "Lorde": [],
+    "Lorde": [
+        "UMG",
+        "Lava",
+        "Republic"
+    ],
     "Hozier": [],
     "Nirvana": [],
     "BigXthaPlug": [],
     "Jessie Murph": [],
-    "ENHYPEN": [],
-    "Bailey Zimmerman": [],
+    "ENHYPEN": [
+        "Belift Lab",
+        "Virgin/Universal Music Japan",
+        "Universal Music Japan"
+    ],
+    "Bailey Zimmerman": [
+        "Warner Bros",
+        "Elektra"
+    ],
     "Ella Langley": [],
     "Doechii": [],
     "Myles Smith": [],
     "Michael Jackson": [],
     "Miley Cyrus": [],
     "Playboi Carti": [],
-    "Charli xcx": [],
+    "Charli xcx": [
+        "Vroom Vroom",
+        "Warner Bros",
+        "Asylum",
+        "Atlantic",
+        "Iamsound"
+    ],
     "Fuerza Regida": [],
     "Lynyrd Skynyrd": [],
     "Ravyn Lenae": [],
     "Ariana Grande": [],
-    "Chris Brown": [],
+    "Chris Brown": [
+        "CBE",
+        "Jive",
+        "RCA"
+    ],
     "Gracie Abrams": [],
     "Riley Green": [],
     "Linkin Park": [],
@@ -67,33 +88,37 @@ var data = {
     "Black Sabbath": [],
     "Karol G": [],
     "GloRilla": [],
-    "Coldplay": [
-        "Fierce Panda",
-        "Parlophone",
-        "Nettwerk",
-        "Capitol",
-        "Atlantic"
-    ],
+    "Coldplay": [],
     "Vulfpeck": [],
     "Brandon Lake": [],
     "Tom Petty And The Heartbreakers": [],
     "Lainey Wilson": [],
     "Bruce Sprinsteen": [],
-    "Led Zeppelin": [],
+    "Led Zeppelin": [
+        "Atlantic",
+        "Swan Song"
+    ],
     "Deftones": [],
     "The Beatles": [],
-    "Oasis": [],
+    "Oasis": [
+        "Creation",
+        "Epic",
+        "Columbia",
+        "Sony",
+        "Big Brother",
+        "Reprise"
+    ],
     "Lana Del Rey": [],
     "My Chemical Romance": [],
     "Queen": [],
-    "Tyler Childers": [
-        "Hickman Holler Records",
-        "Thirty Tigers",
-        "RCA"
-    ],
+    "Tyler Childers": [],
     "The Marias": [],
     "The Beach Boys": [],
-    "Stray Kids": [],
+    "Stray Kids": [
+        "JYP",
+        "Epic Japan",
+        "Republic"
+    ],
     "Cardi B": [],
     "Thomas Rhett": [],
     "Forrest Frank": [],
@@ -108,11 +133,13 @@ var data = {
     "Mariah The Scientist": [],
     "Sleep Token": [],
     "Red Hot Chili Peppers": [],
-    "Luke Bryan": [
-        "Capitol Nashville",
-        "Row Crop"
-    ],
+    "Luke Bryan": [],
     "Tucker Wetmore": [],
-    "Lil Wayne": [],
+    "Lil Wayne": [
+        "Universal",
+        "Young Money",
+        "Republic",
+        "Cash Money"
+    ],
     "Jason Aldean": []
-};var lastUpdated = "07/19";
+};var lastUpdated = "07/20";
