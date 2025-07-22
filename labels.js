@@ -15,20 +15,11 @@ var data = {
     "Shaboozey": [],
     "Fleetwood Mac": [],
     "Kesha": [],
-    "KATSEYE": [
-        "Hybe UMG",
-        "Geffen"
-    ],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement"
-    ],
+    "KATSEYE": [],
+    "Chappell Roan": [],
     "Jelly Roll": [],
     "Tate McRae": [],
-    "Teddy Swims": [
-        "Warner Bros"
-    ],
+    "Teddy Swims": [],
     "Toby Keith": [],
     "Lady Gaga": [],
     "Metallica": [],
@@ -40,21 +31,9 @@ var data = {
     "Bad Bunny": [],
     "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee": [],
     "sombr": [],
-    "Radiohead": [
-        "EMI",
-        "XL",
-        "Ticker Tape Ltd.",
-        "Hostess",
-        "TBD",
-        "Parlophone",
-        "Capitol"
-    ],
+    "Radiohead": [],
     "Lorde": [],
-    "Hozier": [
-        "Rubyworks",
-        "Island",
-        "Columbia"
-    ],
+    "Hozier": [],
     "Nirvana": [],
     "BigXthaPlug": [],
     "Jessie Murph": [],
@@ -77,11 +56,7 @@ var data = {
     "Linkin Park": [],
     "Megan Moroney": [],
     "Leon Thomas": [],
-    "Ozzy Osbourne": [
-        "Epic",
-        "CBS",
-        "Jet"
-    ],
+    "Ozzy Osbourne": [],
     "AC/DC": [],
     "Creedence Clearwater Revival": [],
     "Zach Top": [],
@@ -92,29 +67,18 @@ var data = {
     "Coldplay": [],
     "Vulfpeck": [],
     "Brandon Lake": [],
-    "Tom Petty And The Heartbreakers": [
-        "Shelter",
-        "Backstreet",
-        "MCA",
-        "Warner Bros"
-    ],
+    "Tom Petty And The Heartbreakers": [],
     "Lainey Wilson": [],
-    "Bruce Sprinsteen": [],
+    "Bruce Sprinsteen": [
+        "Columbia"
+    ],
     "Led Zeppelin": [],
     "Deftones": [],
     "The Beatles": [],
     "Oasis": [],
     "Lana Del Rey": [],
     "My Chemical Romance": [],
-    "Queen": [
-        "EMI",
-        "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
-    ],
+    "Queen": [],
     "Tyler Childers": [],
     "The Marias": [],
     "The Beach Boys": [],
@@ -131,9 +95,7 @@ var data = {
     "Journey": [],
     "Noah Kahan": [],
     "ATEEZ": [],
-    "Barbra Streisand": [
-        "Columbia"
-    ],
+    "Barbra Streisand": [],
     "Mariah The Scientist": [],
     "Sleep Token": [],
     "Red Hot Chili Peppers": [],
@@ -141,4 +103,4 @@ var data = {
     "Tucker Wetmore": [],
     "Lil Wayne": [],
     "Jason Aldean": []
-};var lastUpdated = "07/21";
+};var lastUpdated = "07/22";
