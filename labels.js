@@ -14,11 +14,11 @@ var data = {
     "Drake": [],
     "SZA": [],
     "Shaboozey": [],
-    "Taylor Swift": [
-        "Republic",
-        "Big Machine"
+    "Taylor Swift": [],
+    "The Weeknd": [
+        "XO",
+        "Republic"
     ],
-    "The Weeknd": [],
     "Luke Combs": [],
     "Chappell Roan": [],
     "Zach Bryan": [],
@@ -30,9 +30,7 @@ var data = {
     "Giveon": [],
     "Bad Bunny": [],
     "Bruno Mars": [],
-    "Chris Stapleton": [
-        "Mercury Nashville"
-    ],
+    "Chris Stapleton": [],
     "Lady Gaga": [],
     "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee": [],
     "Post Malone": [],
@@ -52,10 +50,7 @@ var data = {
     "Myles Smith": [],
     "Bailey Zimmerman": [],
     "Ella Langley": [],
-    "Ravyn Lenae": [
-        "Atlantic",
-        "Three Twenty Three"
-    ],
+    "Ravyn Lenae": [],
     "Metallica": [],
     "Riley Green": [],
     "Coldplay": [],
@@ -67,20 +62,16 @@ var data = {
     "Wet Leg": [],
     "Leon Thomas": [],
     "Fuerza Regida": [],
-    "Linkin Park": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "Nirvana": [],
     "Ariana Grande": [],
     "GloRilla": [],
     "Gracie Abrams": [],
     "Gigi Perez": [],
-    "Michael Jackson": [
-        "Steeltown",
-        "Motown",
-        "Epic",
-        "Legacy",
-        "Sony",
-        "MJJ Productions"
-    ],
+    "Michael Jackson": [],
     "BLACKPINK": [],
     "Megan Moroney": [],
     "Miley Cyrus": [],
@@ -94,12 +85,7 @@ var data = {
     "Karol G": [],
     "RIIZE": [],
     "The Marias": [],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Lola Young": [],
     "AC/DC": [],
     "Thomas Rhett": [],
@@ -115,15 +101,19 @@ var data = {
     "Red Hot Chili Peppers": [],
     "Ozzy Osbourne": [],
     "Jason Aldean": [],
-    "Queen": [],
+    "Queen": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+    ],
     "Tucker Wetmore": [],
     "mgk": [],
     "Journey": [],
     "Lewis Capaldi": [],
     "Max McNown": [],
-    "Nate Smith": [
-        "Word",
-        "Arista Nashville",
-        "RCA"
-    ]
-};var lastUpdated = "07/23";
+    "Nate Smith": []
+};var lastUpdated = "07/24";
