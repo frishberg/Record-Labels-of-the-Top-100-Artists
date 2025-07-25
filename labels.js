@@ -15,10 +15,7 @@ var data = {
     "SZA": [],
     "Shaboozey": [],
     "Taylor Swift": [],
-    "The Weeknd": [
-        "XO",
-        "Republic"
-    ],
+    "The Weeknd": [],
     "Luke Combs": [],
     "Chappell Roan": [],
     "Zach Bryan": [],
@@ -41,10 +38,7 @@ var data = {
     "KATSEYE": [],
     "Hozier": [],
     "Backstreet Boys": [],
-    "Jessie Murph": [
-        "Disruptor",
-        "Columbia"
-    ],
+    "Jessie Murph": [],
     "BigXthaPlug": [],
     "Tyler, The Creator": [],
     "Myles Smith": [],
@@ -62,10 +56,7 @@ var data = {
     "Wet Leg": [],
     "Leon Thomas": [],
     "Fuerza Regida": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Linkin Park": [],
     "Nirvana": [],
     "Ariana Grande": [],
     "GloRilla": [],
@@ -85,14 +76,23 @@ var data = {
     "Karol G": [],
     "RIIZE": [],
     "The Marias": [],
-    "Eagles": [],
+    "Eagles": [
+        "Asylum",
+        "Geffen",
+        "Polydor",
+        "Lost Highway"
+    ],
     "Lola Young": [],
     "AC/DC": [],
     "Thomas Rhett": [],
     "ROSE": [],
     "Creedence Clearwater Revival": [],
     "Sons Of Legion": [],
-    "My Chemical Romance": [],
+    "My Chemical Romance": [
+        "Eyeball",
+        "Reprise",
+        "Warner Bros"
+    ],
     "Black Sabbath": [],
     "Forrest Frank": [],
     "Lynyrd Skynyrd": [],
@@ -101,19 +101,11 @@ var data = {
     "Red Hot Chili Peppers": [],
     "Ozzy Osbourne": [],
     "Jason Aldean": [],
-    "Queen": [
-        "EMI",
-        "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
-    ],
+    "Queen": [],
     "Tucker Wetmore": [],
     "mgk": [],
     "Journey": [],
     "Lewis Capaldi": [],
     "Max McNown": [],
     "Nate Smith": []
-};var lastUpdated = "07/24";
+};var lastUpdated = "07/25";
