@@ -1,6 +1,10 @@
 var data = {
     "Morgan Wallen": [],
-    "Justin Bieber": [],
+    "Justin Bieber": [
+        "Island",
+        "EMI",
+        "Universal"
+    ],
     "Travis Scott": [],
     "Clipse": [],
     "JACKBOYS": [],
@@ -14,10 +18,20 @@ var data = {
     "Drake": [],
     "SZA": [],
     "Shaboozey": [],
-    "Taylor Swift": [],
-    "The Weeknd": [],
+    "Taylor Swift": [
+        "Republic",
+        "Big Machine"
+    ],
+    "The Weeknd": [
+        "XO",
+        "Republic"
+    ],
     "Luke Combs": [],
-    "Chappell Roan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
     "Zach Bryan": [],
     "Billie Eilish": [],
     "Teddy Swims": [],
@@ -56,7 +70,10 @@ var data = {
     "Wet Leg": [],
     "Leon Thomas": [],
     "Fuerza Regida": [],
-    "Linkin Park": [],
+    "Linkin Park": [
+        "Warner Bros",
+        "Machine Shop"
+    ],
     "Nirvana": [],
     "Ariana Grande": [],
     "GloRilla": [],
@@ -67,7 +84,11 @@ var data = {
     "Megan Moroney": [],
     "Miley Cyrus": [],
     "ENHYPEN": [],
-    "Brandon Lake": [],
+    "Brandon Lake": [
+        "Bethel Music",
+        "Tribl",
+        "Provident"
+    ],
     "Lainey Wilson": [],
     "Playboi Carti": [],
     "Lorde": [],
@@ -76,23 +97,16 @@ var data = {
     "Karol G": [],
     "RIIZE": [],
     "The Marias": [],
-    "Eagles": [
-        "Asylum",
-        "Geffen",
-        "Polydor",
-        "Lost Highway"
-    ],
+    "Eagles": [],
     "Lola Young": [],
     "AC/DC": [],
-    "Thomas Rhett": [],
+    "Thomas Rhett": [
+        "Valory/Big Machine"
+    ],
     "ROSE": [],
     "Creedence Clearwater Revival": [],
     "Sons Of Legion": [],
-    "My Chemical Romance": [
-        "Eyeball",
-        "Reprise",
-        "Warner Bros"
-    ],
+    "My Chemical Romance": [],
     "Black Sabbath": [],
     "Forrest Frank": [],
     "Lynyrd Skynyrd": [],
@@ -105,7 +119,12 @@ var data = {
     "Tucker Wetmore": [],
     "mgk": [],
     "Journey": [],
-    "Lewis Capaldi": [],
+    "Lewis Capaldi": [
+        "EMI",
+        "Vertigo",
+        "Universal",
+        "Capitol"
+    ],
     "Max McNown": [],
     "Nate Smith": []
-};var lastUpdated = "07/25";
+};var lastUpdated = "07/26";
