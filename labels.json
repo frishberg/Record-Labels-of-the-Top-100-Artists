@@ -1,10 +1,6 @@
 {
     "Morgan Wallen": [],
-    "Justin Bieber": [
-        "Island",
-        "EMI",
-        "Universal"
-    ],
+    "Justin Bieber": [],
     "Travis Scott": [],
     "Clipse": [],
     "JACKBOYS": [],
@@ -12,26 +8,19 @@
     "TWICE": [],
     "Kendrick Lamar": [],
     "Benson Boone": [],
-    "Sabrina Carpenter": [],
+    "Sabrina Carpenter": [
+        "Hollywood",
+        "Island"
+    ],
     "HUNTR/X: EJAE, Audrey Nuna & REI AMI": [],
     "Alex Warren": [],
     "Drake": [],
     "SZA": [],
     "Shaboozey": [],
-    "Taylor Swift": [
-        "Republic",
-        "Big Machine"
-    ],
-    "The Weeknd": [
-        "XO",
-        "Republic"
-    ],
+    "Taylor Swift": [],
+    "The Weeknd": [],
     "Luke Combs": [],
-    "Chappell Roan": [
-        "Atlantic",
-        "Island",
-        "Amusement"
-    ],
+    "Chappell Roan": [],
     "Zach Bryan": [],
     "Billie Eilish": [],
     "Teddy Swims": [],
@@ -41,7 +30,9 @@
     "Giveon": [],
     "Bad Bunny": [],
     "Bruno Mars": [],
-    "Chris Stapleton": [],
+    "Chris Stapleton": [
+        "Mercury Nashville"
+    ],
     "Lady Gaga": [],
     "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee": [],
     "Post Malone": [],
@@ -84,11 +75,7 @@
     "Megan Moroney": [],
     "Miley Cyrus": [],
     "ENHYPEN": [],
-    "Brandon Lake": [
-        "Bethel Music",
-        "Tribl",
-        "Provident"
-    ],
+    "Brandon Lake": [],
     "Lainey Wilson": [],
     "Playboi Carti": [],
     "Lorde": [],
@@ -100,9 +87,7 @@
     "Eagles": [],
     "Lola Young": [],
     "AC/DC": [],
-    "Thomas Rhett": [
-        "Valory/Big Machine"
-    ],
+    "Thomas Rhett": [],
     "ROSE": [],
     "Creedence Clearwater Revival": [],
     "Sons Of Legion": [],
@@ -119,12 +104,7 @@
     "Tucker Wetmore": [],
     "mgk": [],
     "Journey": [],
-    "Lewis Capaldi": [
-        "EMI",
-        "Vertigo",
-        "Universal",
-        "Capitol"
-    ],
+    "Lewis Capaldi": [],
     "Max McNown": [],
     "Nate Smith": []
 }
