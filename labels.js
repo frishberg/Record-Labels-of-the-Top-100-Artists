@@ -8,10 +8,7 @@ var data = {
     "TWICE": [],
     "Kendrick Lamar": [],
     "Benson Boone": [],
-    "Sabrina Carpenter": [
-        "Hollywood",
-        "Island"
-    ],
+    "Sabrina Carpenter": [],
     "HUNTR/X: EJAE, Audrey Nuna & REI AMI": [],
     "Alex Warren": [],
     "Drake": [],
@@ -20,19 +17,33 @@ var data = {
     "Taylor Swift": [],
     "The Weeknd": [],
     "Luke Combs": [],
-    "Chappell Roan": [],
-    "Zach Bryan": [],
+    "Chappell Roan": [
+        "Atlantic",
+        "Island",
+        "Amusement"
+    ],
+    "Zach Bryan": [
+        "Warner Bros",
+        "Belting Bronco"
+    ],
     "Billie Eilish": [],
-    "Teddy Swims": [],
+    "Teddy Swims": [
+        "Warner Bros"
+    ],
     "Tate McRae": [],
-    "Fleetwood Mac": [],
+    "Fleetwood Mac": [
+        "Blue Horizon",
+        "Reprise",
+        "Sire",
+        "CBS",
+        "Warner Bros",
+        "LMJS Productions"
+    ],
     "Jelly Roll": [],
     "Giveon": [],
     "Bad Bunny": [],
     "Bruno Mars": [],
-    "Chris Stapleton": [
-        "Mercury Nashville"
-    ],
+    "Chris Stapleton": [],
     "Lady Gaga": [],
     "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee": [],
     "Post Malone": [],
@@ -52,7 +63,13 @@ var data = {
     "Ravyn Lenae": [],
     "Metallica": [],
     "Riley Green": [],
-    "Coldplay": [],
+    "Coldplay": [
+        "Fierce Panda",
+        "Parlophone",
+        "Nettwerk",
+        "Capitol",
+        "Atlantic"
+    ],
     "Don Toliver": [],
     "Radiohead": [],
     "Chris Brown": [],
@@ -61,10 +78,7 @@ var data = {
     "Wet Leg": [],
     "Leon Thomas": [],
     "Fuerza Regida": [],
-    "Linkin Park": [
-        "Warner Bros",
-        "Machine Shop"
-    ],
+    "Linkin Park": [],
     "Nirvana": [],
     "Ariana Grande": [],
     "GloRilla": [],
@@ -77,7 +91,12 @@ var data = {
     "ENHYPEN": [],
     "Brandon Lake": [],
     "Lainey Wilson": [],
-    "Playboi Carti": [],
+    "Playboi Carti": [
+        "Awful",
+        "AWGE",
+        "Interscope",
+        "Opium"
+    ],
     "Lorde": [],
     "Mariah The Scientist": [],
     "Zach Top": [],
@@ -88,7 +107,12 @@ var data = {
     "Lola Young": [],
     "AC/DC": [],
     "Thomas Rhett": [],
-    "ROSE": [],
+    "ROSE": [
+        "YG",
+        "Interscope",
+        "The Black Label",
+        "Atlantic"
+    ],
     "Creedence Clearwater Revival": [],
     "Sons Of Legion": [],
     "My Chemical Romance": [],
@@ -104,7 +128,12 @@ var data = {
     "Tucker Wetmore": [],
     "mgk": [],
     "Journey": [],
-    "Lewis Capaldi": [],
+    "Lewis Capaldi": [
+        "EMI",
+        "Vertigo",
+        "Universal",
+        "Capitol"
+    ],
     "Max McNown": [],
     "Nate Smith": []
-};var lastUpdated = "07/27";
+};var lastUpdated = "07/28";
