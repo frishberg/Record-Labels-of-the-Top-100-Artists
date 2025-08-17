@@ -1,3 +1,5 @@
 var data = {
-    "Renee Rapp": []
-};var lastUpdated = "08/16";
+    "Renee Rapp": [
+        "Interscope"
+    ]
+};var lastUpdated = "08/17";
