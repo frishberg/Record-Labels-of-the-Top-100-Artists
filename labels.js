@@ -1,3 +1,3 @@
 var data = {
     "Taylor Swift": []
-};var lastUpdated = "08/31";
+};var lastUpdated = "09/01";
