@@ -1,3 +1,3 @@
 var data = {
     "Morgan Wallen": []
-};var lastUpdated = "09/06";
+};var lastUpdated = "09/07";
