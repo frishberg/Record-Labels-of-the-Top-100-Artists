@@ -1,3 +1,3 @@
 var data = {
-    "Sabrina Carpenter": []
-};var lastUpdated = "09/30";
+    "Morgan Wallen": []
+};var lastUpdated = "10/01";
